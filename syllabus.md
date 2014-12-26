@@ -54,11 +54,11 @@ jan-30 fri    Initial project proposals due.
 feb-02 mon   lect09: Statistical inference: linear models including a quantitative covariate                                                          GCF        
 feb-04 wed   lect10: Large scale inference: Empirical Bayes, limma                                                                                    GCF        
 feb-06 fri   HW 1 posted; due Thurs Feb 28                                                                                                                       
-feb-09 mon   no class; Family Day                                                                                                                     na         
+feb-09 mon   no class; Family Day                                                                                                                                
 feb-11 wed   lect11: Large scale inference: multiple testing                                                                                          GCF        
 feb-13 fri   feedback to groups re: initial project proposals. Each group will be assigned an instructor or TA + instructor pair for extra support.              
-feb-16 mon   no class; mid-term break                                                                                                                 na         
-feb-18 wed   no class; mid-term break                                                                                                                 na         
+feb-16 mon   no class; mid-term break                                                                                                                            
+feb-18 wed   no class; mid-term break                                                                                                                            
 feb-23 mon   lect12: Analysis of RNA-Seq data, 1 of 2                                                                                                 PP         
 feb-25 wed   lect13: Analysis of RNA-Seq data, 1 of 2                                                                                                 PP         
 feb-28 thu   HW 1 due                                                                                                                                            
