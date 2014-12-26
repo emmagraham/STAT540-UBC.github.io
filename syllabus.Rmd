@@ -72,20 +72,51 @@ dat_sm <- sdat %>% split(sdat$course)
 dat_sm <- lapply(dat_sm, 'rownames<-', NULL)
 ```
 
+### Prerequisites.
+
+Officially none BUT here in reality ...
+
+**Statistics**: you should have already taken university level introductory statistics course.
+
+**Biology**: no requirements, but you are expected to learn things like the difference between a DNA and RNA and a gene and a genome.
+
+**R**: no experience required but be prepared to do a lot of self-guided learning. Go ahead and start now by installing R and the HIGHLY RECOMMENDED "integrated development environment" (IDE) RStudio! Students are expected to run R on their own computer or a computer they have plenty of access to and control over. The best set-up, if possible, is to bring your own laptop to the computing seminars.
+
+### Evaluation
+
+Homework. Two assignments worth 25 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned.
+
+Group project. Groups formed and projects conceived during January/February. Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
+
+10 points for "other", e.g. participation in class, seminars, and discussion forum, engagement with small computing exercises.
+
+
 <!-- unholy hack to make following two tables less wide and the same wide -->
 <style type="text/css">
 table {
-   max-width: 50%;
+   max-width: 65%;
 }
 </style>
 
-#### STAT 540: Class mettings
+### Class mettings
+
+**Time** : Mon Wed 9:30 - 11am
+
+**Location** : ESB 4192
+
+**Calendar**
 
 ```{r results = 'asis', echo = FALSE}
 knitr::kable(dat_cm[["STAT540"]] %>% select(date, notes, instructor))
 ```
 
-#### STAT 540: Seminars
+### Seminars
+
+**Time**: Wed 12pm - 1pm (but welcome to come after class around 11am)
+
+**Location**: ESB 1042 and 1046
+
+**Calendar**
 
 ```{r results = 'asis', echo = FALSE}
 knitr::kable(dat_sm[["STAT540-Seminar"]] %>% select(date, notes, TA))

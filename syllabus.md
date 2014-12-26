@@ -2,53 +2,96 @@
 
 
 
-<!--
-Until we truly get rolling, you can also see a chronology of the course [from 2013](http://www.stat.ubc.ca/~jenny/STAT545A/current.html).
--->
 
+
+### Prerequisites.
+
+Officially none BUT here in reality ...
+
+**Statistics**: you should have already taken university level introductory statistics course.
+
+**Biology**: no requirements, but you are expected to learn things like the difference between a DNA and RNA and a gene and a genome.
+
+**R**: no experience required but be prepared to do a lot of self-guided learning. Go ahead and start now by installing R and the HIGHLY RECOMMENDED "integrated development environment" (IDE) RStudio! Students are expected to run R on their own computer or a computer they have plenty of access to and control over. The best set-up, if possible, is to bring your own laptop to the computing seminars.
+
+### Evaluation
+
+Homework. Two assignments worth 25 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned.
+
+Group project. Groups formed and projects conceived during January/February. Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
+
+10 points for "other", e.g. participation in class, seminars, and discussion forum, engagement with small computing exercises.
 
 
 <!-- unholy hack to make following two tables less wide and the same wide -->
 <style type="text/css">
 table {
-   max-width: 50%;
+   max-width: 65%;
 }
 </style>
 
-#### STAT 545A
+### Class mettings
+
+**Time** : Mon Wed 9:30 - 11am
+
+**Location** : ESB 4192
+
+**Calendar**
 
 
-date         notes                                                                                                                        
------------  -----------------------------------------------------------------------------------------------------------------------------
-sep-01 mon   no class; Labor Day                                                                                                          
-sep-03 wed   <a href="cm001_course-intro-sw-install-account-signup.html">cm001</a>: Intro to course; S/W install; acct sign-ups           
-sep-08 mon   <a href="cm002_r-rstudio-intro.html">cm002</a>: Deep Thoughts about data analytic work; intro to R and RStudio               
-sep-10 wed   <a href="cm003_r-objects-git-toe-dip.html">cm003</a>: Basic flavors of R objects; Git(Hub) and (R) Markdown crash course     
-sep-15 mon   <a href="cm004_care-feeding-data.html">cm004</a>: Care and feeding of data (data.frames, actually)                           
-sep-17 wed   <a href="cm005_still-data-ggplot2-rmarkdown.html">cm005</a>: Intro to ggplot2; R Markdown                                    
-sep-22 mon   <a href="cm006_q-and-a-more-ggplot2.html">cm006</a>: More on ggplot2; open Q and A on everything so far                      
-sep-24 wed   <a href="cm007_dplyr-intro.html">cm007</a>: Intro to dplyr                                                                   
-sep-29 mon   <a href="cm008_write-function-day1.html">cm008</a>: Writing your own R functions, beginning                                  
-oct-01 wed   <a href="cm009_write-function-data-agg.html">cm009</a>: Writing your own R functions, conclusion; data aggregation with plyr 
-oct-06 mon   <a href="cm010_factors.html">cm010</a>: Be the boss of your factors                                                          
-oct-08 wed   <a href="cm011_files-out-in.html">cm011</a>: Getting data out of R (and back in)                                             
-oct-13 mon   no class; Thanksgiving                                                                                                       
-oct-15 wed   <a href="cm012_effective-graphs.html">cm012</a>: Effective graphs                                                            
+date         notes                                                                           instructor 
+-----------  ------------------------------------------------------------------------------  -----------
+jan-05 mon   cm01: Intro to course                                                           PP         
+jan-07 wed   cm02: Review of probability and statistical inference, 1 of 2                   GCF        
+jan-12 mon   cm03: Review of probability and statistical inference, 2 of 2                   GCF        
+jan-14 wed   cm04: Exploratory analysis                                                      PP         
+jan-19 mon   cm05: Data QC and preprocessing                                                 GCF        
+jan-21 wed   cm06: Statistical inference: two group comparisons                              GCF        
+jan-26 mon   cm07: Statistical inference: more than two groups                               GCF        
+jan-28 wed   cm08: Statistical inference: linear models with 2 categorical covariates        GCF        
+feb-02 mon   cm09: Statistical inference: linear models including a quantitative covariate   GCF        
+feb-04 wed   cm10: Large scale inference: Empirical Bayes, limma                             GCF        
+feb-09 mon   no class; Family Day                                                            na         
+feb-11 wed   cm11: Large scale inference: multiple testing                                   GCF        
+feb-16 mon   no class; mid-term break                                                        na         
+feb-18 wed   no class; mid-term break                                                        na         
+feb-23 mon   cm12: Analysis of RNA-Seq data, 1 of 2                                          PP         
+feb-25 wed   cm13: Analysis of RNA-Seq data, 1 of 2                                          PP         
+mar-02 mon   cm14: Analysis of epigenetic data, focus on methylation                         TBA        
+mar-04 wed   cm15: Principal component analysis                                              PP         
+mar-09 mon   cm16: Cluster analysis                                                          SM         
+mar-11 wed   cm17: Classification                                                            SM         
+mar-16 mon   cm18: Cross validation. Regularization                                          SM         
+mar-18 wed   cm19: Regularization (cont'd). Missingness                                      SM         
+mar-23 mon   cm20: Analysis of gene function, 1 of 2: Gene set analysis                      PP         
+mar-25 wed   cm21: Analysis of gene function, 1 of 2: Gene set analysis                      PP         
+mar-30 mon   cm22: Resampling and the bootstrap                                              SM         
+apr-01 wed   cm23: Guest lecture                                                             TBA        
+apr-06 mon   no class; Easter Monday                                                                    
+apr-08 wed   cm24: Poster session                                                            all        
 
-#### STAT 547M
+### Seminars
+
+**Time**: Wed 12pm - 1pm (but welcome to come after class around 11am)
+
+**Location**: ESB 1042 and 1046
+
+**Calendar**
 
 
-date         notes                                                                                                
------------  -----------------------------------------------------------------------------------------------------
-oct-20 mon   <a href="cm101_practical-graph-tips-tidy-data.html">cm101</a>: Practical graphing tips and tidy data 
-oct-22 wed   <a href="cm102_data-manipulation-finale.html">cm102</a>: Tidy data                                   
-oct-27 mon   <a href="cm103_regular-expressions.html">cm103</a>: Regular expressions and character data           
-oct-29 wed   <a href="cm104_data-cleaning.html">cm104</a>: Data cleaning: the Gapminder example                   
-nov-03 mon   <a href="cm105_pipelines.html">cm105</a>: Task automation and pipelines, GNU Make                    
-nov-05 wed   <a href="cm106_pipelines.html">cm106</a>: ditto                                                      
-nov-10 mon   <a href="cm107_packages.html">cm107</a>: Build your first R package                                  
-nov-12 wed   <a href="cm108_packages.html">cm108</a>: ditto                                                       
-nov-17 mon   <a href="cm109_shiny.html">cm109</a>: Build your first Shiny app                                     
-nov-19 wed   <a href="cm110_shiny.html">cm110</a>: ditto                                                          
-nov-24 mon   <a href="cm111_data-from-web.html">cm111</a>: Get data from the web                                  
-nov-26 wed   <a href="cm112_data-from-web.html">cm112</a>: ditto                                                  
+date         notes                                                                                                               TA  
+-----------  ------------------------------------------------------------------------------------------------------------------  ----
+jan-05 mon   no seminar; student work on their own on R/Rstudio Set Up                                                           na  
+jan-07 wed   sm01: 11am-12pm: R basics and exploring a small gene expression dataset; 12pm-1pm: Molecular biology/genetics 101   TBA 
+jan-14 wed   sm02: Learn more R while reviewing probability                                                                      TBA 
+jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                TBA 
+jan-28 wed   sm04: Two group testing and data aggregation                                                                        TBA 
+feb-04 wed   sm05: Fitting and interpretting linear models (low volume)                                                          TBA 
+feb-11 wed   sm06: Fitting and interpretting linear models (high volume), limma package                                          TBA 
+feb-18 wed   no class; mid-term break                                                                                            na  
+feb-25 wed   sm07: RNA-Seq analysis                                                                                              TBA 
+mar-04 wed   sm08: Methylation analysis                                                                                          TBA 
+mar-11 wed   sm09: Clustering and PCA                                                                                            TBA 
+mar-18 wed   sm10: Supervised learning, cross validation, variable selection                                                     TBA 
+mar-25 wed   sm11: TA office hours during seminar time ... group project work                                                    TBA 
+apr-01 wed   sm12: TA office hours during seminar time ... group project work                                                    TBA 

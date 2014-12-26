@@ -13,7 +13,23 @@ STAT 540 is a 3 credit course with a mandatory computing seminar.
 
 Cross-listed as STAT 540, BIOF 540, GSAT 540
 
-Learning objectives:
+### Time and Location
+
+05 January 2015 - 08 April 2015
+
+#### Lecture (Sec 201)
+
+**Time**: Mon Wed 9:30 - 11am
+
+**Location**: ESB 4192
+
+#### Seminar / computing lab (S2A) -- REGISTRATION IS REQUIRED!
+
+**Time**: officially runs Wed 12pm - 1pm; unofficially students are welcome to come after class around 11am and begin a ~1 hour guided analysis with TA support; TA will remain in the lab until 1pm to help those who start as 12pm and for general office hours.
+
+**Location**: ESB 1042 and 1046
+
+### Learning objectives:
 
   * explore and visualize genomics data
   * apply tailored statitical methods for high dimensional biology data
@@ -24,6 +40,7 @@ Learning objectives:
 
   * Exploration, visualization, and quality assessment of high dimensional genomics data
   * Large scale statistical inference
+  * Analysis of microarray, RNASeq, and epigenetics data
   * Principal component analysis (PCA)
   * Cluster analysis
   * Cross validation
