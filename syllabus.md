@@ -16,9 +16,9 @@ Officially none BUT here in reality ...
 
 ### Evaluation
 
-Homework. Two assignments worth 25 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned.
+**Homework**. Two assignments worth 25 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned.
 
-Group project. Groups formed and projects conceived during January/February. Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
+**Group project**. Groups formed and projects conceived during January/February. Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
 
 10 points for "other", e.g. participation in class, seminars, and discussion forum, engagement with small computing exercises.
 
