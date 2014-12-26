@@ -21,28 +21,27 @@ cdat <- rawdat_cm %>%
          date = sprintf("%s-%02d %s",
                         tolower(months(ugly_date, abbreviate = TRUE)),
                         day, dow),
-         notes = ifelse(grepl("^cm", cm) & raw_notes != "",
-                        sprintf("%s: %s", cm, raw_notes), raw_notes))
+         notes = ifelse(grepl("^lect", lect) & raw_notes != "",
+                        sprintf("%s: %s", lect, raw_notes), raw_notes))
 cdat %>% head(3)
 
 ## link to the class page of any class meetings where such exists
 cmdat <-
-  data.frame(html = list.files(pattern = '^cm.*html$'),
+  data.frame(pdf = list.files(pattern = '^lect.*pdf$'),
              stringsAsFactors = FALSE)
-cmdat <- cmdat %>% mutate(cm = str_extract(html, "cm[0-9]+"))
+cmdat <- cmdat %>% mutate(lect = str_extract(pdf, "lect[0-9]+"))
 cdat <- cdat %>% left_join(cmdat)
 
 cdat <- cdat %>%
-  mutate(html_exists = Negate(is.na)(html))
-cdat$notes[cdat$html_exists] <-
-  str_replace(cdat$notes[cdat$html_exists],
-              "(cm[0-9]{3})", '<a href="LINK">\\1</a>')
-cdat <- cdat %>% mutate(notes = str_replace(notes, "LINK", html))
+  mutate(pdf_exists = Negate(is.na)(pdf))
+cdat$notes[cdat$pdf_exists] <-
+  str_replace(cdat$notes[cdat$pdf_exists],
+              "(lect[0-9]{3})", '<a href="LINK">\\1</a>')
+cdat <- cdat %>% mutate(notes = str_replace(notes, "LINK", pdf))
 dat_cm <- cdat %>% split(cdat$course)
 dat_cm <- lapply(dat_cm, 'rownames<-', NULL)
 
 #Seminar meetings
-#Class meetings
 rawdat_sm <- read.csv(file.path("course-admin", "seminar-meetings.csv"),
                    stringsAsFactors = FALSE,
                    colClasses = list(course = 'factor', dow = 'factor'))
