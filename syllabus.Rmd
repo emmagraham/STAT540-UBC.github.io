@@ -65,6 +65,9 @@ sdat <- sdat %>% left_join(smdat)
 #seminar 00 from STAT545
 sdat$html[sdat$sm=="sm00"] <-c('https://stat545-ubc.github.io/topics.html')
 
+#seminar 01b link to pdf file
+sdat$html[sdat$sm=="sm01b"] <-c('sem1b_biology-intro.pdf')
+
 sdat <- sdat %>%
   mutate(html_exists = Negate(is.na)(html))
 sdat$notes[sdat$html_exists] <-
