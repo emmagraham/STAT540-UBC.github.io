@@ -16,11 +16,13 @@ Officially none BUT here in reality ...
 
 ### Evaluation
 
-**Homework**. Two assignments worth 25 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned.
+**Homework**: two assignments worth 20 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned (see calendar below).
 
-**Group project**. Groups formed and projects conceived during January/February. Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
+**Peer review**: you will be reviewing, commenting on, and marking other students’ assignments. This is a mandatory part of the course and you will be marked on your peer reviews (5 points for each HW, i.e., 10% of overall course mark). Additional guidelines will be given when homework is assigned (see calendar below)
 
-10 points for "other", e.g. participation in class, seminars, and discussion forum, engagement with small computing exercises.
+**Group project**: groups formed and projects conceived during January/February (see calendar below). Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
+
+**Participation**: 10 points for "other", including participation in class, seminars, and discussion forum, engagement with small computing exercises.
 
 
 <!-- unholy hack to make following two tables less wide and the same wide -->
@@ -41,7 +43,7 @@ table {
 
 date         notes                                                                                                                                    instructor 
 -----------  ---------------------------------------------------------------------------------------------------------------------------------------  -----------
-jan-05 mon   lect01: Intro to course                                                                                                                  PP         
+jan-05 mon   <a href="lect01_course-intro.pdf">lect01</a>: Intro to course                                                                            PP         
 jan-07 wed   lect02: Review of probability and statistical inference, 1 of 2                                                                          GCF        
 jan-12 mon   lect03: Review of probability and statistical inference, 2 of 2                                                                          GCF        
 jan-14 wed   lect04: Exploratory analysis                                                                                                             PP         
@@ -85,19 +87,20 @@ apr-08 wed   lect24: Poster session                                             
 **Calendar**
 
 
-date         notes                                                                                                               TA  
------------  ------------------------------------------------------------------------------------------------------------------  ----
-jan-05 mon   no seminar; student work on their own on R/Rstudio Set Up                                                           na  
-jan-07 wed   sm01: 11am-12pm: R basics and exploring a small gene expression dataset; 12pm-1pm: Molecular biology/genetics 101   TBA 
-jan-14 wed   sm02: Learn more R while reviewing probability                                                                      TBA 
-jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                TBA 
-jan-28 wed   sm04: Two group testing and data aggregation                                                                        TBA 
-feb-04 wed   sm05: Fitting and interpretting linear models (low volume)                                                          TBA 
-feb-11 wed   sm06: Fitting and interpretting linear models (high volume), limma package                                          TBA 
-feb-18 wed   no class; mid-term break                                                                                            na  
-feb-25 wed   sm07: RNA-Seq analysis                                                                                              TBA 
-mar-04 wed   sm08: Methylation analysis                                                                                          TBA 
-mar-11 wed   sm09: Clustering and PCA                                                                                            TBA 
-mar-18 wed   sm10: Supervised learning, cross validation, variable selection                                                     TBA 
-mar-25 wed   sm11: TA office hours during seminar time ... group project work                                                    TBA 
-apr-01 wed   sm12: TA office hours during seminar time ... group project work                                                    TBA 
+date         notes                                                                                                                             TA                         
+-----------  --------------------------------------------------------------------------------------------------------------------------------  ---------------------------
+jan-05 mon   <a href="https://stat545-ubc.github.io/topics.html">sm00</a>: No seminar meeting; student work on their own on R/Rstudio Set Up   students work on their own 
+jan-07 wed   sm1a: 11am-12pm: Exploring a small gene expression dataset                                                                        TBA                        
+jan-07 wed   sm1b: 12pm-1pm: Molecular biology/genetics 101                                                                                    TBA                        
+jan-14 wed   sm02: Learn more R while reviewing probability                                                                                    TBA                        
+jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                              TBA                        
+jan-28 wed   sm04: Two group testing and data aggregation                                                                                      TBA                        
+feb-04 wed   sm05: Fitting and interpretting linear models (low volume)                                                                        TBA                        
+feb-11 wed   sm06: Fitting and interpretting linear models (high volume), limma package                                                        TBA                        
+feb-18 wed   no class; mid-term break                                                                                                          na                         
+feb-25 wed   sm07: RNA-Seq analysis                                                                                                            TBA                        
+mar-04 wed   sm08: Methylation analysis                                                                                                        TBA                        
+mar-11 wed   sm09: Clustering and PCA                                                                                                          TBA                        
+mar-18 wed   sm10: Supervised learning, cross validation, variable selection                                                                   TBA                        
+mar-25 wed   sm11: TA office hours during seminar time ... group project work                                                                  TBA                        
+apr-01 wed   sm12: TA office hours during seminar time ... group project work                                                                  TBA                        

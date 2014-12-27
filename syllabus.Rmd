@@ -36,7 +36,7 @@ cdat <- cdat %>%
   mutate(pdf_exists = Negate(is.na)(pdf))
 cdat$notes[cdat$pdf_exists] <-
   str_replace(cdat$notes[cdat$pdf_exists],
-              "(lect[0-9]{3})", '<a href="LINK">\\1</a>')
+              "(lect[0-9]{2})", '<a href="LINK">\\1</a>')
 cdat <- cdat %>% mutate(notes = str_replace(notes, "LINK", pdf))
 dat_cm <- cdat %>% split(cdat$course)
 dat_cm <- lapply(dat_cm, 'rownames<-', NULL)
@@ -54,19 +54,24 @@ sdat <- rawdat_sm %>%
                         sprintf("%s: %s", sm, raw_notes), raw_notes))
 sdat %>% head(3)
 
-## link to the class page of any class meetings where such exists
+## link to the page of any seminar where such exists
 smdat <-
   data.frame(html = list.files(pattern = '^sm.*html$'),
              stringsAsFactors = FALSE)
 smdat <- smdat %>% mutate(sm = str_extract(html, "sm[0-9]+"))
+
 sdat <- sdat %>% left_join(smdat)
+
+#seminar 00 from STAT545
+sdat$html[sdat$sm=="sm00"] <-c('https://stat545-ubc.github.io/topics.html')
 
 sdat <- sdat %>%
   mutate(html_exists = Negate(is.na)(html))
 sdat$notes[sdat$html_exists] <-
   str_replace(sdat$notes[sdat$html_exists],
-              "(sm[0-9]{3})", '<a href="LINK">\\1</a>')
+              "(sm[0-9]{2})", '<a href="LINK">\\1</a>')
 sdat <- sdat %>% mutate(notes = str_replace(notes, "LINK", html))
+
 dat_sm <- sdat %>% split(sdat$course)
 dat_sm <- lapply(dat_sm, 'rownames<-', NULL)
 ```
@@ -83,11 +88,13 @@ Officially none BUT here in reality ...
 
 ### Evaluation
 
-**Homework**. Two assignments worth 25 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned.
+**Homework**: two assignments worth 20 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned (see calendar below).
 
-**Group project**. Groups formed and projects conceived during January/February. Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
+**Peer review**: you will be reviewing, commenting on, and marking other students’ assignments. This is a mandatory part of the course and you will be marked on your peer reviews (5 points for each HW, i.e., 10% of overall course mark). Additional guidelines will be given when homework is assigned (see calendar below)
 
-10 points for "other", e.g. participation in class, seminars, and discussion forum, engagement with small computing exercises.
+**Group project**: groups formed and projects conceived during January/February (see calendar below). Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
+
+**Participation**: 10 points for "other", including participation in class, seminars, and discussion forum, engagement with small computing exercises.
 
 
 <!-- unholy hack to make following two tables less wide and the same wide -->
