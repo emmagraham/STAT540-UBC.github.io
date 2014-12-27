@@ -87,20 +87,20 @@ apr-08 wed   lect24: Poster session                                             
 **Calendar**
 
 
-date         notes                                                                                                                             TA                         
------------  --------------------------------------------------------------------------------------------------------------------------------  ---------------------------
-jan-05 mon   <a href="https://stat545-ubc.github.io/topics.html">sm00</a>: No seminar meeting; student work on their own on R/Rstudio Set Up   students work on their own 
-jan-07 wed   sm1a: 11am-12pm: Exploring a small gene expression dataset                                                                        TBA                        
-jan-07 wed   sm1b: 12pm-1pm: Molecular biology/genetics 101                                                                                    TBA                        
-jan-14 wed   sm02: Learn more R while reviewing probability                                                                                    TBA                        
-jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                              TBA                        
-jan-28 wed   sm04: Two group testing and data aggregation                                                                                      TBA                        
-feb-04 wed   sm05: Fitting and interpretting linear models (low volume)                                                                        TBA                        
-feb-11 wed   sm06: Fitting and interpretting linear models (high volume), limma package                                                        TBA                        
-feb-18 wed   no class; mid-term break                                                                                                          na                         
-feb-25 wed   sm07: RNA-Seq analysis                                                                                                            TBA                        
-mar-04 wed   sm08: Methylation analysis                                                                                                        TBA                        
-mar-11 wed   sm09: Clustering and PCA                                                                                                          TBA                        
-mar-18 wed   sm10: Supervised learning, cross validation, variable selection                                                                   TBA                        
-mar-25 wed   sm11: TA office hours during seminar time ... group project work                                                                  TBA                        
-apr-01 wed   sm12: TA office hours during seminar time ... group project work                                                                  TBA                        
+date         notes                                                                                                                                                              TA                         
+-----------  -----------------------------------------------------------------------------------------------------------------------------------------------------------------  ---------------------------
+jan-05 mon   <a href="https://stat545-ubc.github.io/topics.html">sm00</a>: No seminar meeting;  visit  STAT 545A page to review/learn about R/Rstudio Set Up and basics of R    students work on their own 
+jan-07 wed   sm1a: 11am-12pm: Exploring a small gene expression dataset                                                                                                         TBA                        
+jan-07 wed   sm1b: 12pm-1pm: Molecular biology/genetics 101                                                                                                                     TBA                        
+jan-14 wed   sm02: Learn more R while reviewing probability                                                                                                                     TBA                        
+jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                                                               TBA                        
+jan-28 wed   sm04: Two group testing and data aggregation                                                                                                                       TBA                        
+feb-04 wed   sm05: Fitting and interpretting linear models (low volume)                                                                                                         TBA                        
+feb-11 wed   sm06: Fitting and interpretting linear models (high volume), limma package                                                                                         TBA                        
+feb-18 wed   no class; mid-term break                                                                                                                                           na                         
+feb-25 wed   sm07: RNA-Seq analysis                                                                                                                                             TBA                        
+mar-04 wed   sm08: Methylation analysis                                                                                                                                         TBA                        
+mar-11 wed   sm09: Clustering and PCA                                                                                                                                           TBA                        
+mar-18 wed   sm10: Supervised learning, cross validation, variable selection                                                                                                    TBA                        
+mar-25 wed   sm11: TA office hours during seminar time ... group project work                                                                                                   TBA                        
+apr-01 wed   sm12: TA office hours during seminar time ... group project work                                                                                                   TBA                        
