@@ -5,6 +5,11 @@ output:
     includes:
       after_body: include/nothing.html
 ---
+**Time**: Mon Wed 9:30 - 11am
+
+**Location**: ESB 4192
+
+**Lecture notes**:
 
   * [Lecture 01](lect01_course-intro.pdf) Introduction to the course. Introduction to high dimensional biology.
   * [Lecture 02](lect02_introToStatInf-probBasics.pdf) Overview / review of probability and statistical inference (1 of 2)
