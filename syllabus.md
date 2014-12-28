@@ -28,7 +28,7 @@ Officially none BUT here in reality ...
 <!-- unholy hack to make following two tables less wide and the same wide -->
 <style type="text/css">
 table {
-   max-width: 65%;
+   max-width: 68%;
 }
 </style>
 
@@ -90,8 +90,8 @@ apr-08 wed   lect24: Poster session                                             
 date         notes                                                                                                                                                              TA                         
 -----------  -----------------------------------------------------------------------------------------------------------------------------------------------------------------  ---------------------------
 jan-05 mon   <a href="https://stat545-ubc.github.io/topics.html">sm00</a>: No seminar meeting;  visit  STAT 545A page to review/learn about R/Rstudio Set Up and basics of R    students work on their own 
-jan-07 wed   sm01: 11am-12pm: Exploring a small gene expression dataset                                                                                                         TBA                        
-jan-07 wed   <a href="sem1b_biology-intro.pdf">sm01</a>b: 12pm-1pm: Molecular biology/genetics 101                                                                              TBA                        
+jan-07 wed   sm01-I: 11am-12pm: Exploring a small gene expression dataset                                                                                                       TBA                        
+jan-07 wed   sm01-II: 12pm-1pm: Molecular biology/genetics 101                                                                                                                  TBA                        
 jan-14 wed   sm02: Learn more R while reviewing probability                                                                                                                     TBA                        
 jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                                                               TBA                        
 jan-28 wed   sm04: Two group testing and data aggregation                                                                                                                       TBA                        

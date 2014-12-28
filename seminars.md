@@ -14,16 +14,15 @@ output:
 
 **Seminar 00**
 
-Work on your own to set up and learn more about R and RStudio. We will borrow some material from [STAT 545A Exploratory Analysis]('https://stat545-ubc.github.io/topics.html')
+Work on your own to set up and learn more about R and RStudio. We will borrow some material from [STAT 545A Exploratory Analysis]('https://stat545-ubc.github.io/topics.html') (by Professor Jenny Bryan).
 
-  * [seminar 00-I]('http://www.stat.ubc.ca/~jenny/STAT545A/block00_setup.html') | R, RStudio Set Up & Basics, borrowed from STAT 545A.
-  * [seminar 00-II]('http://www.stat.ubc.ca/~jenny/STAT545A/block01_basicsWorkspaceWorkingDirProject.html') | Basics of R/RStudio, workspaces, and projects, borrowed from STAT 545A.
-  * [seminar 00-III]('http://www.stat.ubc.ca/~jenny/STAT545A/block02_careFeedingData.html') | Basic care and feeding of data in R, borrowed from STAT 545A.
-  * [seminar 00-IV]('http://www.stat.ubc.ca/~jenny/STAT545A/block03_basicObjects.html') | R objects (beyond data.frames) and indexing, borrowed from STAT 545A.
+  * [seminar 00-I]('https://stat545-ubc.github.io/block000_r-rstudio-install.html') | R, RStudio Set Up, borrowed from STAT 545A.
+  * [seminar 00-II]('https://stat545-ubc.github.io/block002_hello-r-workspace-wd-project.html') | Basics of R/RStudio, workspaces, and projects, borrowed from STAT 545A.
+  * [seminar 00-III]('https://stat545-ubc.github.io/block006_care-feeding-data.html') | Basic care and feeding of data in R, borrowed from STAT 545A.
+  * [seminar 00-IV]('https://stat545-ubc.github.io/block004_basic-r-objects.html') | R objects (beyond data.frames) and indexing, borrowed from STAT 545A.
 
 **Seminar 01**
 
-  * [seminar 01] | Explore a small gene expression dataset
-Prep work for later use of Git, GitHub, Rpubs, etc.
+  * [seminar 01-I] | Explore a small gene expression dataset
+  * [seminar 01-II] | Molecular biology/genetics 101
 
-  * [seminar 01](lect01_course-intro.pdf) Introduction to the course. Introduction to high dimensional biology.
