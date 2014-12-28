@@ -28,7 +28,7 @@ Officially none BUT here in reality ...
 <!-- unholy hack to make following two tables less wide and the same wide -->
 <style type="text/css">
 table {
-   max-width: 68%;
+   max-width: 70%;
 }
 </style>
 
