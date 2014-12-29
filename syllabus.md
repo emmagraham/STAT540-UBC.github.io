@@ -62,7 +62,7 @@ feb-13 fri   feedback to groups re: initial project proposals. Each group will b
 feb-16 mon   no class; mid-term break                                                                                                                            
 feb-18 wed   no class; mid-term break                                                                                                                            
 feb-23 mon   lect12: Analysis of RNA-Seq data, 1 of 2                                                                                                 PP         
-feb-25 wed   lect13: Analysis of RNA-Seq data, 1 of 2                                                                                                 PP         
+feb-25 wed   lect13: Analysis of RNA-Seq data, 2 of 2                                                                                                 PP         
 feb-28 thu   HW 1 due                                                                                                                                            
 mar-02 mon   lect14: Analysis of epigenetic data, focus on methylation                                                                                TBA        
 mar-04 wed   lect15: Principal component analysis                                                                                                     PP         
@@ -90,7 +90,7 @@ apr-08 wed   lect24: Poster session                                             
 date         notes                                                                                                                                                              TA                         
 -----------  -----------------------------------------------------------------------------------------------------------------------------------------------------------------  ---------------------------
 jan-05 mon   <a href="https://stat545-ubc.github.io/topics.html">sm00</a>: No seminar meeting;  visit  STAT 545A page to review/learn about R/Rstudio Set Up and basics of R    students work on their own 
-jan-07 wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">sm01</a>-I: 11am-12pm: Exploring a small gene expression dataset                                    TBA                        
+jan-07 wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">sm01</a>-I: 11am-12pm: Getting ready to use GitHub in STAT540, borrowed from STAT545A               TBA                        
 jan-07 wed   sm01-II: 11am-12pm: Exploring a small gene expression dataset                                                                                                      TBA                        
 jan-07 wed   <a href="sem1b_biology-intro.pdf">sm01</a>-III: 12pm-1pm: Molecular biology/genetics 101                                                                           TBA                        
 jan-14 wed   sm02: Learn more R while reviewing probability                                                                                                                     TBA                        
