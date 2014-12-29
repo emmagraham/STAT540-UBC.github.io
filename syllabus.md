@@ -72,7 +72,7 @@ mar-11 wed   lect17: Classification                                             
 mar-16 mon   lect18: Cross validation. Regularization                                                                                                 SM         
 mar-18 wed   lect19: Regularization (cont'd). Missingness                                                                                             SM         
 mar-23 mon   lect20: Analysis of gene function, 1 of 2: Gene set analysis                                                                             PP         
-mar-25 wed   lect21: Analysis of gene function, 1 of 2: Gene set analysis                                                                             PP         
+mar-25 wed   lect21: Analysis of gene function, 2 of 2                                                                                                PP         
 mar-30 mon   lect22: Resampling and the bootstrap                                                                                                     SM         
 apr-01 wed   lect23: Guest lecture                                                                                                                    TBA        
 apr-06 mon   no class; Easter Monday                                                                                                                             
