@@ -1,3 +1,7 @@
+Git(Hub) Intro
+========================================================
+A quick introduction to Git(Hub) is available [here](githubPres.pdf). We are going to cover this topic further in the next seminar. You can also visit Prof Jenny Bryan's [STAT545A webpage](https://stat545-ubc.github.io/git01_git-install.html) for further details on installation. 
+
 Explore a small gene expression dataset
 ========================================================
 

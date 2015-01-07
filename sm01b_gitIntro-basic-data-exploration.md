@@ -1,3 +1,7 @@
+Git(Hub) Intro
+========================================================
+A quick introduction to Git(Hub) is available [here](githubPres.pdf). We are going to cover this topic further in the next seminar. You can also visit Prof Jenny Bryan's [STAT545A webpage](https://stat545-ubc.github.io/git01_git-install.html) for further details on installation. 
+
 Explore a small gene expression dataset
 ========================================================
 
@@ -70,8 +74,6 @@ str(prDat)
 ```
 
 Exercise: Why do we use the `header =` and `row.names =` arguments above upon import? Submit the command *without* these arguments and note any difference in the result. Form the habit of reading error messages *carefully* and working the problem. Mastering the arguments of `read.table()` and friends is time well spent.
-
-
 
 
 
