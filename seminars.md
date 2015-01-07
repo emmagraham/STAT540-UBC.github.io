@@ -24,6 +24,6 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
 **Seminar 01**
 
   * [seminar 01-I](https://stat545-ubc.github.io/git01_git-install.html) | Getting ready to use GitHub in STAT540, borrowed from STAT545A
-  * [seminar 01-II] | Explore a small gene expression dataset
+  * [seminar 01-II](sm01_basic-data-exploration.html) | Explore a small gene expression dataset
   * [seminar 01-III](sem1b_biology-intro.pdf) | Molecular biology/genetics 101
 
