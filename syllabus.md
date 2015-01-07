@@ -44,7 +44,7 @@ table {
 date         notes                                                                                                                                    instructor 
 -----------  ---------------------------------------------------------------------------------------------------------------------------------------  -----------
 jan-05 mon   <a href="lect01_course-intro.pdf">lect01</a>: Intro to course                                                                            PP         
-jan-07 wed   lect02: Review of probability and statistical inference, 1 of 2                                                                          GCF        
+jan-07 wed   <a href="lect02_introToStatInf-probBasics.pdf">lect02</a>: Review of probability and statistical inference, 1 of 2                       GCF        
 jan-12 mon   lect03: Review of probability and statistical inference, 2 of 2                                                                          GCF        
 jan-14 wed   lect04: Exploratory analysis                                                                                                             PP         
 jan-19 mon   lect05: Data QC and preprocessing                                                                                                        GCF        

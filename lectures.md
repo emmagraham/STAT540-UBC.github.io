@@ -12,7 +12,7 @@ output:
 **Lecture notes**:
 
   * [Lecture 01](lect01_course-intro.pdf) Introduction to the course. Introduction to high dimensional biology.
-  * [Lecture 02] Overview / review of probability and statistical inference (1 of 2)
+  * [Lecture 02](lect02_introToStatInf-probBasics.pdf) Overview / review of probability and statistical inference (1 of 2)
   * [Lecture 03] Overview / review of probability and statistical inference (2 of 2) 
   * [Lecture 04] Exploratory high dimesional data analysis 
   * [Lecture 05] Data QC and preprocessing
