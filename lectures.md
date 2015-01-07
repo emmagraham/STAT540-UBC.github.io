@@ -7,7 +7,7 @@ output:
 ---
 **Time**: Mon Wed 9:30 - 11am
 
-**Location**: ESB 4192
+**Location**: ESB 2012
 
 **Lecture notes**:
 

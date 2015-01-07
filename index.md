@@ -21,7 +21,7 @@ Cross-listed as STAT 540, BIOF 540, GSAT 540
 
 **Time**: Mon Wed 9:30 - 11am
 
-**Location**: ESB 4192
+**Location**: ESB 2012
 
 #### Seminar / computing lab (S2A) -- REGISTRATION IS REQUIRED!
 
