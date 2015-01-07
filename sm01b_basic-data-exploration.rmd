@@ -71,14 +71,6 @@ Exercise: Why do we use the `header =` and `row.names =` arguments above upon im
 
 
 ```{r eval = FALSE, include = FALSE}
-## shows reading straight from github
-library(RCurl)
-x <- getURL("https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/examples/photoRec/data/GSE4051_MINI.txt")
-
-prDat <- read.table(text = x, header = TRUE, row.names = 1)
-```
-
-```{r eval = FALSE, include = FALSE}
 ## shows reading straight from URL (Prof Jenny Bryan's website)
 prURL <- "http://www.stat.ubc.ca/~jenny/notOcto/STAT545A/examples/photoRec/GSE4051_MINI.txt"
 prDat <- read.table(file = prURL, header = TRUE, row.names = 1)
