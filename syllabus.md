@@ -90,9 +90,9 @@ apr-08 wed   lect24: Poster session                                             
 date         notes                                                                                                                                                              TA                         
 -----------  -----------------------------------------------------------------------------------------------------------------------------------------------------------------  ---------------------------
 jan-05 mon   <a href="https://stat545-ubc.github.io/topics.html">sm00</a>: No seminar meeting;  visit  STAT 545A page to review/learn about R/Rstudio Set Up and basics of R    students work on their own 
-jan-07 wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">sm01</a>-I: 11am-12pm: Getting ready to use GitHub in STAT540, borrowed from STAT545A               TBA                        
-jan-07 wed   sm01-II: 11am-12pm: Exploring a small gene expression dataset                                                                                                      TBA                        
-jan-07 wed   <a href="sem1b_biology-intro.pdf">sm01</a>-III: 12pm-1pm: Molecular biology/genetics 101                                                                           TBA                        
+jan-07 wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">sm01</a>a: 11am-12pm: Getting ready to use GitHub in STAT540, borrowed from STAT545A                TBA                        
+jan-07 wed   <a href="sm01b_basic-data-exploration.html">sm01</a>b: 11am-12pm: Exploring a small gene expression dataset                                                        TBA                        
+jan-07 wed   <a href="sm01c_biology-intro.pdf">sm01</a>c: 12pm-1pm: Molecular biology/genetics 101                                                                              TBA                        
 jan-14 wed   sm02: Learn more R while reviewing probability                                                                                                                     TBA                        
 jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                                                               TBA                        
 jan-28 wed   sm04: Two group testing and data aggregation                                                                                                                       TBA                        
