@@ -130,4 +130,4 @@ Try solving some of the previous questions using `dplyr` package.
 
 ### Answers!
 
-Code for the exercises is shown in the source document that makes this page, but is hidden here. Go read [the R Markdown source](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/sm01b_gitIntro-basic-data-exploration.rmd) if you want to see it.
+Code for the exercises is shown in the source document that makes this page, but is hidden here. Go read [the R Markdown source]("https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/sm01b_gitIntro-basic-data-exploration.rmd") if you want to see it.
