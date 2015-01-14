@@ -49,8 +49,8 @@ Select *Raw* to view the raw Markdown.
 - Find one on the Internet
 - Write one for yourself!
 
-[sampleMarkdown]: https://github.com/jennybc/2013-11_sfu/blob/master/examples/rmdExample/rmdExample.md
-[thisdocument]: https://github.com/jennybc/stat540_2014/blob/master/seminars/sm01a_rMarkdown.md 
+[sampleMarkdown]: https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/examples/rmdExample/rmdExample.md
+[thisdocument]: https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/sm02a_rMarkdown.md
 
 Rendering a Markdown document
 -----------------------------
@@ -124,8 +124,8 @@ Example R Markdown documents
 GitHub does not render R Markdown documents automatically,
 sadly.
 
-[exampleRMarkdown]: https://github.com/jennybc/2013-11_sfu/blob/master/examples/rmdExample/rmdExample.Rmd
-[resulting document]: https://github.com/jennybc/2013-11_sfu/blob/master/examples/rmdExample/rmdExample.html
+[exampleRMarkdown]: https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/examples/rmdExample/rmdExample.Rmd
+[resulting document]: https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/examples/rmdExample/rmdExample.html
 
 Rendering a R Markdown document
 -------------------------------
