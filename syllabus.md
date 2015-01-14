@@ -45,8 +45,8 @@ date         notes                                                              
 -----------  ---------------------------------------------------------------------------------------------------------------------------------------  -----------
 jan-05 mon   <a href="lect01_course-intro.pdf">lect01</a>: Intro to course                                                                            PP         
 jan-07 wed   <a href="lect02_introToStatInf-probBasics.pdf">lect02</a>: Review of probability and statistical inference, 1 of 2                       GCF        
-jan-12 mon   lect03: Review of probability and statistical inference, 2 of 2                                                                          GCF        
-jan-14 wed   lect04: Exploratory analysis                                                                                                             PP         
+jan-12 mon   <a href="lect03_introToStatInf-endProbBasics-genInfReview.pdf">lect03</a>: Review of probability and statistical inference, 2 of 2       GCF        
+jan-14 wed   <a href="lect04_exploration.pdf">lect04</a>: Exploratory analysis                                                                        PP         
 jan-19 mon   lect05: Data QC and preprocessing                                                                                                        GCF        
 jan-21 wed   lect06: Statistical inference: two group comparisons                                                                                     GCF        
 jan-23 fri   Project groups should be formed                                                                                                                     
