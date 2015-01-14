@@ -93,7 +93,9 @@ jan-05 mon   <a href="https://stat545-ubc.github.io/topics.html">sm00</a>: No se
 jan-07 wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">sm01</a>a: 11am-12pm: Getting ready to use GitHub in STAT540, borrowed from STAT545A                students work on their own 
 jan-07 wed   <a href="sm01b_gitIntro-basic-data-exploration.html">sm01</a>b: 11am-12pm: Git(hub) Intro & Exploring a small gene expression dataset                              Evan                       
 jan-07 wed   <a href="sm01c_biology-intro.pdf">sm01</a>c: 12pm-1pm: Molecular biology/genetics 101                                                                              Alice                      
-jan-14 wed   sm02: Learn more R while reviewing probability                                                                                                                     TBA                        
+jan-14 wed   <a href="https://stat540-ubc.github.io/sm02a_rMarkdown.html">sm02</a>a: Markdown                                                                                   Evan                       
+jan-14 wed   <a href="https://stat540-ubc.github.io/sm02b_introProbCltLln.html">sm02</a>b: Learn more R while reviewing probability                                             Evan                       
+jan-14 wed   <a href="sm02c_playing-with-probability.html">sm02</a>c: Introduction to simulations                                                                               Alice                      
 jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                                                               TBA                        
 jan-28 wed   sm04: Two group testing and data aggregation                                                                                                                       TBA                        
 feb-04 wed   sm05: Fitting and interpretting linear models (low volume)                                                                                                         TBA                        

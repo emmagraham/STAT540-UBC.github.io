@@ -70,6 +70,12 @@ sdat$html[sdat$sm=="sm01a"] <-c('https://stat545-ubc.github.io/git01_git-install
 
 sdat$html[sdat$sm=="sm01c"] <-c('sm01c_biology-intro.pdf')
 
+#separate links to seminar 02 parts
+sdat$html[sdat$sm=="sm02a"] <-c('https://stat540-ubc.github.io/sm02a_rMarkdown.html')
+
+sdat$html[sdat$sm=="sm02b"] <-c('https://stat540-ubc.github.io/sm02b_introProbCltLln.html')
+
+
 sdat <- sdat %>%
   mutate(html_exists = Negate(is.na)(html))
 sdat$notes[sdat$html_exists] <-

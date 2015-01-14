@@ -27,3 +27,9 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
   * [seminar 01b](sm01b_gitIntro-basic-data-exploration.html) | Git(Hub) intro & Explore a small gene expression dataset
   * [seminar 01c](sm01c_biology-intro.pdf) | Molecular biology/genetics 101
 
+**Seminar 02**
+
+  * [seminar 02a](sm02a_rMarkdown.html) | Learn how to use rMarkdown
+  * [seminar 02b](sm02b_introProbCltLln.html) | Learn more about R while you simulate data and play with probability 
+  * [seminar 02c](sm02c_playing-with-probability.html) | More about simulation and probabilities
+
