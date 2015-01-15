@@ -118,7 +118,7 @@ RStudio has some nice documentation on R Markdown.
 Example R Markdown documents
 ----------------------------
 
-- [R Markdown example][exampleRMarkdown] and its [resulting document]
+- [R Markdown example][exampleRMarkdown]
 - Open RStudio, and select *RStudio File > New File > R Markdown*.
 
 GitHub does not render R Markdown documents automatically,
