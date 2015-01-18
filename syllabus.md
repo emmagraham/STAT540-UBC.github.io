@@ -47,7 +47,7 @@ jan-05 mon   <a href="lect01_course-intro.pdf">lect01</a>: Intro to course      
 jan-07 wed   <a href="lect02_introToStatInf-probBasics.pdf">lect02</a>: Review of probability and statistical inference, 1 of 2                       GCF        
 jan-12 mon   <a href="lect03_introToStatInf-endProbBasics-genInfReview.pdf">lect03</a>: Review of probability and statistical inference, 2 of 2       GCF        
 jan-14 wed   <a href="lect04_exploration.pdf">lect04</a>: Exploratory analysis                                                                        PP         
-jan-19 mon   lect05: Data QC and preprocessing                                                                                                        GCF        
+jan-19 mon   <a href="lect05_dataCleaning-qualityControl.pdf">lect05</a>: Data QC and preprocessing                                                   GCF        
 jan-21 wed   lect06: Statistical inference: two group comparisons                                                                                     GCF        
 jan-23 fri   Project groups should be formed                                                                                                                     
 jan-26 mon   lect07: Statistical inference: more than two groups                                                                                      GCF        
@@ -94,8 +94,8 @@ jan-07 wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">sm01
 jan-07 wed   <a href="sm01b_gitIntro-basic-data-exploration.html">sm01</a>b: 11am-12pm: Git(hub) Intro & Exploring a small gene expression dataset                              Evan                       
 jan-07 wed   <a href="sm01c_biology-intro.pdf">sm01</a>c: 12pm-1pm: Molecular biology/genetics 101                                                                              Alice                      
 jan-14 wed   <a href="https://stat540-ubc.github.io/sm02a_rMarkdown.html">sm02</a>a: Markdown                                                                                   Evan                       
-jan-14 wed   <a href="https://stat540-ubc.github.io/sm02b_introProbCltLln.html">sm02</a>b: Learn more R while reviewing probability                                             Evan                       
-jan-14 wed   <a href="sm02c_playing-with-probability.html">sm02</a>c: Introduction to simulations                                                                               Alice                      
+jan-14 wed   <a href="https://stat540-ubc.github.io/sm02b_introProbCltLln.html">sm02</a>b: Probability and simulations (part I)                                                 Evan                       
+jan-14 wed   <a href="sm02c_playing-with-probability.html">sm02</a>c: Probability and simulations (part II)                                                                     Alice                      
 jan-21 wed   sm03: R graphics AND knitr, R markdown, and git(hub)                                                                                                               TBA                        
 jan-28 wed   sm04: Two group testing and data aggregation                                                                                                                       TBA                        
 feb-04 wed   sm05: Fitting and interpretting linear models (low volume)                                                                                                         TBA                        

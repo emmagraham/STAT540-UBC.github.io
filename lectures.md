@@ -15,7 +15,7 @@ output:
   * [Lecture 02](lect02_introToStatInf-probBasics.pdf) Overview / review of probability and statistical inference (1 of 2)
   * [Lecture 03](lect03_introToStatInf-endProbBasics-genInfReview.pdf) Overview / review of probability and statistical inference (2 of 2) 
   * [Lecture 04](lect04_exploration.pdf) Exploratory high dimesional data analysis 
-  * [Lecture 05] Data QC and preprocessing
+  * [Lecture 05](lect05_dataCleaning-qualityControl.pdf) Data QC and preprocessing
   * [Lecture 06] Statistical inference: two group comparisons, e.g. differential expression analysis
   * [Lecture 07] Statistical inference: more than two groups --> linear models 
   * [Lecture 08] Statistical inference: linear models with 2 categorical covariates, greatest hits of linear models inference
