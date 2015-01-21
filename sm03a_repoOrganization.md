@@ -1,9 +1,5 @@
----
-title: "How to organize your repository"
-author: "Evan"
-# date: '2015-01-19'
-output: html_document
----
+# How to organize your repository
+Evan  
 
 We would like you to submit your homework and seminars via your assigned Github repository. Because Github can visualize Markdown files and R Markdown (see [this link](http://stat540-ubc.github.io/sm02a_rMarkdown.html)), we want you submit content as md and Rmd files. However, it is important that your repository remain easy to navigate. You may use the default "README.md" to stylize your repository's homepage.
 
