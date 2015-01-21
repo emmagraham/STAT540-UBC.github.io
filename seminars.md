@@ -33,3 +33,8 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
   * [seminar 02b](sm02b_introProbCltLln.html) | Learn more about R while you simulate data and play with probability 
   * [seminar 02c](sm02c_playing-with-probability.html) | More about simulation and probabilities
 
+**Seminar 03**
+
+  * [seminar 03a](sm03a_repoOrganization.html) | Learn how to organize and submit to your repository
+  * [seminar 03b](sm03b_ggplot2.html) | Learn how to plot with ggplot2
+  * [seminar 03c](sm03c_lattice.html) | Learn how to plot with lattice
