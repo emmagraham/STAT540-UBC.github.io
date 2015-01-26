@@ -48,9 +48,9 @@ jan-07 wed   <a href="lect02_introToStatInf-probBasics.pdf">lect02</a>: Review o
 jan-12 mon   <a href="lect03_introToStatInf-endProbBasics-genInfReview.pdf">lect03</a>: Review of probability and statistical inference, 2 of 2       GCF        
 jan-14 wed   <a href="lect04_exploration.pdf">lect04</a>: Exploratory analysis                                                                        PP         
 jan-19 mon   <a href="lect05_dataCleaning-qualityControl.pdf">lect05</a>: Data QC and preprocessing                                                   GCF        
-jan-21 wed   lect06: Statistical inference: two group comparisons                                                                                     GCF        
+jan-21 wed   <a href="lect06_two-groups.pdf">lect06</a>: Statistical inference: two group comparisons                                                 GCF        
 jan-23 fri   Project groups should be formed                                                                                                                     
-jan-26 mon   lect07: Statistical inference: more than two groups                                                                                      GCF        
+jan-26 mon   <a href="lect07_beyondTwoGroups.pdf">lect07</a>: Statistical inference: more than two groups                                             GCF        
 jan-28 wed   lect08: Statistical inference: linear models with 2 categorical covariates                                                               GCF        
 jan-30 fri    Initial project proposals due.                                                                                                                     
 feb-02 mon   lect09: Statistical inference: linear models including a quantitative covariate                                                          GCF        
