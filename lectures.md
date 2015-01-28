@@ -18,7 +18,7 @@ output:
   * [Lecture 05](lect05_dataCleaning-qualityControl.pdf) Data QC and preprocessing
   * [Lecture 06](lect06_two-groups.pdf) Statistical inference: two group comparisons, e.g. differential expression analysis
   * [Lecture 07](lect07_beyond-two-groups.pdf) Statistical inference: more than two groups --> linear models 
-  * [Lecture 08] Statistical inference: linear models with 2 categorical covariates, greatest hits of linear models inference
+  * [Lecture 08](lect08_moreThanOneCatCovariate-linModGreatestHits.pdf) Statistical inference: linear models with 2 categorical covariates, greatest hits of linear models inference
   * [Lecture 09] Statistical inference: linear models including a quantitative covariate, fitting many linear models at once
   * [Lecture 10] Large scale inference: Empirical Bayes, limma 
   * [Lecture 11] Large scale inference: multiple testing
