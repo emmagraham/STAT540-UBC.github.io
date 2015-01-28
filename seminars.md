@@ -38,3 +38,8 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
   * [seminar 03a](sm03a_repoOrganization.html) | Learn how to organize and submit to your repository
   * [seminar 03b](sm03b_ggplot2.html) | Learn how to plot with ggplot2
   * [seminar 03c](sm03c_lattice.html) | Learn how to plot with lattice
+
+**Seminar 04**
+
+  * [seminar 04a](sm04a_dataAggTwoGrp.html) | Get introduced to two group testing
+  * [seminar 04b](sm04b_dataAggregation.html) | A start on data aggregation
