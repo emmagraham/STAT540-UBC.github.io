@@ -5,6 +5,8 @@ output:
     includes:
       after_body: include/nothing.html
 ---
+**January 29**: I've posted some guidelines on how to submit your group project proposals and due dates. See Assignment tab and visit the Discussion repository.
+
 **January 15**: We are now ready to create your GitHub ID repositories. Professor Jenny Bryan created shinny app so that you can send us your info. If you haven't received an email from me with the username and password required, please contact me after class or send me an email explaining why you are not registered.
 
 <http://shinyapps.stat.ubc.ca/STAT545/stat540-initial-student-survey/>
