@@ -41,42 +41,42 @@ table {
 **Calendar**
 
 
-date         notes                                                                                                                                    instructor 
------------  ---------------------------------------------------------------------------------------------------------------------------------------  -----------
-jan-05 mon   <a href="lect01_course-intro.pdf">lect01</a>: Intro to course                                                                            PP         
-jan-07 wed   <a href="lect02_introToStatInf-probBasics.pdf">lect02</a>: Review of probability and statistical inference, 1 of 2                       GCF        
-jan-12 mon   <a href="lect03_introToStatInf-endProbBasics-genInfReview.pdf">lect03</a>: Review of probability and statistical inference, 2 of 2       GCF        
-jan-14 wed   <a href="lect04_exploration.pdf">lect04</a>: Exploratory analysis                                                                        PP         
-jan-19 mon   <a href="lect05_dataCleaning-qualityControl.pdf">lect05</a>: Data QC and preprocessing                                                   GCF        
-jan-21 wed   <a href="lect06_two-groups.pdf">lect06</a>: Statistical inference: two group comparisons                                                 GCF        
-jan-23 fri   Project groups should be formed                                                                                                                     
-jan-26 mon   <a href="lect07_beyondTwoGroups.pdf">lect07</a>: Statistical inference: more than two groups                                             GCF        
-jan-28 wed   lect08: Statistical inference: linear models with 2 categorical covariates                                                               GCF        
-jan-30 fri    Initial project proposals due.                                                                                                                     
-feb-02 mon   lect09: Statistical inference: linear models including a quantitative covariate                                                          GCF        
-feb-04 wed   lect10: Large scale inference: Empirical Bayes, limma                                                                                    GCF        
-feb-06 fri   HW 1 posted; due Thurs Feb 28                                                                                                                       
-feb-09 mon   no class; Family Day                                                                                                                                
-feb-11 wed   lect11: Large scale inference: multiple testing                                                                                          GCF        
-feb-13 fri   feedback to groups re: initial project proposals. Each group will be assigned an instructor or TA + instructor pair for extra support.              
-feb-16 mon   no class; mid-term break                                                                                                                            
-feb-18 wed   no class; mid-term break                                                                                                                            
-feb-23 mon   lect12: Analysis of RNA-Seq data, 1 of 2                                                                                                 PP         
-feb-25 wed   lect13: Analysis of RNA-Seq data, 2 of 2                                                                                                 PP         
-feb-28 thu   HW 1 due                                                                                                                                            
-mar-02 mon   lect14: Analysis of epigenetic data, focus on methylation                                                                                TBA        
-mar-04 wed   lect15: Principal component analysis                                                                                                     PP         
-mar-06 fri   HW 2 posted; due Fri Mar 27                                                                                                                         
-mar-09 mon   lect16: Cluster analysis                                                                                                                 SM         
-mar-11 wed   lect17: Classification                                                                                                                   SM         
-mar-16 mon   lect18: Cross validation. Regularization                                                                                                 SM         
-mar-18 wed   lect19: Regularization (cont'd). Missingness                                                                                             SM         
-mar-23 mon   lect20: Analysis of gene function, 1 of 2: Gene set analysis                                                                             PP         
-mar-25 wed   lect21: Analysis of gene function, 2 of 2                                                                                                PP         
-mar-30 mon   lect22: Resampling and the bootstrap                                                                                                     SM         
-apr-01 wed   lect23: Guest lecture                                                                                                                    TBA        
-apr-06 mon   no class; Easter Monday                                                                                                                             
-apr-08 wed   lect24: Poster session                                                                                                                   all        
+date         notes                                                                                                                                            instructor 
+-----------  -----------------------------------------------------------------------------------------------------------------------------------------------  -----------
+jan-05 mon   <a href="lect01_course-intro.pdf">lect01</a>: Intro to course                                                                                    PP         
+jan-07 wed   <a href="lect02_introToStatInf-probBasics.pdf">lect02</a>: Review of probability and statistical inference, 1 of 2                               GCF        
+jan-12 mon   <a href="lect03_introToStatInf-endProbBasics-genInfReview.pdf">lect03</a>: Review of probability and statistical inference, 2 of 2               GCF        
+jan-14 wed   <a href="lect04_exploration.pdf">lect04</a>: Exploratory analysis                                                                                PP         
+jan-19 mon   <a href="lect05_dataCleaning-qualityControl.pdf">lect05</a>: Data QC and preprocessing                                                           GCF        
+jan-21 wed   <a href="lect06_two-groups.pdf">lect06</a>: Statistical inference: two group comparisons                                                         GCF        
+jan-23 fri   Project groups should be formed                                                                                                                             
+jan-26 mon   <a href="lect07_beyondTwoGroups.pdf">lect07</a>: Statistical inference: more than two groups                                                     GCF        
+jan-28 wed   <a href="lect08_moreThanOneCatCovariate-linModGreatestHits.pdf">lect08</a>: Statistical inference: linear models with 2 categorical covariates   GCF        
+jan-30 fri    Initial project proposals due.                                                                                                                             
+feb-02 mon   <a href="lect09-quantCovariate-manyLineModAtOnce.pdf">lect09</a>: Statistical inference: linear models including a quantitative covariate        GCF        
+feb-04 wed   lect10: Large scale inference: Empirical Bayes, limma                                                                                            GCF        
+feb-06 fri   HW 1 posted; due Thurs Feb 28                                                                                                                               
+feb-09 mon   no class; Family Day                                                                                                                                        
+feb-11 wed   lect11: Large scale inference: multiple testing                                                                                                  GCF        
+feb-13 fri   feedback to groups re: initial project proposals. Each group will be assigned an instructor or TA + instructor pair for extra support.                      
+feb-16 mon   no class; mid-term break                                                                                                                                    
+feb-18 wed   no class; mid-term break                                                                                                                                    
+feb-23 mon   lect12: Analysis of RNA-Seq data, 1 of 2                                                                                                         PP         
+feb-25 wed   lect13: Analysis of RNA-Seq data, 2 of 2                                                                                                         PP         
+feb-28 thu   HW 1 due                                                                                                                                                    
+mar-02 mon   lect14: Analysis of epigenetic data, focus on methylation                                                                                        TBA        
+mar-04 wed   lect15: Principal component analysis                                                                                                             PP         
+mar-06 fri   HW 2 posted; due Fri Mar 27                                                                                                                                 
+mar-09 mon   lect16: Cluster analysis                                                                                                                         SM         
+mar-11 wed   lect17: Classification                                                                                                                           SM         
+mar-16 mon   lect18: Cross validation. Regularization                                                                                                         SM         
+mar-18 wed   lect19: Regularization (cont'd). Missingness                                                                                                     SM         
+mar-23 mon   lect20: Analysis of gene function, 1 of 2: Gene set analysis                                                                                     PP         
+mar-25 wed   lect21: Analysis of gene function, 2 of 2                                                                                                        PP         
+mar-30 mon   lect22: Resampling and the bootstrap                                                                                                             SM         
+apr-01 wed   lect23: Guest lecture                                                                                                                            TBA        
+apr-06 mon   no class; Easter Monday                                                                                                                                     
+apr-08 wed   lect24: Poster session                                                                                                                           all        
 
 ### Seminars
 
