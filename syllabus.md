@@ -54,7 +54,7 @@ jan-26 mon   <a href="lect07_beyondTwoGroups.pdf">lect07</a>: Statistical infere
 jan-28 wed   <a href="lect08_moreThanOneCatCovariate-linModGreatestHits.pdf">lect08</a>: Statistical inference: linear models with 2 categorical covariates   GCF        
 jan-30 fri    Initial project proposals due.                                                                                                                             
 feb-02 mon   <a href="lect09-quantCovariate-manyLineModAtOnce.pdf">lect09</a>: Statistical inference: linear models including a quantitative covariate        GCF        
-feb-04 wed   lect10: Large scale inference: Empirical Bayes, limma                                                                                            GCF        
+feb-04 wed   <a href="lect10_limma.pdf">lect10</a>: Large scale inference: Empirical Bayes, limma                                                             GCF        
 feb-06 fri   HW 1 posted; due Thurs Feb 28                                                                                                                               
 feb-09 mon   no class; Family Day                                                                                                                                        
 feb-11 wed   lect11: Large scale inference: multiple testing                                                                                                  GCF        
