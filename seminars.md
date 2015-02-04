@@ -43,3 +43,7 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
 
   * [seminar 04a](sm04a_dataAggTwoGrp.html) | Get introduced to two group testing
   * [seminar 04b](sm04b_dataAggregation.html) | A start on data aggregation
+
+**Seminar 05**
+
+  * [seminar 05](sm05_lowDimLinMod.html) | Learn how to be a pro with univariate linear modelling 
