@@ -6,6 +6,7 @@ output:
       after_body: include/nothing.html
 ---
 **February 6**: First question of HW1 has now been posted. See the Assignments tab above and [homework directory](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01). More questions will be posted soon!
+
 **January 29**: I've posted some guidelines on how to submit your group project proposals and due dates. See Assignment tab and visit the Discussion repository.
 
 **January 15**: We are now ready to create your GitHub ID repositories. Professor Jenny Bryan created shinny app so that you can send us your info. If you haven't received an email from me with the username and password required, please contact me after class or send me an email explaining why you are not registered.
