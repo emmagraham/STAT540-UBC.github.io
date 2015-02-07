@@ -17,6 +17,8 @@ Each student must submit their own work: no group efforts. It's fine to talk to 
 
 ## Late policy
 
+*Due date*: February 28th, 2015.
+
 Late submission will cost 2 points per day or fraction thereof
 for five days, after which zero marks will be awarded.
 
