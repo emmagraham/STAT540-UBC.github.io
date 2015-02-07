@@ -27,7 +27,7 @@ communication is neither conscientious nor polite.
 
 ## How to submit the work
 
-See the [homework submission instructions](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw_submission-instructions.html). 
+See the [homework submission instructions](http://htmlpreview.github.io/?https://raw.github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw_submission-instructions.html). 
 
 
 ## Your mission
