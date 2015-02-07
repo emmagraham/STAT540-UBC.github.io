@@ -37,7 +37,7 @@ See the [homework submission instructions](http://htmlpreview.github.io/?https:/
 Load the data from [this link](https://github.com/STAT540-UBC/STAT540-UBC.github.io/tree/master/homework/hw01/hw1Data). Smell test it. Fiddle with factor levels and do any other light cleaning you deem necessary. You can set `include = FALSE` for some/all of this code, but DO IT.
 
 
-### Q1 **(2 points)** What are the basic characteristics of the data and meta-data? 
+### Q1 **(1 points)** What are the basic characteristics of the data and meta-data? 
 
 #### Q1a: How many probes? How many samples (`Bioassay`)?
 
