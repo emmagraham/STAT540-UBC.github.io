@@ -74,6 +74,131 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 </div>
 
 
+<div id="homework-1" class="section level2">
+<h2>Homework 1</h2>
+<p>A directory called homework has been created to host all documents related to homework assignments, including a <code>README.md</code> file of the <a href="https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/">directory</a>. The first question of homework 1 can be found <a href="https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_quality-exploration-DE.md">here</a>.</p>
+<div id="stat-540-homework-submission-instructions" class="section level3">
+<h3>STAT 540 Homework Submission Instructions</h3>
+<p><strong>GitHub</strong></p>
+<p>You all have a private repository in STAT540-UBC organization account, i.e., the repo <code>zz_your-name_STAT540_2015</code> . We assume that</p>
+<ul>
+<li>Youâve already installed Git and (probably) a Git client.</li>
+<li>You can use command line Git and/or your Git client â perhaps even RStudio! â to push, pull, etc. to/from GitHub.</li>
+<li>All your work is nicely organized in <em>this</em> repository. Your repository needs to include a clear top-level <code>README.md</code> that contains links to your work. This is the presentation of your repository and it helps others to find your work and contributions!</li>
+<li><strong>IMPORTANT NOTE</strong>: use the repository within the organization assigned to you to submit all your course work (i.e., the repo <code>zz_your-name_STAT540_2015</code>). Do not use branches or other repositories.</li>
+</ul>
+<p><strong>Set-up your private GitHub repo for homework</strong></p>
+<ul>
+<li>We’re talking about the repo <code>zz_your-name_STAT540_2015</code> now.</li>
+<li>Make a top-level directory for each assignment, e.g. <code>hw01</code> and <code>hw02</code>
+<ul>
+<li>We truly mean a <a href="http://en.wikipedia.org/wiki/Directory_(computing)">directory or “folder”</a> – NOT a <a href="http://git-scm.com/book/en/Git-Branching">Git branch</a> or anything fancy like that! On your local computer, go to the directory where this Git repository lives. Make the 2 directories here.<br /></li>
+</ul></li>
+<li>It is also nice to include a <code>README.md</code> inside each of the assignment directories.
+<ul>
+<li>GitHub automatically renders all Markdown files into (pseudo-)HTML when you visit them in a browser. Whenever a <em>directory</em> in a repo is visited, if it contains a Markdown file called <code>README.md</code>, it will automatically be rendered, effectively serving as a landing or home page.</li>
+</ul></li>
+</ul>
+<p><strong>R Markdown</strong></p>
+<ul>
+<li>Write your homework in R Markdown. The file extension should be <code>.rmd</code>.</li>
+<li>Recommendation: Create a skeleton of your report by starting with the Markdown file that creates the assignment itself! You can take some things away (unnecessary detail) and add others (R chunks) to morph this into your homework solution.
+<ul>
+<li><a href="https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_quality-exploration-DE.md">Source for 2015 homework assignment 1</a></li>
+<li>[Source for 2015 homework assignment 2] - <em>coming in March 06</em></li>
+<li>You’ll have these files if you are using Git(Hub) to keep a current copy of the whole course repository. Or, from the links above, click on “Raw” to get raw Markdown and save to a local file.</li>
+</ul></li>
+</ul>
+<p><strong>HTML</strong></p>
+<ul>
+<li>Compile your homework to Markdown (file extension should be <code>.md</code>) and then to HTML (file extension should be <code>.html</code>).
+<ul>
+<li>RStudio’s “Knit HTML” button will do this</li>
+<li>Alternatively, use <code>knit2html()</code> from the <code>knitr</code> package in the R Console or in an R script.</li>
+<li>To run from the shell or in a Makefile, use something like <code>Rscript -e &quot;knitr::knit2html('hw01_your-name.rmd')&quot;</code></li>
+</ul></li>
+<li>Notice that, by default, any figures created are placed into a <code>figures/</code> subdirectory. The intermediate Markdown file links to these and, therefore, requires them to present your full report. By default, the figures are base64 encoded and <em>embedded</em> into the HTML, which, therefore, is self-contained.</li>
+</ul>
+<p><strong>What to put (or not put) into your Git(Hub) repository</strong></p>
+<blockquote>
+<p>This is rather specific to STAT 540 and may not necessarily reflect your workflow in the future and in other contexts.</p>
+</blockquote>
+<ul>
+<li>Commit the main R markdown (<code>.rmd</code>) file that constitutes your solution. Commit early, commit often!</li>
+<li>Do not commit the input data to your repository.
+<ul>
+<li>Locally, you are of course encouraged to keep the file in some logical place within the homework assignment’s directory. But list the names of such data files in your top-level <a href="http://git-scm.com/docs/gitignore"><code>.gitignore</code> file</a>, so that Git ignores it. We do this so that TAs don’t end up with 50 copies of the input data when they mark your work.</li>
+</ul></li>
+<li>Commit the intermediate Markdown (<code>.md</code>) file and the figures stored in the <code>figures/</code> subdirectory.
+<ul>
+<li>Some purists would say intermediate and downstream products do NOT belong in the repo. After all, you can always recreate them from source, right? But here in reality, it turns out to be incredibly handy to have this in the repo.</li>
+</ul></li>
+<li>Commit the end product HTML (<code>.html</code>) file.
+<ul>
+<li>See above comment re: version control purists vs. pragmatists.</li>
+</ul></li>
+<li>You may not want to commit the Markdown and HTML until the work is fairly advanced, maybe even until submission. Once these enter the repo, you really should recompile them each time you commit changes to the R Markdown source, so that the Git history reflects the way these files should evolve as an ensemble.</li>
+<li><strong>Never ever</strong> edit the Markdown or HTML “by hand”. Only edit the R Markdown source and then regenerate the downstream products from that.</li>
+</ul>
+<p><strong>How to “turn in” your homework</strong></p>
+<ul>
+<li>Make sure you have
+<ul>
+<li>Saved all the files associated with your solution locally.</li>
+<li>Committed those files to your local Git repository.</li>
+<li>Pushed the current state of your local repo to GitHub.</li>
+</ul></li>
+<li>Open an issue, link to the latest commit, tag us
+<ul>
+<li>Visit your private GitHub repository in a web browser</li>
+<li>Just above the file list, look for the text “latest commit” followed by ten numbers and letters (called the revision SHA) and a clipboard icon</li>
+<li>Click on the clipboard icon to copy the revision SHA to your clipboard</li>
+<li>Click on “Issues”, then on “New Issue”. Name the issue “Mark homework x of <em>firstname-lastname</em>”, where <em>x</em> is, e.g. 1 or 2.</li>
+<li>In the description of the issue, tag Gaby and both TAs by including the text <code>@gcohenfr</code>, <code>@wdurno</code>, <code>@aliceZhu</code>, and paste the revision SHA. Include a link to exactly where you want a reviewer to go!</li>
+<li>Click “Submit new issue”. You’re done! Congratulations!</li>
+</ul></li>
+</ul>
+<blockquote>
+<p>If you’re concerned that something hasn’t gone right with the submission, send Alice <a href="mailto:jingyunalice@gmail.com">jingyunalice@gmail.com</a> and Evan <a href="mailto:wdurno@gmail.com">wdurno@gmail.com</a> an e-mail with your assignment attached. <strong>Note</strong>: this is <em>only</em> an emergency back-up plan. We will pester and work with you until you eventually get it submitted via GitHub.</p>
+</blockquote>
+<p><strong>Polish your work</strong></p>
+<p>At this point, you have technically completed this assignment. But here are some minor tweaks that can make a big difference in how awesome your product is.</p>
+<p><strong>Make it easy for people to access your work</strong></p>
+<p>Reduce the friction for TAs and profs to get the hard-working source code (the R markdown) <strong>and</strong> the front-facing report (HTML).</p>
+<ul>
+<li>Create a <code>README.md</code> in the homework’s subdirectory to serve as the landing page for your submission. Whenever anyone visits this subdirectory of your repo, this will be automatically rendered nicely! In particular, hyperlinks will work.</li>
+<li>With this <code>README.md</code> file, create annotated links to the documents TAs and profs will need to access. Such as:
+<ul>
+<li>Your main R markdown document.</li>
+<li>The intermediate Markdown product that comes from knitting your main R markdown document. Remember GitHub will render this into pseudo-HTML automagically. Remember the figures in <code>figures/</code> need to be available in the repo in order appear here.</li>
+<li>The final pretty HTML report. Read instructions below on how access the pretty, not the ugly source.</li>
+</ul></li>
+</ul>
+<blockquote>
+<p>You could link to an HTML report on RPubs, but a GitHub-only solution is preferred. RPubs isn’t really necessary once your work is hosted on GitHub.Plus it’s kinda nice to keep this private.</p>
+</blockquote>
+<p>If you want to see an example of a <code>README.md</code> that links to and explains a bunch of files in the same repo + subdirectory, you can look at an example from Prof Jenny Bryan’s STAT 545A <a href="https://github.com/jennybc/STAT545A_2013/tree/master/hw06_scaffolds/02_rAndMake">here</a></p>
+<p><strong>Linking to HTML files in the repo</strong></p>
+<p>Simply visiting an HTML file in a GitHub repo just shows ugly HTML source. You need to do a little extra work to see this rendered as a proper webpage.</p>
+<ul>
+<li>Navigate to the HTML file on GitHub. Click on “Raw” to get the raw version; the URL should look something like this: <code>https://raw.github.com/stat540-2014-bryan-jennifer-hw/hw01/stat540-2014-bryan-jennifer-hw01.html</code>. Copy that URL!</li>
+<li>Create a link to that in the usual Markdown way BUT prepend <code>http://htmlpreview.github.io/?</code> to the URL. So the URL in your link should look something like this: <code>http://htmlpreview.github.io/?https://raw.github.com/stat540-2014-bryan-jennifer-hw/hw01/stat540-2014-bryan-jennifer-hw01.html</code>.</li>
+<li>This sort of link would be fabulous to include in <code>README.md</code>.</li>
+</ul>
+<p><strong>Make it easy for others to run your code</strong></p>
+<ul>
+<li>In exactly one, very early R chunk, load any necessary packages, so your dependencies are obvious.</li>
+<li>In exactly one, very early R chunk, import anything coming from an external file. This will make it easy for someone to see which data files are required, edit to reflect their locals paths if necessary, etc. There are situations where you might not keep data in the repo itself.</li>
+<li>Pretend you are someone else. Clone a fresh copy of your own repo from GitHub, fire up a new RStudio session and try to knit your R markdown file. Does it “just work”? It should!</li>
+</ul>
+<p><strong>Make pretty tables</strong></p>
+<p>There are a few occasions where, instead of just printing an object with R, you could format the info in an attractive table. Some leads:</p>
+<ul>
+<li>The <code>kable()</code> function from <code>knitr</code>.</li>
+<li>Also look into the packages <code>xtable</code>, <code>pander</code> for making pretty HTML tables.</li>
+</ul>
+</div>
+</div>
 <div id="final-group-project" class="section level2">
 <h2>Final group project</h2>
 <div id="general-principles" class="section level3">
