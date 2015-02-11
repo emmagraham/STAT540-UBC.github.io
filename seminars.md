@@ -47,3 +47,7 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
 **Seminar 05**
 
   * [seminar 05](sm05_lowDimLinMod.html) | Learn how to be a pro with univariate linear modelling 
+
+**Seminar 06** 
+
+  * [seminar 06](sm06_highVolumeLinearModelling.html) | High volume linear modelling 
