@@ -58,7 +58,27 @@ Note that the current variable `time` in this dataset is a factor (`time` column
 Use position, panels or facets, and color to convey the `agent`, `time` of the samples. Report the average expression of the selected probe for all possible combinations of `agent` and `time`. Treat `time` like a factor in this question.
 
 
+### Q2 **(2 points)** Assessing data quality
 
+#### Q2a: Examine the sample-to-sample correlations in a heatmap.
+
+Create the following sample-sample correlation matrices. First, order the samples by `time`; within each time group, sort on the other factor, i.e., `agent` (treatment). Next, order the samples by `agent`; and within each agent group, sort by `time`.  
+
+Interpret your results. What does the sample correlation matrix tell us about the overall impact of time and agent?
+
+#### Q2b: Assess the presence of outlier samples.
+
+First, comment on the potential presence of outliers (if any) based on the sample correlation matrices created in Q2a.
+
+Second, try to go beyond merely “eyeballing”, and make a quantitative statement about presence of an outlier: e.g., quantify for each sample, whether it “sticks out” compared to the other samples.  
+
+Third, if any sample does “stick out” from the previous step, examine it in the context of its experimental group (e.g., given a sample that is least similar to all other samples: does it correlate with samples treated with same agent better than other samples treated with a different agent?)
+
+#### Q2c: Assess the distribution of expression values, separated by agent.
+
+The sample-sample correlation matrix does not capture differences between pairs of samples that are caused by systematic up- or down-regulation of all/most genes.  Can you explain why?
+
+To determine if there is a “shift” in the distribution of expression levels, plot a histogram of expression values for each treatment condition (two histograms should be plotted).  Comment on the two histograms (e.g., similarity in range, mean, and median).
 
 
 
