@@ -5,6 +5,8 @@ output:
     includes:
       after_body: include/nothing.html
 ---
+**February 10**: Question 2 of HW1 has been added. See the Assignment tab or the links below.
+
 **February 6**: First question of HW1 has now been posted. See the Assignments tab above and [homework directory](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/). More questions will be posted soon!
 
 **January 29**: I've posted some guidelines on how to submit your group project proposals and due dates. See Assignment tab and visit the Discussion repository.
