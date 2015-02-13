@@ -5,6 +5,8 @@ output:
     includes:
       after_body: include/nothing.html
 ---
+**February 13**: Q3-Q5 of HW1 have been added. See the Assignment tab or the links below. Note *new* deadline: March 2nd, 2015 at 9:30am
+
 **February 10**: Question 2 of HW1 has been added. See the Assignment tab or the links below.
 
 **February 6**: First question of HW1 has now been posted. See the Assignments tab above and [homework directory](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/). More questions will be posted soon!

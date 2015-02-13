@@ -7,9 +7,9 @@ output:
 ---
 ## Homework 1
 
-A directory called homework has been created to host all documents related to homework assignments, including a `README.md` file of the [directory](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/). The first two questions of homework 1 can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_quality-exploration-DE.md). 
+A directory called homework has been created to host all documents related to homework assignments, including a `README.md` file of the [directory](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/). All questions of homework 1 has been uploaded and can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_quality-exploration-DE.md). 
 
-*Due date*: February 28th, 2015
+*Due date*: March 2nd, 2015 at 9:30am
 
 ### STAT 540 Homework Submission Instructions
 
