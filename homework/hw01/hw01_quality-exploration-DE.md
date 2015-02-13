@@ -31,6 +31,14 @@ communication is neither conscientious nor polite.
 
 See the [homework submission instructions](http://htmlpreview.github.io/?https://raw.github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/assignments.html). 
 
+## Clarification notes
+
+* Note that `agent` and `treatment` refer to the same thing: in the raw data from GEO, the corresponding column in the design file is called "agent", but we converted it to "treatment" in the preprocessed data. 
+
+* In all questions, we are using “probe” and “gene” interchangeably. 
+
+* In questions Q4 and Q5, `time` is considered a quantitative variable.
+
 
 ## Your mission
 
@@ -46,7 +54,6 @@ Load the data from [this link](https://github.com/STAT540-UBC/STAT540-UBC.github
 #### Q1b: What is the breakdown of samples (`Bioassay`) for `agent`, `time`?
 
 For starters, cross-tabulate `agent` and `time`. How do you feel about the experimental design? Hint: `table()` and `addmargins()` will help.
-
 
 #### Q1c: Create a quantitative (numeric) variable that represents the `time` at which cells were measured. 
 
@@ -79,6 +86,67 @@ Third, if any sample does “stick out” from the previous step, examine it in 
 The sample-sample correlation matrix does not capture differences between pairs of samples that are caused by systematic up- or down-regulation of all/most genes.  Can you explain why?
 
 To determine if there is a “shift” in the distribution of expression levels, plot a histogram of expression values for each treatment condition (two histograms should be plotted).  Comment on the two histograms (e.g., similarity in range, mean, and median).
+
+### Q3 **(4 points)** Assess differential expression with respect to `treatment`.
+
+#### Q3a: Fit a linear model, modeling expression level of each probe using `treatment` as a single covariate.
+
+Write out in English and as an equation the model you are using to assess differential expression. In the context of that model, what statistical test are you performing?
+
+#### Q3b: Count your hits, and explore them.
+
+How many hits (probes) are associated with `treatment` at unadjusted p-value 1e-3? How may are associated with `treatment` at FDR 0.05?
+
+Took the top 50 probes as your “hits” and create a heatmap of their expression levels. Sort the hits by p-values and the samples by `treatment`.
+
+What is the (estimated) false discovery rate of this "hits" list? How many of these hits do we expect to be false discoveries?
+
+#### Q3c: Plot the expression levels for a few top (interesting) probes, and a few non-associated (boring) probes. 
+
+Make a scatter plot, plotting the expression levels for each sample on the y-axis and `treatment` indicator on the x-axis.  Display the mean of each group on the same plot.
+
+### Q4 **(4 points)** Assess differential expression with respect to `time`.
+
+**Note**: from now on, `time` is treated as a quantitative covariate (unit: hours). Hint: for how to change it to quantitative (continuous) covariate, refer to lecture 09.
+
+#### Q4a: Fit a linear model, assessing the effect of time on gene expression
+
+Hint: your model should have a single covariate, modeling the effect of time only
+
+How many hits are associated with `time` at unadjusted p-value 1e-3? At FDR 0.05?
+
+#### Q4b: Plot expression levels of a few top probes and a few boring ones:
+
+Make a scatter plot, plotting the expression levels for each sample on the y-axis and `time` on the x-axis. Since you are fitting `time` as a quantitative variable, add the fitted regression line on the same plot. 
+
+Hint: `limma` estimated the slope of this line. This plot should look different from plots in Q1, why?
+
+
+### Q5 **(4 points)** Perform differential expression analysis using a full model with both `treatment` and `time` as covariates.
+
+**Note**: as in previous question, treat `time` as a quantitative variable.
+
+#### Q5a: Quantify the number of hits for `treatment`.
+
+For how many probes is `treatment` a significant factor at the unadjusted p-value 1e-3, and at FDR 0.05 level?
+
+Is this number different from what you reported in Q3b? Why? Quantify the proportion of overlapping probes among your hits, when using the unadjusted p-value threshold of 1e-3.
+
+Plot the distributions of all the p-values for `treatment` when using both models, i.e., one from the model in Q3 and one from the full model in this question. Compare and comment on the similarity/differences in the shape of the distributions.
+
+#### Q5b: Test the null hypothesis that there is no significant interaction between `time` and `treatment`. 
+
+Explain in English what you are modeling with this interaction term (what does it  represent?). 
+
+For how many probes is the interaction effect significant at the unadjusted p-value 1e-3, and at FDR 0.05 level?
+
+#### Q5c: Plot a few probes where the interaction does and does not matter 
+
+Plot the expression levels for each sample on the y-axis and `time` on the x-axis. Color the points based on `treatment` group. As in Q4b, include the fitted regression lines in your plots.
+
+#### Bonus question: consider the limitations of the model you used in Q5, can you think of an assumption underlying the model that is not consistent with the specification of this data?
+
+
 
 
 

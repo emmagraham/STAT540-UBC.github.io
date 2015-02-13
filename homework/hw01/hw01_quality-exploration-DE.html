@@ -73,6 +73,14 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <h2>How to submit the work</h2>
 <p>See the <a href="http://htmlpreview.github.io/?https://raw.github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/assignments.html">homework submission instructions</a>.</p>
 </div>
+<div id="clarification-notes" class="section level2">
+<h2>Clarification notes</h2>
+<ul>
+<li><p>Note that <code>agent</code> and <code>treatment</code> refer to the same thing: in the raw data from GEO, the corresponding column in the design file is called “agent”, but we converted it to “treatment” in the preprocessed data.</p></li>
+<li><p>In all questions, we are using “probe” and “gene” interchangeably.</p></li>
+<li><p>In questions Q4 and Q5, <code>time</code> is considered a quantitative variable.</p></li>
+</ul>
+</div>
 <div id="your-mission" class="section level2">
 <h2>Your mission</h2>
 <div id="q0-0-pts-intake" class="section level3">
@@ -114,6 +122,59 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <h4>Q2c: Assess the distribution of expression values, separated by agent.</h4>
 <p>The sample-sample correlation matrix does not capture differences between pairs of samples that are caused by systematic up- or down-regulation of all/most genes. Can you explain why?</p>
 <p>To determine if there is a “shift” in the distribution of expression levels, plot a histogram of expression values for each treatment condition (two histograms should be plotted). Comment on the two histograms (e.g., similarity in range, mean, and median).</p>
+</div>
+</div>
+<div id="q3-4-points-assess-differential-expression-with-respect-to-treatment." class="section level3">
+<h3>Q3 <strong>(4 points)</strong> Assess differential expression with respect to <code>treatment</code>.</h3>
+<div id="q3a-fit-a-linear-model-modeling-expression-level-of-each-probe-using-treatment-as-a-single-covariate." class="section level4">
+<h4>Q3a: Fit a linear model, modeling expression level of each probe using <code>treatment</code> as a single covariate.</h4>
+<p>Write out in English and as an equation the model you are using to assess differential expression. In the context of that model, what statistical test are you performing?</p>
+</div>
+<div id="q3b-count-your-hits-and-explore-them." class="section level4">
+<h4>Q3b: Count your hits, and explore them.</h4>
+<p>How many hits (probes) are associated with <code>treatment</code> at unadjusted p-value 1e-3? How may are associated with <code>treatment</code> at FDR 0.05?</p>
+<p>Took the top 50 probes as your “hits” and create a heatmap of their expression levels. Sort the hits by p-values and the samples by <code>treatment</code>.</p>
+<p>What is the (estimated) false discovery rate of this “hits” list? How many of these hits do we expect to be false discoveries?</p>
+</div>
+<div id="q3c-plot-the-expression-levels-for-a-few-top-interesting-probes-and-a-few-non-associated-boring-probes." class="section level4">
+<h4>Q3c: Plot the expression levels for a few top (interesting) probes, and a few non-associated (boring) probes.</h4>
+<p>Make a scatter plot, plotting the expression levels for each sample on the y-axis and <code>treatment</code> indicator on the x-axis. Display the mean of each group on the same plot.</p>
+</div>
+</div>
+<div id="q4-4-points-assess-differential-expression-with-respect-to-time." class="section level3">
+<h3>Q4 <strong>(4 points)</strong> Assess differential expression with respect to <code>time</code>.</h3>
+<p><strong>Note</strong>: from now on, <code>time</code> is treated as a quantitative covariate (unit: hours). Hint: for how to change it to quantitative (continuous) covariate, refer to lecture 09.</p>
+<div id="q4a-fit-a-linear-model-assessing-the-effect-of-time-on-gene-expression" class="section level4">
+<h4>Q4a: Fit a linear model, assessing the effect of time on gene expression</h4>
+<p>Hint: your model should have a single covariate, modeling the effect of time only</p>
+<p>How many hits are associated with <code>time</code> at unadjusted p-value 1e-3? At FDR 0.05?</p>
+</div>
+<div id="q4b-plot-expression-levels-of-a-few-top-probes-and-a-few-boring-ones" class="section level4">
+<h4>Q4b: Plot expression levels of a few top probes and a few boring ones:</h4>
+<p>Make a scatter plot, plotting the expression levels for each sample on the y-axis and <code>time</code> on the x-axis. Since you are fitting <code>time</code> as a quantitative variable, add the fitted regression line on the same plot.</p>
+<p>Hint: <code>limma</code> estimated the slope of this line. This plot should look different from plots in Q1, why?</p>
+</div>
+</div>
+<div id="q5-4-points-perform-differential-expression-analysis-using-a-full-model-with-both-treatment-and-time-as-covariates." class="section level3">
+<h3>Q5 <strong>(4 points)</strong> Perform differential expression analysis using a full model with both <code>treatment</code> and <code>time</code> as covariates.</h3>
+<p><strong>Note</strong>: as in previous question, treat <code>time</code> as a quantitative variable.</p>
+<div id="q5a-quantify-the-number-of-hits-for-treatment." class="section level4">
+<h4>Q5a: Quantify the number of hits for <code>treatment</code>.</h4>
+<p>For how many probes is <code>treatment</code> a significant factor at the unadjusted p-value 1e-3, and at FDR 0.05 level?</p>
+<p>Is this number different from what you reported in Q3b? Why? Quantify the proportion of overlapping probes among your hits, when using the unadjusted p-value threshold of 1e-3.</p>
+<p>Plot the distributions of all the p-values for <code>treatment</code> when using both models, i.e., one from the model in Q3 and one from the full model in this question. Compare and comment on the similarity/differences in the shape of the distributions.</p>
+</div>
+<div id="q5b-test-the-null-hypothesis-that-there-is-no-significant-interaction-between-time-and-treatment." class="section level4">
+<h4>Q5b: Test the null hypothesis that there is no significant interaction between <code>time</code> and <code>treatment</code>.</h4>
+<p>Explain in English what you are modeling with this interaction term (what does it represent?).</p>
+<p>For how many probes is the interaction effect significant at the unadjusted p-value 1e-3, and at FDR 0.05 level?</p>
+</div>
+<div id="q5c-plot-a-few-probes-where-the-interaction-does-and-does-not-matter" class="section level4">
+<h4>Q5c: Plot a few probes where the interaction does and does not matter</h4>
+<p>Plot the expression levels for each sample on the y-axis and <code>time</code> on the x-axis. Color the points based on <code>treatment</code> group. As in Q4b, include the fitted regression lines in your plots.</p>
+</div>
+<div id="bonus-question-consider-the-limitations-of-the-model-you-used-in-q5-can-you-think-of-an-assumption-underlying-the-model-that-is-not-consistent-with-the-specification-of-this-data" class="section level4">
+<h4>Bonus question: consider the limitations of the model you used in Q5, can you think of an assumption underlying the model that is not consistent with the specification of this data?</h4>
 </div>
 </div>
 </div>
