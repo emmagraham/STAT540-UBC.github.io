@@ -5,7 +5,7 @@ output:
     includes:
       after_body: include/nothing.html
 ---
-**February 17**: I have initiated a coaching document to give you some further guidelines about the HW1. Available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_coaching_installment1.html).
+**February 17**: I have initiated a coaching document to give you some further guidelines about the HW1. Available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_coaching_installment1.md).
 
 **February 13**: Q3-Q5 of HW1 have been added. See the Assignment tab or the links below. Note *new* deadline: March 2nd, 2015 at 9:30am
 
