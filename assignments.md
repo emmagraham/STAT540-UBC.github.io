@@ -58,7 +58,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
     - Some purists would say intermediate and downstream products do NOT belong in the repo. After all, you can always recreate them from source, right? But here in reality, it turns out to be incredibly handy to have this in the repo.
   * Commit the end product HTML (`.html`) file.
     - See above comment re: version control purists vs. pragmatists.
-  * You may not want to push the Markdown and HTML until the work is fairly advanced, maybe even until submission. Once these enter the repo, you really should recompile them each time you commit changes to the R Markdown source, so that the Git history reflects the way these files should evolve as an ensemble.
+  * Push closer to the submission date.
   * __Never ever__ edit the Markdown or HTML "by hand". Only edit the R Markdown source and then regenerate the downstream products from that.
 
 **How to "turn in" your homework**
