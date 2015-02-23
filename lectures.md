@@ -22,7 +22,7 @@ output:
   * [Lecture 09](lect09_quantCovariate-manyLineModAtOnce.pdf) Statistical inference: linear models including a quantitative covariate, fitting many linear models at once
   * [Lecture 10](lect10_limma.pdf) Large scale inference: Empirical Bayes, limma 
   * [Lecture 11](lect11_multipleTesting.pdf) Large scale inference: multiple testing
-  * [Lecture 12] Analysis of RNA-Seq data (1 of 2)
+  * [Lecture 12](lect12_RNAseqI.pdf) Analysis of RNA-Seq data (1 of 2)
   * [Lecture 13] Analysis of RNA-Seq data (2 of 2)
   * [Lecture 14] Analysis of epigenetic data, focus on methylation
   * [Lecture 15] Principal component analysis
