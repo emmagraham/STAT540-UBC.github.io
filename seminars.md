@@ -51,3 +51,8 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
 **Seminar 06** 
 
   * [seminar 06](sm06_highVolumeLinearModelling.html) | High volume linear modelling 
+
+**Seminar 07** 
+
+  * [seminar 07a](sm07_RNA-seq-bam.html) | optional: Getting read counts 
+  * [seminar 07b](sm07_RNA-seq.html) | RNA-seq - Differential Expression Analysis 
