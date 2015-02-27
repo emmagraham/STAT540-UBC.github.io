@@ -154,11 +154,20 @@ Each group will submit their work by responding to the Issue called "Group proje
 This information will be used to create a private repository for each group to host all work related to the project.
 
 **Due Friday March 6**
+  
+  * One page proposal should probably be part of the `README.md` for the repo, or should be linked in the `README.md`. This proposal needs to outline:
+    - a clear motivation of the problem/question we will investigate
+    - general goals of the project 
+    - general description of the data 
+    - specific questions you will address with division of labour
+    - the methodology you will use to address these questions
 
-Create a README file in the repository assigned to your group, including:
-
- * all information about the group 
- 
- * the final proposal that provides information on the goals and division of labour. Think: a page or less.
-
+  * Include the nice table re: group membership in the `README.md`
+    - add students' degree program, i.e. MSc vs PhD vs other
+  
+  * Nail down data sources
+    - bring the data into the repo, if small enough.
+    - alternatively, distribute data to necessary group members some other way and document in the repo, e.g. link to where data came from
+    - a `data` subdirectory is a good default place to document the datasets. add `README.md` file in the subdirectory to describe your data in more detail, e.g., how many rows, how many columns, experimental design, HTML-ified code showing basic import and smell-testing, etc.
+    
 More information will be posted about Final deliverables!
