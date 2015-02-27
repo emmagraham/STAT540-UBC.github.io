@@ -155,7 +155,7 @@ This information will be used to create a private repository for each group to h
 
 **Due Friday March 6**
   
-  * One page proposal should probably be part of the `README.md` for the repo, or should be linked in the `README.md`. This proposal needs to outline:
+  * One page proposal should probably be part of the `README.md` for the repo, or should be linked in the `README.md`. Incorporate all comments given by professors/TAs. This proposal needs to outline:
     - a clear motivation of the problem/question we will investigate
     - general goals of the project 
     - general description of the data 
