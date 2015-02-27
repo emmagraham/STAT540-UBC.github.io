@@ -16,9 +16,9 @@ Officially none BUT here in reality ...
 
 ### Evaluation
 
-**Homework**: two assignments worth 20 points each. Homework #1 due Thurs Feb 26. Homework #2 due Fri March 27. Instructions for how to submit your work will be posted when homework is assigned (see calendar below).
+**Homework**: two assignments worth 20 points each. Homework #1 due Mon March 2. Homework #2 due Fri March 27. Instructions for how to submit your work are posted in the Assignment tab (see calendar below).
 
-**Peer review**: you will be reviewing, commenting on, and marking other students’ assignments. This is a mandatory part of the course and you will be marked on your peer reviews (5 points for each HW, i.e., 10% of overall course mark). Additional guidelines will be given when homework is assigned (see calendar below)
+**Peer review**: you will be reviewing, commenting on, and marking other students’ assignments. This is a mandatory part of the course and you will be marked on your peer reviews (5 points for each HW, i.e., 10% of overall course mark). Additional guidelines will be given when homework is assigned. 
 
 **Group project**: groups formed and projects conceived during January/February (see calendar below). Primary deliverable is a poster, presented in last class meeting (Wed April 8). Each student also produces a short report. 40 points. More information will be posted shortly.
 
@@ -53,20 +53,20 @@ jan-23 fri   Project groups should be formed
 jan-26 mon   <a href="lect07_beyondTwoGroups.pdf">lect07</a>: Statistical inference: more than two groups                                                     GCF        
 jan-28 wed   <a href="lect08_moreThanOneCatCovariate-linModGreatestHits.pdf">lect08</a>: Statistical inference: linear models with 2 categorical covariates   GCF        
 jan-30 fri    Initial project proposals due.                                                                                                                             
-feb-02 mon   <a href="lect09-quantCovariate-manyLineModAtOnce.pdf">lect09</a>: Statistical inference: linear models including a quantitative covariate        GCF        
+feb-02 mon   <a href="lect09_quantCovariate-manyLineModAtOnce.pdf">lect09</a>: Statistical inference: linear models including a quantitative covariate        GCF        
 feb-04 wed   <a href="lect10_limma.pdf">lect10</a>: Large scale inference: Empirical Bayes, limma                                                             GCF        
-feb-06 fri   HW 1 posted; due Thurs Feb 28                                                                                                                               
+feb-06 fri   HW 1 posted; due Mon March 2                                                                                                                                
 feb-09 mon   no class; Family Day                                                                                                                                        
-feb-11 wed   lect11: Large scale inference: multiple testing                                                                                                  GCF        
+feb-11 wed   <a href="lect11_multipleTesting.pdf">lect11</a>: Large scale inference: multiple testing                                                         GCF        
 feb-13 fri   feedback to groups re: initial project proposals. Each group will be assigned an instructor or TA + instructor pair for extra support.                      
 feb-16 mon   no class; mid-term break                                                                                                                                    
 feb-18 wed   no class; mid-term break                                                                                                                                    
-feb-23 mon   lect12: Analysis of RNA-Seq data, 1 of 2                                                                                                         PP         
-feb-25 wed   lect13: Analysis of RNA-Seq data, 2 of 2                                                                                                         PP         
-feb-28 thu   HW 1 due                                                                                                                                                    
-mar-02 mon   lect14: Analysis of epigenetic data, focus on methylation                                                                                        TBA        
+feb-23 mon   <a href="lect12_RNAseqI.pdf">lect12</a>: Analysis of RNA-Seq data, 1 of 2                                                                        PP         
+feb-25 wed   <a href="lect13_RNAseqII.pdf">lect13</a>: Analysis of RNA-Seq data, 2 of 2                                                                       PP         
+mar-02 mon   lect14: Analysis of epigenetic data, focus on methylation                                                                                        Ellodie    
+mar-02 mon   HW 1 due                                                                                                                                                    
 mar-04 wed   lect15: Principal component analysis                                                                                                             PP         
-mar-06 fri   HW 2 posted; due Fri Mar 27                                                                                                                                 
+mar-06 fri   Final project proposal due. HW 2 posted; due Fri Mar 27                                                                                                     
 mar-09 mon   lect16: Cluster analysis                                                                                                                         SM         
 mar-11 wed   lect17: Classification                                                                                                                           SM         
 mar-16 mon   lect18: Cross validation. Regularization                                                                                                         SM         
