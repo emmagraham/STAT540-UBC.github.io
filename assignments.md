@@ -17,9 +17,10 @@ A directory called homework has been created to host all documents related to ho
 
 You all have a private repository in STAT540-UBC organization account, i.e., the repo `zz_your-name_STAT540_2015` . We assume that 
 
-* Youâve already installed Git and (probably) a Git client.
-* You can use command line Git and/or your Git client â perhaps even RStudio! â to push, pull, etc. to/from GitHub. 
+* You've already installed Git and (probably) a Git client.
+* You can use command line Git and/or your Git client and perhaps even RStudio to push, pull, etc. to/from GitHub. 
 * All your work is nicely organized in *this* repository. Your repository needs to include a clear top-level `README.md` that contains links to your work. This is the presentation of your repository and it helps others to find your work and contributions!
+
 * **IMPORTANT NOTE**: use the repository within the organization assigned to you to submit all your course work (i.e., the repo `zz_your-name_STAT540_2015`). Do not use branches or other repositories.
   
 

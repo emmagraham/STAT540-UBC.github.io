@@ -5,6 +5,8 @@ output:
     includes:
       after_body: include/nothing.html
 ---
+**February 26**: Last installment is out!! It summarizes the last steps needed to wrap-up and submit. Available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_coaching_installment5.md).
+
 **February 24**: Installment 4 is out!! Available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_coaching_installment4.md).
 
 **February 20**: Installment 3 is out!! Available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_coaching_installment3.md).
