@@ -117,6 +117,18 @@ There are a few occasions where, instead of just printing an object with R, you 
   * The `kable()` function from `knitr`.
   * Also look into the packages `xtable`, `pander` for making pretty HTML tables.
   
+### Peer review of HW:
+As part of homework 1 you will be reviewing and commenting on your peers' work. You will be evaluated on this task (worth 5 points) according to the following guidelines:
+
+* Give thoughtful and constructive comments.
+* Give generic comments only when you find a recurrent problem. In any case, support your comments with specific examples.
+* Be respectful and positive.
+* Offer some suggestions in a kind way.
+* Praise good ideas and/or responses.
+* Indicate if you have learn something new.
+* You may find this [rubric](http://stat545-ubc.github.io/peer-review01_marking-rubric.html), developed by Professor Jenny Bryan, useful to build a criteria to evaluate and comment on.
+
+----  
 ## Final group project
 
 ### General principles
