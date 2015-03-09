@@ -27,7 +27,7 @@ output:
   * [Lecture 13](lect13_RNAseqII.pdf) Analysis of RNA-Seq data (2 of 2)
   * [Lecture 14](lect14_Methylation_Presentation_2015.pdf) Analysis of epigenetic data, focus on methylation
   * [Lecture 15](lect15_PCA.pdf) Principal component analysis
-  * [Lecture 16] Cluster analysis
+  * [Lecture 16](lect16_clustering.pdf) Cluster analysis
   * [Lecture 17] Classification
   * [Lecture 18] Model and variable selection: cross validation and regularization (1 of 2)
   * [Lecture 19] Model and variable selection: cross validation and regularization (2 of 2). Dealing with missing data
