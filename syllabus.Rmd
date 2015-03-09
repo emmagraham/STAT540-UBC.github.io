@@ -36,7 +36,7 @@ cdat <- cdat %>%
   mutate(pdf_exists = Negate(is.na)(pdf))
 cdat$notes[cdat$pdf_exists] <-
   str_replace(cdat$notes[cdat$pdf_exists],
-              "(lect[0-9]{2})", '<a href="LINK">\\1</a>')
+              "(lect[0-9]{2})|(lect[1-9]{2})", '<a href="LINK">\\1</a>')
 cdat <- cdat %>% mutate(notes = str_replace(notes, "LINK", pdf))
 dat_cm <- cdat %>% split(cdat$course)
 dat_cm <- lapply(dat_cm, 'rownames<-', NULL)
