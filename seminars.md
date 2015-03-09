@@ -56,3 +56,7 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
 
   * [seminar 07a](sm07_RNA-seq-bam.html) | optional: Getting read counts 
   * [seminar 07b](sm07_RNA-seq.html) | RNA-seq - Differential Expression Analysis 
+
+**Seminar 08**
+
+  * [seminar 08](sm08_methylation.html) | Methylation
