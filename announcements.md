@@ -5,6 +5,8 @@ output:
     includes:
       after_body: include/nothing.html
 ---
+**March 10**: Jenny opened Issues in your repositories to initiate the peer review process. Due date: March 17th. Worth a total of 5 pts. Late submission will cost you 1 point per day or fraction. 
+
 **February 26**: Last installment is out!! It summarizes the last steps needed to wrap-up and submit. Available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_coaching_installment5.md).
 
 **February 24**: Installment 4 is out!! Available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_coaching_installment4.md).
