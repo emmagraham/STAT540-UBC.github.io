@@ -182,7 +182,7 @@ Package these results in a data.frame called 'edger.deep.results' with five colu
 
 #### Q4c) **(1 point)** `edgeR` DEA of low sequencing data
 
-Repeat Q4b for the low count data. Package these results in a data.frame called 'edger.low.results' with five columns as before.
+Repeat Q4b-i and Q4b-ii for the low count data. Package these results in a data.frame called 'edger.low.results' with five columns as before.
 
 #### Q4d) **(2 point)** Comparison of DEA
  
