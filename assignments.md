@@ -11,6 +11,13 @@ A directory called homework has been created to host all documents related to ho
 
 *Due date*: March 2nd, 2015 at 9:30am
 
+## Homework 2
+
+All questions of homework 2 has been uploaded and can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw02/hw02_array-rna-seq-dea.md).
+
+*Due date*: March 30th, 2015 at 11:59pm
+
+
 ### STAT 540 Homework Submission Instructions
 
 **GitHub**
@@ -37,7 +44,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
   * Write your homework in R Markdown. The file extension should be `.rmd`.
   * Recommendation: Create a skeleton of your report by starting with the Markdown file that creates the assignment itself! You can take some things away (unnecessary detail) and add others (R chunks) to morph this into your homework solution.
     - [Source for 2015 homework assignment 1](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_quality-exploration-DE.md)
-    - [Source for 2015 homework assignment 2] - *coming in March 06*
+    - [Source for 2015 homework assignment 2](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw02/hw02_array-rna-seq-dea.md)
     - You'll have these files if you are using Git(Hub) to keep a current copy of the whole course repository. Or, from the links above, click on "Raw" to get raw Markdown and save to a local file.
     
 **HTML**
