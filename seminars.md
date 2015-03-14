@@ -60,3 +60,8 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
 **Seminar 08**
 
   * [seminar 08](sm08_methylation.html) | Methylation
+  
+**Seminar 09**
+
+  * [seminar 09](sm09_clustering-pca.html) | Cluster analysis and PCA
+  
