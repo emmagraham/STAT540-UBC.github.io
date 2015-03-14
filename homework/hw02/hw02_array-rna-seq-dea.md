@@ -165,6 +165,8 @@ i)  Recall that `edgeR` needs to estimate the dispersion parameter in the negati
 
 ii)  Use the glm functionality of `edgeR`, i.e. use the `glmFit` function, to identify differentially expressed genes between conditions. 
 
+iii) How many genes are differentially expressed between conditions at a false discovery rate (FDR) of 1e-5? Compare the results with those obtained in Q2b-iii.
+
 Package these results in a data.frame called 'edger.deep.results' with five columns:
 
 * gene.id - The id of the gene which reads were aligned to.
