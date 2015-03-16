@@ -29,8 +29,8 @@ output:
   * [Lecture 15](lect15_PCA.pdf) Principal component analysis
   * [Lecture 16](lect16_clustering.pdf) Cluster analysis
   * [Lecture 17](lect17_supervised-learning.pdf) Classification
-  * [Lecture 18] (lect18_supervised-learning-II.pdf) Supervised learning part II: classification, overfitt, and CV (1 of 2)
-  * [Lecture 19] Model and variable selection: cross validation and regularization (2 of 2). Dealing with missing data
+  * [Lecture 18] (lect18_supervised-learning-II.pdf) Supervised learning part II: classification, overfitt, and CV
+  * [Lecture 19] Model and variable selection: cross validation and regularization. Dealing with missing data
   * [Lecture 20] Analysis of gene function (1 of 2): Gene set analysis
   * [Lecture 21] Analysis of gene function (2 of 2)
   * [Lecture 22] Resampling and the bootstrap
