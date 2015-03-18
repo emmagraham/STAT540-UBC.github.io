@@ -64,4 +64,7 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
 **Seminar 09**
 
   * [seminar 09](sm09_clustering-pca.html) | Cluster analysis and PCA
-  
+
+**Seminar 10**
+
+  * [seminar 10](sm10_classification.html) | Classification
