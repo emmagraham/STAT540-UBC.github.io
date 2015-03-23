@@ -5,6 +5,9 @@ output:
     includes:
       after_body: include/nothing.html
 ---
+**March 23**: A coaching document for HW2 is available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw02/hw02_coaching.md). 
+
+**Soft deadline** for HW2: since this assignment came out later than planned, some students requested a potential extension of its deadline. Since you need time to work on your project, I will not change the actual deadline of HW2. However, the late-submission penalty will start running on April 4th at 12am. I strongly recommend you to finish by March 30th to have time to work on other tasks.
 
 **March 13**: HW2 is out!! Available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw02/hw02_array-rna-seq-dea.md).
 

@@ -17,6 +17,8 @@ Same game as hw01. Each student must submit their own work: no group efforts. It
 
 **Due date**: March 30th, 11:59pm
 
+**Soft deadline** for HW2: since this assignment came out later than planned, some students requested a potential extension of its deadline. Since you need time to work on your project, I will not change the actual deadline of HW2. However, the late-submission penalty will start running on April 4th at 12am. I strongly recommend you to finish by March 30th to have time to work on other tasks.
+
 Late submission will cost 2 points per day or fraction thereof
 for five days, after which zero marks will be awarded.
 

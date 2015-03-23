@@ -17,6 +17,15 @@ All questions of homework 2 has been uploaded and can be found [here](https://gi
 
 *Due date*: March 30th, 2015 at 11:59pm
 
+**Soft deadline** for HW2: since this assignment came out later than planned, some students requested a potential extension of its deadline. Since you need time to work on your project, I will not change the actual deadline of HW2. However, the late-submission penalty will start running on April 4th at 12am. I strongly recommend you to finish by March 30th to have time to work on other tasks.
+
+### Submission of homework 2
+
+You will follow the same submission guidelines as in hw01. Only one change will be made this time: when opening the issue to alert TAs of your completion, please use the following title:
+
+"Mark hw02 of zz_lastname-firstname_STAT540-2015", where zz_lastname-firstname_STAT540-2015 is the name of your repository. 
+
+Jenny will write a script read these issues and assign reviewers to your homework. Thus, if you use a wrong repository name, we won't be able to match you for peer review.
 
 ### STAT 540 Homework Submission Instructions
 
@@ -79,7 +88,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
     - Visit your private GitHub repository in a web browser
     - Just above the file list, look for the text "latest commit" followed by ten numbers and letters (called the revision SHA) and a clipboard icon
      - Click on the clipboard icon to copy the revision SHA to your clipboard
-    - Click on "Issues", then on "New Issue". Name the issue "Mark homework x of *firstname-lastname*", where *x* is, e.g. 1 or 2.
+    - Click on "Issues", then on "New Issue". Name the issue "Mark hw0x of *your repository name*", where *x* is, e.g. 1 or 2.
     - In the description of the issue, tag Gaby and both TAs by including the text `@gcohenfr`, `@wdurno`, `@aliceZhu`, and paste the revision SHA. Include a link to exactly where you want a reviewer to go! 
      - Click "Submit new issue". You're done! Congratulations!
 
