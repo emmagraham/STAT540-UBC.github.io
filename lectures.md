@@ -33,5 +33,6 @@ output:
   * [Lecture 19](lect19_regularization.pdf) Model and variable selection.
   * [Lecture 20](lect20_function1.pdf) Analysis of gene function (1 of 2): Gene set analysis
   * [Lecture 21](lect21_function2.pdf) Analysis of gene function (2 of 2)
-  * [Lecture 22] Resampling and the bootstrap
-  * [Lecture 23] Guest lecture
+  * [Lecture 22a] (lect22a_ssl.pptx) Semi-supervised learning
+  * [Lecture 22b] (lect22b_resampling.pdf) Resampling, permutation testing, and the bootstrap
+  * [Lecture 23] Guest lecture: Dr. Sohrab Shah
