@@ -23,7 +23,7 @@ All questions of homework 2 has been uploaded and can be found [here](https://gi
 
 You will follow the same submission guidelines as in hw01. Only one change will be made this time: when opening the issue to alert TAs of your completion, please use the following title:
 
-"Mark hw02 of zz_lastname-firstname_STAT540-2015", where zz_lastname-firstname_STAT540-2015 is the name of your repository. 
+"Mark hw02 of zz_lastname-firstname_STAT540_2015", where zz_lastname-firstname_STAT540_2015 is the name of your repository. 
 
 Jenny will write a script read these issues and assign reviewers to your homework. Thus, if you use a wrong repository name, we won't be able to match you for peer review.
 
