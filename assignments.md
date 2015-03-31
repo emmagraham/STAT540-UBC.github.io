@@ -23,7 +23,7 @@ All questions of homework 2 has been uploaded and can be found [here](https://gi
 
 You will follow the same submission guidelines as in hw01. Only one change will be made this time: when opening the issue to alert TAs of your completion, please use the following title:
 
-"Mark hw02 of zz_lastname-firstname_STAT540-2015", where zz_lastname-firstname_STAT540-2015 is the name of your repository. 
+"Mark hw02 of zz_lastname-firstname_STAT540_2015", where zz_lastname-firstname_STAT540_2015 is the name of your repository. 
 
 Jenny will write a script read these issues and assign reviewers to your homework. Thus, if you use a wrong repository name, we won't be able to match you for peer review.
 
@@ -199,4 +199,32 @@ This information will be used to create a private repository for each group to h
     - alternatively, distribute data to necessary group members some other way and document in the repo, e.g. link to where data came from
     - a `data` subdirectory is a good default place to document the datasets. add `README.md` file in the subdirectory to describe your data in more detail, e.g., how many rows, how many columns, experimental design, HTML-ified code showing basic import and smell-testing, etc.
     
-More information will be posted about Final deliverables!
+### Final deliverables
+
+* **Poster**: to be hosted and exhibited in our poster session on Wed Apr 08 from 9:30 am to 12 pm in the Atrium of the ESB. Group-level deliverable. NOTE: you will secure your material to walls and glass. 
+
+- Ideally, you will print your poster in the usual conference format (48''x36''). I know it is a non-trivial cost but not impossible if divided up. Sometimes supervisors will help, esp. if the poster can be displayed or used elsewhere. Check prices at the village and the Sub.
+
+* **Project proposal**: due April 10th, worth 10 points). You can review the one submitted on March based on your work on the project.
+
+* **Project GitHub repository**: due date April 10th. This should contain the materials (or associated live links) an instructor would need to evaluate your work and that a group member would need to reproduce/reuse/extend the work. Group-level deliverable. Content should include (but is not limited to!):
+
+- revised README.md file containing a summary of your work. This file should summarize the project content, your analysis, and main results. You don't need to tell us all the story of your analysis here. Keep it brief. You can include a flow chart if you find it useful. Add links as needed.
+
+
+
+- a PDF of the poster
+
+- important files, such as "inputs" (e.g. the dataset(s) you analyzed) and "outputs" (e.g. plain text files of your key statistical results or PDFs of your main figures); if you started with a publicly available file, you can link to it
+
+- R Markdown that host the R code for the analysis. Compile this R Markdown source to Markdown, commit and push both. This file can include more than you present in the poster. It is your technical report. Add brief comments and text throughout explaining the aim and conclusions of each part. 
+
+- a link-y version of your bibliography (for example, live Pubmed or DOI links)
+
+
+* **Short individual report (1 page)**: due date April 10th, worth 10 points. Individual deliverable. Include:
+- Concise summary of main role / contribution of each group member. 
+- More detailed description and reflections on your specific role / contribution.
+- Scientific reflections. E.g., what worked well / poorly? what seems worth following up vs. a dead end? what was most difficult or most rewarding?
+
+Submit this via your private GitHub repository, the one you used for homework. Create a new directory called project and, within it, store your report as README.md. Open an issue and tag the TAs as you did for homework submission.
