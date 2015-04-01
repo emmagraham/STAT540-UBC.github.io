@@ -5,6 +5,8 @@ output:
     includes:
       after_body: include/nothing.html
 ---
+**April 1**: Teaching evaluations opened on Saturday, March 28 and will close on Monday, April 13th at 11:59 pm. As always, we would love to hear your feedback about the course and instructors! You can do so by completing the surveys on https://eval.ctlt.ubc.ca/science. 
+
 **March 31**: Group project final deliverable guidelines can be found at the end of Assignments (scroll down). I've posted a rubric [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/posterRubric2012.pdf) that you can use to review your poster before printing.
 
 **March 23**: A coaching document for HW2 is available [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw02/hw02_coaching.md). 
