@@ -7,7 +7,7 @@ output:
 ---
 
  
-[Sara Mostafavi] (http://www.stat.ubc.ca/~saram/), lead instructor
+[Sara Mostafavi]  (http://www.stat.ubc.ca/~saram/), lead instructor
 
   * Statistics and Medical Genetics
   * <saram@cs.stanford.edu>
