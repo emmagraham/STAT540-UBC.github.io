@@ -6,13 +6,8 @@ output:
       after_body: include/nothing.html
 ---
 
-[Gabriela Cohen Freue](http://www.stat.ubc.ca/~gcohen/), lead instructor
-
-  * Statistics
-  * <gcohen@stat.ubc.ca>
-  * Office: ESB 3152
  
-Sara Mostafavi, instructor
+[Sara Mostafavi] (http://www.stat.ubc.ca/~saram/), lead instructor
 
   * Statistics and Medical Genetics
   * <saram@cs.stanford.edu>
@@ -22,10 +17,10 @@ Paul Pavlidis, instructor
   * CHiBi and Psychiatry
   * <paul@chibi.ubc.ca>
   
-Evan Durno, TA
+Marjan Farahbod, TA
 
-  * <wdurno@gmail.com>
+  * <marjan.farahbod@gmail.com>
   
-Jing Yun (Alice) Zhu, TA
+Santina Lin, TA
 
-  * <jingyunalice@gmail.com>
+  * <hello@santina.me>
