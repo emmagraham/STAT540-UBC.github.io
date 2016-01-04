@@ -12,10 +12,13 @@ library(stringr)
 ```
 
 ```{r include = FALSE}
-#Class meetings
-rawdat_cm <- read.csv(file.path("course-admin", "class-meetings.csv"),
-                   stringsAsFactors = FALSE,
-                   colClasses = list(course = 'factor', dow = 'factor'))
+# Import schedule
+rawdat <- read.csv(file.path("course-admin", "schedule_2016.csv"), stringsAsFactors = FALSE)
+rawdat$course <- as.factor(rawdat$course)
+
+# Class meetings
+rawdat_cm <- subset(rawdat, rawdat$course=="STAT540")  %>% droplevels()
+
 cdat <- rawdat_cm %>%
   mutate(ugly_date = ISOdate(2014, match(month, tolower(month.name)), day),
          date = sprintf("%s-%02d %s",
