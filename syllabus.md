@@ -54,7 +54,7 @@ Officially none BUT here in reality ...
 **Paper critiques**
 
 - Summarize and critique 2 papers - 5 points each 
-- Select, read, summarize and critique a recent paper from the ‘omics literature – write one page max
+- Select, read, summarize and critique a recent paper from the âomics literature â write one page max
 - Instruction on the paper critiques will be posted shortly 
 
 <!-- unholy hack to make following two tables less wide and the same wide -->
@@ -73,43 +73,43 @@ table {
 **Calendar**
 
 
-date         notes                                                                                                   instructor 
------------  ------------------------------------------------------------------------------------------------------  -----------
-Jan-04 Mon   lecture-1: Intro to course                                                                              PP         
-Jan-06 Wed   lecture-2: Review of probability & inference                                                            SM         
-Jan-11 Mon   lecture-3: Review of probability & inference                                                            SM         
-Jan-13 Wed   lecture-4: Exploratory data analysis                                                                    PP         
-Jan-18 Mon   lecture-5: Data QC and preprocessing                                                                    SM         
-Jan-20 Wed   lecture-6: Statistical inferene: two group comparisons                                                  SM         
-Jan-22 Fri   Project groups should be formed                                                                         NA         
-Jan-25 Mon   lecture-7: Statistical inferene: more than two groups                                                   SM         
-Jan-27 Wed   lecture-8: Statistical inference: linear models                                                         SM         
-Jan-29 Fri   Project proposals due                                                                                   NA         
-Feb-01 Mon   lecture-9: Statistical inference: linear models                                                         SM         
-Feb-03 Wed   <a href="lect10_limma.pdf">lecture-10</a>: Statistical inference: large scale, limma, empirical bayes   SM         
-Feb-05 Fri   HW1 posted                                                                                              NA         
-Feb-08 Mon   No class; Family Day                                                                                    NA         
-Feb-10 Wed   <a href="lect11_multipleTesting.pdf">lecture-11</a>: Statistical inference: multiple testing            SM         
-Feb-12 Fri   Initial feedback on project proposals                                                                   NA         
-Feb-15 Mon   Winter break                                                                                            NA         
-Feb-17 Wed   Winter break                                                                                            NA         
-Feb-22 Mon   <a href="lect12_RNAseqI.pdf">lecture-12</a>: RNA-Seq data analysis I                                    PP         
-Feb-24 Wed   <a href="lect13_RNAseqII.pdf">lecture-13</a>: RNA-Seq data analysis II                                  PP         
-Feb-29 Mon   <a href="lect14_Methylation_Presentation_2015.pdf">lecture-14</a>: Epigenetic data                      TBA        
-Feb-29 Mon   HW1 due                                                                                                 NA         
-Mar-02 Wed   <a href="lect15_PCA.pdf">lecture-15</a>: PCA                                                            PP         
-Mar-04 Fri   HW2 posted + Final project proposals due                                                                NA         
-Mar-08 Mon   <a href="lect16_clustering.pdf">lecture-16</a>: Clustering                                              SM         
-Mar-09 Wed   <a href="lect17_supervised-learning.pdf">lecture-17</a>: Classification                                 SM         
-Mar-14 Mon   <a href="lect18_supervised-learning-II.pdf">lecture-18</a>: Cross validation                            SM         
-Mar-16 Wed   <a href="lect19_regularization.pdf">lecture-19</a>: Regularization                                      SM         
-Mar-21 Mon   <a href="lect20_function1.pdf">lecture-20</a>: Resampling and bootstrap                                 SM         
-Mar-23 Wed   <a href="lect21_function2.pdf">lecture-21</a>: Analysis of gene function I                              PP         
-Mar-25 Fri   HW2 due                                                                                                 NA         
-Mar-28 Mon   No class; Easter Monday                                                                                 NA         
-Mar-30 Wed   <a href="lect22b_resampling.pdf">lecture-22</a>: Analysis of gene function II                           PP         
-Apr-04 Mon   lecture-23: Guest lecture                                                                               TBA        
-Apr-06 Wed   Poster session                                                                                          NA         
+date         notes                                                                                                                 instructor 
+-----------  --------------------------------------------------------------------------------------------------------------------  -----------
+Jan-04 Mon   <a href="lect01_course-intro.pdf">lecture-1</a>: Intro to course                                                      PP         
+Jan-06 Wed   <a href="lect02_introToStatInf-probBasics.pdf">lecture-2</a>: Review of probability & inference                       SM         
+Jan-11 Mon   <a href="lect03_introToStatInf-endProbBasics-genInfReview.pdf">lecture-3</a>: Review of probability & inference       SM         
+Jan-13 Wed   <a href="lect04_exploration.pdf">lecture-4</a>: Exploratory data analysis                                             PP         
+Jan-18 Mon   <a href="lect05_dataCleaning-qualityControl.pdf">lecture-5</a>: Data QC and preprocessing                             SM         
+Jan-20 Wed   <a href="lect06_two-groups.pdf">lecture-6</a>: Statistical inferene: two group comparisons                            SM         
+Jan-22 Fri   Project groups should be formed                                                                                       NA         
+Jan-25 Mon   <a href="lect07_beyondTwoGroups.pdf">lecture-7</a>: Statistical inferene: more than two groups                        SM         
+Jan-27 Wed   <a href="lect08_moreThanOneCatCovariate-linModGreatestHits.pdf">lecture-8</a>: Statistical inference: linear models   SM         
+Jan-29 Fri   Project proposals due                                                                                                 NA         
+Feb-01 Mon   <a href="lect09_quantCovariate-manyLineModAtOnce.pdf">lecture-9</a>: Statistical inference: linear models             SM         
+Feb-03 Wed   <a href="lect10_limma.pdf">lecture-10</a>: Statistical inference: large scale, limma, empirical bayes                 SM         
+Feb-05 Fri   HW1 posted                                                                                                            NA         
+Feb-08 Mon   No class; Family Day                                                                                                  NA         
+Feb-10 Wed   <a href="lect11_multipleTesting.pdf">lecture-11</a>: Statistical inference: multiple testing                          SM         
+Feb-12 Fri   Initial feedback on project proposals                                                                                 NA         
+Feb-15 Mon   Winter break                                                                                                          NA         
+Feb-17 Wed   Winter break                                                                                                          NA         
+Feb-22 Mon   <a href="lect12_RNAseqI.pdf">lecture-12</a>: RNA-Seq data analysis I                                                  PP         
+Feb-24 Wed   <a href="lect13_RNAseqII.pdf">lecture-13</a>: RNA-Seq data analysis II                                                PP         
+Feb-29 Mon   <a href="lect14_Methylation_Presentation_2015.pdf">lecture-14</a>: Epigenetic data                                    TBA        
+Feb-29 Mon   HW1 due                                                                                                               NA         
+Mar-02 Wed   <a href="lect15_PCA.pdf">lecture-15</a>: PCA                                                                          PP         
+Mar-04 Fri   HW2 posted + Final project proposals due                                                                              NA         
+Mar-08 Mon   <a href="lect16_clustering.pdf">lecture-16</a>: Clustering                                                            SM         
+Mar-09 Wed   <a href="lect17_supervised-learning.pdf">lecture-17</a>: Classification                                               SM         
+Mar-14 Mon   <a href="lect18_supervised-learning-II.pdf">lecture-18</a>: Cross validation                                          SM         
+Mar-16 Wed   <a href="lect19_regularization.pdf">lecture-19</a>: Regularization                                                    SM         
+Mar-21 Mon   <a href="lect20_function1.pdf">lecture-20</a>: Resampling and bootstrap                                               SM         
+Mar-23 Wed   <a href="lect21_function2.pdf">lecture-21</a>: Analysis of gene function I                                            PP         
+Mar-25 Fri   HW2 due                                                                                                               NA         
+Mar-28 Mon   No class; Easter Monday                                                                                               NA         
+Mar-30 Wed   <a href="lect22b_resampling.pdf">lecture-22</a>: Analysis of gene function II                                         PP         
+Apr-04 Mon   lecture-23: Guest lecture                                                                                             TBA        
+Apr-06 Wed   Poster session                                                                                                        NA         
 
 ### Seminars
 
