@@ -4,6 +4,7 @@ output:
   html_document:
     includes:
       after_body: include/nothing.html
+encoding: UTF-8
 ---
 ## Homework 1
 
