@@ -92,15 +92,28 @@ dat_sm <- sdat %>% split(sdat$course)
 dat_sm <- lapply(dat_sm, 'rownames<-', NULL)
 ```
 
-### Prerequisites.
+### Prerequisites and useful skills
 
 Officially none BUT here in reality ...
 
-**Statistics**: you should have already taken university level introductory statistics course.
+**Statistics**: You should have already taken university level introductory statistics course.
 
-**Biology**: no requirements, but you are expected to learn things like the difference between a DNA and RNA and a gene and a genome.
+**Biology**: 
 
-**R**: no experience required but be prepared to do a lot of self-guided learning. Go ahead and start now by installing R and the HIGHLY RECOMMENDED "integrated development environment" (IDE) RStudio! Students are expected to run R on their own computer or a computer they have plenty of access to and control over. The best set-up, if possible, is to bring your own laptop to the computing seminars.
+- No requirements, but you are expected to learn things like the difference between a DNA and RNA and a gene and a genome
+- See [Seminar-1c](sm01c_biology-intro.pdf) 
+
+**R**: 
+
+- No experience required but be prepared to do a lot of self-guided learning if you haven't taken other courses on R. 
+- Start now by installing R and the HIGHLY RECOMMENDED "integrated development environment" (IDE) RStudio! 
+- Best set-up: be able to run R on your own computer and bring your own laptop to each seminar.
+- If you are new to R, check out [this blog post on getting started with R](http://santina.me/r/2015/12/15/Get-started-with-R.html). 
+
+**Others:** 
+
+- You'll need to know how to use [Git](https://stat545-ubc.github.io/git01_git-install.html) and GitHub. 
+- We'll soon learn about [using Rmarkdown](https://stat540-ubc.github.io/sm02a_rMarkdown.html) to generate reports, and you'll be using that a lot in this course. 
 
 ### Evaluation
 
@@ -121,7 +134,7 @@ Officially none BUT here in reality ...
     - February 12: Finalize the proposal 
     - April 6: Poster session 
 - Grading and deliverable 
-    - Primary deliverable is a poster. Each student also produces a short report. 
+    - Primary deliverable is a poster. Each student also produces a short report 
     - Planning + project + poster session - 50 points 
     - Peer evaluation - 10 points 
 - Tip: try to form a group of diverse talents
@@ -129,7 +142,7 @@ Officially none BUT here in reality ...
 **Paper critiques**
 
 - Summarize and critique 2 papers - 5 points each 
-- Select, read, summarize and critique a recent paper from the ‘omics literature – write one page max.
+- Select, read, summarize and critique a recent paper from the ‘omics literature – write one page max
 - Instruction on the paper critiques will be posted shortly 
 
 <!-- unholy hack to make following two tables less wide and the same wide -->
