@@ -13,16 +13,16 @@ library(stringr)
 
 ```{r include = FALSE}
 # Import schedule
-rawdat <- read.csv(file.path("course-admin", "schedule_2016.csv"), stringsAsFactors = FALSE)
+rawdat <- read.csv(file.path("course-admin", "schedule_2016.csv"), stringsAsFactors = FALSE, colClasses = list(course = 'factor', dow = 'factor'))
 rawdat$course <- as.factor(rawdat$course)
 
 # Class meetings
-rawdat_cm <- subset(rawdat, rawdat$course=="STAT540")  %>% droplevels()
+rawdat_cm <- rawdat[rawdat$course == "STAT540",]
 
 cdat <- rawdat_cm %>%
-  mutate(ugly_date = ISOdate(2014, match(month, tolower(month.name)), day),
+  mutate(ugly_date = ISOdate(2016, match(month, month.name), day),
          date = sprintf("%s-%02d %s",
-                        tolower(months(ugly_date, abbreviate = TRUE)),
+                        months(ugly_date, abbreviate = TRUE),
                         day, dow),
          notes = ifelse(grepl("^lect", lect) & raw_notes != "",
                         sprintf("%s: %s", lect, raw_notes), raw_notes))
@@ -33,58 +33,60 @@ cmdat <-
   data.frame(pdf = list.files(pattern = '^lect.*pdf$'),
              stringsAsFactors = FALSE)
 cmdat <- cmdat %>% mutate(lect = str_extract(pdf, "lect[0-9]+"))
-cdat <- cdat %>% left_join(cmdat)
+cmdat$lect <- sapply(cmdat$lect, str_replace, pattern="lect0*([0-9]+)", replacement="lecture-\\1")
+cdat <- cdat %>% left_join(cmdat, by="lect")
 
-cdat <- cdat %>%
-  mutate(pdf_exists = Negate(is.na)(pdf))
-cdat$notes[cdat$pdf_exists] <-
-  str_replace(cdat$notes[cdat$pdf_exists],
-              "(lect[0-9]{2})|(lect[1-9]{2})", '<a href="LINK">\\1</a>')
-cdat <- cdat %>% mutate(notes = str_replace(notes, "LINK", pdf))
+pdf_exists <- Negate(is.na)(cdat$pdf)
+
+# Insert placeholder link to notes 
+cdat$notes[pdf_exists] <-
+  str_replace(cdat$notes[which(pdf_exists)],
+              "(lecture-[0-9]{2})|(lecture-[1-9]{2})", '<a href="LINK">\\1</a>')
+# Replace placeholder "LINK" which pdf file names 
+cdat$notes[pdf_exists] <- str_replace(cdat$notes[which(pdf_exists)], "LINK", cdat$pdf[which(pdf_exists)])
+
 dat_cm <- cdat %>% split(cdat$course)
 dat_cm <- lapply(dat_cm, 'rownames<-', NULL)
 
-#Seminar meetings
-rawdat_sm <- read.csv(file.path("course-admin", "seminar-meetings.csv"),
-                   stringsAsFactors = FALSE,
-                   colClasses = list(course = 'factor', dow = 'factor'))
+# Seminar meetings 
+rawdat_sm <- rawdat[rawdat$course == "STAT540-Seminar",]
+
 sdat <- rawdat_sm %>%
-  mutate(ugly_date = ISOdate(2014, match(month, tolower(month.name)), day),
+  mutate(ugly_date = ISOdate(2016, match(month, month.name), day),
          date = sprintf("%s-%02d %s",
-                        tolower(months(ugly_date, abbreviate = TRUE)),
-                        day, dow),
-         notes = ifelse(grepl("^sm", sm) & raw_notes != "",
-                        sprintf("%s: %s", sm, raw_notes), raw_notes))
+                        months(ugly_date, abbreviate = TRUE),
+                        day, dow))
 sdat %>% head(3)
 
 ## link to the page of any seminar where such exists
 smdat <-
   data.frame(html = list.files(pattern = '^sm.*html$'),
              stringsAsFactors = FALSE)
-smdat <- smdat %>% mutate(sm = str_extract(html, "sm[0-9]+[a-c]"))
+smdat <- smdat %>% mutate(lect = str_extract(html, "sm[0-9]{2}+[a-c]*"))
+smdat$lect <- sapply(smdat$lect, str_replace, pattern="sm0*([0-9]+)([a-z]*)", replacement="seminar-\\1\\2")
 
-sdat <- sdat %>% left_join(smdat)
+sdat <- sdat %>% left_join(smdat, by="lect")
 
 #seminar 00 from STAT545
-sdat$html[sdat$sm=="sm00"] <-c('https://stat545-ubc.github.io/topics.html')
+# sdat$html[sdat$lect=="sm00"] <-c('https://stat545-ubc.github.io/topics.html')
 
 #separate links to seminar 01 parts
-sdat$html[sdat$sm=="sm01a"] <-c('https://stat545-ubc.github.io/git01_git-install.html')
+sdat$html[sdat$lect=="seminar-1a"] <-c('https://stat545-ubc.github.io/git01_git-install.html')
 
-sdat$html[sdat$sm=="sm01c"] <-c('sm01c_biology-intro.pdf')
+sdat$html[sdat$lect=="seminar-1c"] <-c('sm01c_biology-intro.pdf')
 
 #separate links to seminar 02 parts
-sdat$html[sdat$sm=="sm02a"] <-c('https://stat540-ubc.github.io/sm02a_rMarkdown.html')
+sdat$html[sdat$lect=="seminar-2a"] <-c('https://stat540-ubc.github.io/sm02a_rMarkdown.html')
 
-sdat$html[sdat$sm=="sm02b"] <-c('https://stat540-ubc.github.io/sm02b_introProbCltLln.html')
+sdat$html[sdat$lect=="seminar-2b"] <-c('https://stat540-ubc.github.io/sm02b_introProbCltLln.html')
 
 
-sdat <- sdat %>%
-  mutate(html_exists = Negate(is.na)(html))
-sdat$notes[sdat$html_exists] <-
-  str_replace(sdat$notes[sdat$html_exists],
-              "(sm[0-9]{2})", '<a href="LINK">\\1</a>')
-sdat <- sdat %>% mutate(notes = str_replace(notes, "LINK", html))
+html_exists = Negate(is.na)(sdat$html)
+
+sdat$lect[html_exists] <-
+  str_replace(sdat$lect[html_exists],
+              pattern="(^seminar-.*)", replacement='<a href="LINK">\\1</a>')
+sdat$lect[html_exists] <- str_replace(sdat$lect[html_exists], "LINK", sdat$html[html_exists])
 
 dat_sm <- sdat %>% split(sdat$course)
 dat_sm <- lapply(dat_sm, 'rownames<-', NULL)
@@ -155,5 +157,5 @@ knitr::kable(dat_cm[["STAT540"]] %>% select(date, notes, instructor))
 **Calendar**
 
 ```{r results = 'asis', echo = FALSE}
-knitr::kable(dat_sm[["STAT540-Seminar"]] %>% select(date, notes, TA))
+knitr::kable(dat_sm[["STAT540-Seminar"]] %>% select(date, lect, raw_notes, instructor))
 ```
