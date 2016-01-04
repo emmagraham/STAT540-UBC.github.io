@@ -5,7 +5,10 @@ output:
       after_body: include/nothing.html
 ---
 
+
 # Statistical Methods for High Dimensional Biology
+
+## [NEW ANNOUNCEMENT on Seminar 1 >](http://stat540-ubc.github.io/announcements.html) 
 
 ### UBC STAT 540
 
