@@ -7,42 +7,26 @@ output:
 ---
 ## Homework 1
 
-A directory called homework has been created to host all documents related to homework assignments, including a `README.md` file of the [directory](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/). All questions of homework 1 has been uploaded and can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw01/hw01_quality-exploration-DE.md). 
+- Detail coming soon
 
-*Due date*: March 2nd, 2015 at 9:30am
-
-## Homework 2
-
-All questions of homework 2 has been uploaded and can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/hw02/hw02_array-rna-seq-dea.md).
-
-*Due date*: March 30th, 2015 at 11:59pm
-
-**Soft deadline** for HW2: since this assignment came out later than planned, some students requested a potential extension of its deadline. Since you need time to work on your project, I will not change the actual deadline of HW2. However, the late-submission penalty will start running on April 4th at 12am. I strongly recommend you to finish by March 30th to have time to work on other tasks.
-
-### Submission of homework 2
-
-You will follow the same submission guidelines as in hw01. Only one change will be made this time: when opening the issue to alert TAs of your completion, please use the following title:
-
-"Mark hw02 of zz_lastname-firstname_STAT540_2015", where zz_lastname-firstname_STAT540_2015 is the name of your repository. 
-
-Jenny will write a script read these issues and assign reviewers to your homework. Thus, if you use a wrong repository name, we won't be able to match you for peer review.
+*Due date*: 
 
 ### STAT 540 Homework Submission Instructions
 
 **GitHub**
 
-You all have a private repository in STAT540-UBC organization account, i.e., the repo `zz_your-name_STAT540_2015` . We assume that 
+You all have a private repository in STAT540-UBC organization account, i.e., the repo `your-name_STAT540_2015` . We assume that 
 
-* You've already installed Git and (probably) a Git client.
+* You'�ve already installed Git and (probably) a Git client.
 * You can use command line Git and/or your Git client and perhaps even RStudio to push, pull, etc. to/from GitHub. 
 * All your work is nicely organized in *this* repository. Your repository needs to include a clear top-level `README.md` that contains links to your work. This is the presentation of your repository and it helps others to find your work and contributions!
 
-* **IMPORTANT NOTE**: use the repository within the organization assigned to you to submit all your course work (i.e., the repo `zz_your-name_STAT540_2015`). Do not use branches or other repositories.
+* **IMPORTANT NOTE**: use the repository within the organization assigned to you to submit all your course work (i.e., the repo `your-name_STAT540_2015`). Do not use branches or other repositories.
   
 
 **Set-up your private GitHub repo for homework**
 
-  * We're talking about the repo `zz_your-name_STAT540_2015` now.
+  * We're talking about the repo `your-name_STAT540_2015` now.
   * Make a top-level directory for each assignment, e.g. `hw01` and `hw02`
     - We truly mean a [directory or "folder"](http://en.wikipedia.org/wiki/Directory_(computing)) -- NOT a [Git branch](http://git-scm.com/book/en/Git-Branching) or anything fancy like that! On your local computer, go to the directory where this Git repository lives. Make the 2 directories here.    
   * It is also nice to include a `README.md` inside each of the assignment directories. 
@@ -92,7 +76,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
     - In the description of the issue, tag Gaby and both TAs by including the text `@gcohenfr`, `@wdurno`, `@aliceZhu`, and paste the revision SHA. Include a link to exactly where you want a reviewer to go! 
      - Click "Submit new issue". You're done! Congratulations!
 
-> If you're concerned that something hasn't gone right with the submission, send Alice jingyunalice@gmail.com  and Evan wdurno@gmail.com an e-mail with your assignment attached. **Note**: this is *only* an emergency back-up plan. We will pester and work with you until you eventually get it submitted via GitHub.
+> If you're concerned that something hasn't gone right with the submission, send Marjan and Santina (marjan.farahbod@gmail.com, santina424@gmail.com) an e-mail with your assignment attached. **Note**: this is *only* an emergency back-up plan. We will pester and work with you until you eventually get it submitted via GitHub.
   
 **Polish your work**
 
@@ -133,19 +117,7 @@ There are a few occasions where, instead of just printing an object with R, you 
   * The `kable()` function from `knitr`.
   * Also look into the packages `xtable`, `pander` for making pretty HTML tables.
   
-### Peer review of HW:
-As part of homework 1 you will be reviewing and commenting on your peers' work. **Due Tuesday March 17**. You will be evaluated on this task (worth 5 points, late submission costs 1 point per day or fraction) according to the following guidelines:
 
-* Give thoughtful and constructive comments.
-* Give generic comments only when you find a recurrent problem. In any case, support your comments with specific examples.
-* Be respectful and positive.
-* Offer some suggestions in a kind way.
-* Praise good ideas and/or responses.
-* Indicate if you have learn something new.
-* You may find this [rubric](http://stat545-ubc.github.io/peer-review01_marking-rubric.html), developed by Professor Jenny Bryan, useful to build a criteria to evaluate and comment on.
-
-
-  
 ## Final group project
 
 ### General principles
@@ -172,17 +144,18 @@ Groups should have 4 to 6 members. We strongly encourage that groups be diverse 
 
 ### Initial deliverables
 
-**Due Monday February 2 (but submit earlier if you are ready)**
+**Due January 22 (but submit earlier if you are ready)**
 
  * List of group members. In addition to names, include relevant info on grad program, lab, interests/expertise. 
 
+**Due January 29**
  * Initial project proposal describing basic idea of project. Think: a paragraph.
 
 Each group will submit their work by responding to the Issue called "Group project: initial information" in the Discussion repository. Please, post only one proposal per group.
 
 This information will be used to create a private repository for each group to host all work related to the project.
 
-**Due Friday March 6**
+**Due Friday February 15**
   
   * One page proposal should probably be part of the `README.md` for the repo, or should be linked in the `README.md`. Incorporate all comments given by professors/TAs. This proposal needs to outline:
     - a clear motivation of the problem/question we will investigate
@@ -201,16 +174,16 @@ This information will be used to create a private repository for each group to h
     
 ### Final deliverables
 
-* **Poster**: to be hosted and exhibited in our poster session on Wed Apr 08 from 9:30 am to 12 pm in the Atrium of the ESB, worth 20 points. Group-level deliverable. 
+* **Poster**: to be hosted and exhibited in our poster session on Wed Apr 6 from 9:30 am to 12 pm in the Atrium of the ESB. Group-level deliverable. 
 
     - Ideally, you will print your poster in the usual conference format (48''x36''). I know it is a non-trivial cost but not impossible if divided up. Sometimes supervisors will help, esp. if the poster can be displayed or used elsewhere. Prices at the village and the Sub tend to be resonable.
     
     - a rubric for poster evaluation can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/posterRubric2012.pdf)
 
 
-* **Project proposal**: due April 10th, worth 10 points. You can review the one submitted on March based on your work on the project.
+* **Project proposal**: due February 15. You can review the one submitted on March based on your work on the project.
 
-* **Project GitHub repository**: due April 10th, worth 10 points. This should contain the materials (or associated live links) an instructor would need to evaluate your work and that a group member would need to reproduce/reuse/extend the work. Group-level deliverable. Content should include (but is not limited to!):
+* **Project GitHub repository**: This should contain the materials (or associated live links) an instructor would need to evaluate your work and that a group member would need to reproduce/reuse/extend the work. Group-level deliverable. Content should include (but is not limited to!):
 
     - revised README.md file containing a summary of your work. This file should summarize the project content, your analysis, and main results. You don't need to tell us all the story of your analysis here. Keep it brief. You can include a flow chart if you find it useful. Add links as needed
 
@@ -223,7 +196,8 @@ This information will be used to create a private repository for each group to h
     - a link-y version of your bibliography (for example, live Pubmed or DOI links).
 
 
-* **Short individual report (1 page)**: due April 10th, worth 10 points. Individual deliverable. Include:
+* **Short individual report (1 page)**: 
+Individual deliverable. Include:
     - concise summary of main role / contribution of each group member 
     - more detailed description and reflections on your specific role / contribution
     - scientific reflections. E.g., what worked well / poorly? what seems worth following up vs. a dead end? what was most difficult or most rewarding?
