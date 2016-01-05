@@ -4,30 +4,27 @@ output:
   html_document:
     includes:
       after_body: include/nothing.html
-encoding: UTF-8
 ---
-## Homework 1
 
-- Detail coming soon
-
-*Due date*: 
+## Homework 
+- More detailed coming soon 
+- Projected due date: Feb 29
 
 ### STAT 540 Homework Submission Instructions
 
 **GitHub**
+You all have a private repository in STAT540-UBC organization account, i.e., the repo `lastname-firstnmae_STAT540_2016` . We assume that 
 
-You all have a private repository in STAT540-UBC organization account, i.e., the repo `your-name_STAT540_2015` . We assume that 
-
-* You'�ve already installed Git and (probably) a Git client.
-* You can use command line Git and/or your Git client and perhaps even RStudio to push, pull, etc. to/from GitHub. 
+* You've already installed Git and (probably) a Git client.
+* You can use command line Git and/or your Git client and perhaps even RStudio to push, pull, etc. to/from GitHub. 
 * All your work is nicely organized in *this* repository. Your repository needs to include a clear top-level `README.md` that contains links to your work. This is the presentation of your repository and it helps others to find your work and contributions!
 
-* **IMPORTANT NOTE**: use the repository within the organization assigned to you to submit all your course work (i.e., the repo `your-name_STAT540_2015`). Do not use branches or other repositories.
+**IMPORTANT NOTE**: use the repository within the organization assigned to you to submit all your course work (i.e., the repo `lastname-firstnmae_STAT540_2016`). Do not use branches or other repositories.
   
 
 **Set-up your private GitHub repo for homework**
 
-  * We're talking about the repo `your-name_STAT540_2015` now.
+  * We're talking about the repo `lastname-firstnmae_STAT540_2016` now.
   * Make a top-level directory for each assignment, e.g. `hw01` and `hw02`
     - We truly mean a [directory or "folder"](http://en.wikipedia.org/wiki/Directory_(computing)) -- NOT a [Git branch](http://git-scm.com/book/en/Git-Branching) or anything fancy like that! On your local computer, go to the directory where this Git repository lives. Make the 2 directories here.    
   * It is also nice to include a `README.md` inside each of the assignment directories. 
@@ -46,7 +43,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
   * Compile your homework to Markdown (file extension should be `.md`) and then to HTML (file extension should be `.html`).
     - RStudio's "Knit HTML" button will do this
     - Alternatively, use `knit2html()` from the `knitr` package in the R Console or in an R script.
-    - To run from the shell or in a Makefile, use something like `Rscript -e "knitr::knit2html('hw01_your-name.rmd')"`
+    - To run from the shell or in a Makefile, use something like `Rscript -e "knitr::knit2html('hw01_lastname-firstnmae.rmd')"`
   * Notice that, by default, any figures created are placed into a `figures/` subdirectory. The intermediate Markdown file links to these and, therefore, requires them to present your full report. By default, the figures are base64 encoded and *embedded* into the HTML, which, therefore, is self-contained.
 
 **What to put (or not put) into your Git(Hub) repository**
