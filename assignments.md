@@ -71,7 +71,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
     - Just above the file list, look for the text "latest commit" followed by ten numbers and letters (called the revision SHA) and a clipboard icon
      - Click on the clipboard icon to copy the revision SHA to your clipboard
     - Click on "Issues", then on "New Issue". Name the issue "Mark hw0x of *your repository name*", where *x* is, e.g. 1 or 2.
-    - In the description of the issue, tag Gaby and both TAs by including the text `@gcohenfr`, `@wdurno`, `@aliceZhu`, and paste the revision SHA. Include a link to exactly where you want a reviewer to go! 
+    - In the description of the issue, tag Sara and both TAs by including the text `@saramostafavi`, `@marjanfarahbod`, `@santina`, and paste the revision SHA. Include a link to exactly where you want a reviewer to go! 
      - Click "Submit new issue". You're done! Congratulations!
 
 > If you're concerned that something hasn't gone right with the submission, send Marjan and Santina (marjan.farahbod@gmail.com, santina424@gmail.com) an e-mail with your assignment attached. **Note**: this is *only* an emergency back-up plan. We will pester and work with you until you eventually get it submitted via GitHub.
