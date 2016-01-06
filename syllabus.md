@@ -76,7 +76,7 @@ table {
 date         notes                                                                                                                 instructor 
 -----------  --------------------------------------------------------------------------------------------------------------------  -----------
 Jan-04 Mon   <a href="lect01_course-intro.pdf">lecture-1</a>: Intro to course                                                      PP         
-Jan-06 Wed   <a href="lect02.pdf">lecture-2</a>: Review of probability & inference                       SM         
+Jan-06 Wed   <a href="lect02.pdf">lecture-2</a>: Review of probability & inference                                                 SM         
 Jan-11 Mon   <a href="lect03_introToStatInf-endProbBasics-genInfReview.pdf">lecture-3</a>: Review of probability & inference       SM         
 Jan-13 Wed   <a href="lect04_exploration.pdf">lecture-4</a>: Exploratory data analysis                                             PP         
 Jan-18 Mon   <a href="lect05_dataCleaning-qualityControl.pdf">lecture-5</a>: Data QC and preprocessing                             SM         
