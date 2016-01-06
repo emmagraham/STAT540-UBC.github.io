@@ -122,22 +122,23 @@ Apr-06 Wed   Poster session                                                     
 **Calendar**
 
 
-date         lect                                                                                raw_notes                                                                   instructor 
------------  ----------------------------------------------------------------------------------  --------------------------------------------------------------------------  -----------
-Jan-06 Wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">seminar-1a</a>       11am-12pm: Getting ready to use GitHub in STAT540, borrowed from STAT545A   TBA        
-Jan-06 Wed   <a href="sm01b_gitIntro-basic-data-exploration.html">seminar-1b</a>                 11am-12pm: Git(hub) Intro & Exploring a small gene expression dataset       TBA        
-Jan-06 Wed   <a href="sm01c_biology-intro.pdf">seminar-1c</a>                                    12pm-1pm: Molecular biology/genetics 101                                    TBA        
-Jan-13 Wed   <a href="https://stat540-ubc.github.io/sm02a_rMarkdown.html">seminar-2a</a>         Markdown                                                                    TBA        
-Jan-13 Wed   <a href="https://stat540-ubc.github.io/sm02b_introProbCltLln.html">seminar-2b</a>   Probability and simulations (part I)                                        TBA        
-Jan-13 Wed   <a href="sm02c_playing-with-probability.html">seminar-2c</a>                        Probability and simulations (part II)                                       TBA        
-Jan-20 Wed   seminar-3                                                                           R graphics AND knitr, R markdown, and git(hub)                              TBA        
-Jan-27 Wed   seminar-4                                                                           Two group testing and data aggregation                                      TBA        
-Feb-03 Wed   <a href="sm05_lowDimLinMod.html">seminar-5</a>                                      Fitting and interpretting linear models (low volume)                        TBA        
-Feb-10 Wed   <a href="sm06_highVolumeLinearModelling.html">seminar-6</a>                         Fitting and interpretting linear models (high volume), limma package        TBA        
-Feb-24 Wed   <a href="sm07_RNA-seq-bam.html">seminar-7</a>                                       RNA-Seq analysis                                                            TBA        
-Feb-24 Wed   <a href="sm07_RNA-seq.html">seminar-7</a>                                           RNA-Seq analysis                                                            TBA        
-Mar-02 Wed   <a href="sm08_methylation.html">seminar-8</a>                                       Methylation analysis                                                        TBA        
-Mar-09 Wed   <a href="sm09_clustering-pca.html">seminar-9</a>                                    Clustering and PCA                                                          TBA        
-Mar-16 Wed   <a href="sm10_classification.html">seminar-10</a>                                   Supervised learning, cross validation, variable selection                   TBA        
-Mar-23 Wed   seminar-11                                                                          TA office hours during seminar time ... group project work                  TBA        
-Mar-30 Wed   seminar-12                                                                          TA office hours during seminar time ... group project work                  TBA        
+date         lect                                                                                raw_notes                                                                      instructor 
+-----------  ----------------------------------------------------------------------------------  -----------------------------------------------------------------------------  -----------
+Jan-06 Wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">seminar-1a</a>       11am-12:3-pm: Getting ready to use GitHub in STAT540, borrowed from STAT545A   TBA        
+Jan-06 Wed   <a href="sm01b_gitIntro-basic-data-exploration.html">seminar-1b</a>                 11am-12:30pm: Git(hub) Intro & Exploring a small gene expression dataset       TBA        
+Jan-06 Wed   <a href="sm01c_biology-intro.pdf">seminar-1c</a>                                    (Extra) Molecular biology/genetics 101 from 2015                               TBA        
+Jan-06 Wed   <a href="sm01d_biology-intro-2016.pdf">seminar-1d</a>                               12:30pm-1pm: Molecular biology/genetics presentation                           Marjan     
+Jan-13 Wed   <a href="https://stat540-ubc.github.io/sm02a_rMarkdown.html">seminar-2a</a>         Markdown                                                                       TBA        
+Jan-13 Wed   <a href="https://stat540-ubc.github.io/sm02b_introProbCltLln.html">seminar-2b</a>   Probability and simulations (part I)                                           TBA        
+Jan-13 Wed   <a href="sm02c_playing-with-probability.html">seminar-2c</a>                        Probability and simulations (part II)                                          TBA        
+Jan-20 Wed   seminar-3                                                                           R graphics AND knitr, R markdown, and git(hub)                                 TBA        
+Jan-27 Wed   seminar-4                                                                           Two group testing and data aggregation                                         TBA        
+Feb-03 Wed   <a href="sm05_lowDimLinMod.html">seminar-5</a>                                      Fitting and interpretting linear models (low volume)                           TBA        
+Feb-10 Wed   <a href="sm06_highVolumeLinearModelling.html">seminar-6</a>                         Fitting and interpretting linear models (high volume), limma package           TBA        
+Feb-24 Wed   <a href="sm07_RNA-seq-bam.html">seminar-7</a>                                       RNA-Seq analysis                                                               TBA        
+Feb-24 Wed   <a href="sm07_RNA-seq.html">seminar-7</a>                                           RNA-Seq analysis                                                               TBA        
+Mar-02 Wed   <a href="sm08_methylation.html">seminar-8</a>                                       Methylation analysis                                                           TBA        
+Mar-09 Wed   <a href="sm09_clustering-pca.html">seminar-9</a>                                    Clustering and PCA                                                             TBA        
+Mar-16 Wed   <a href="sm10_classification.html">seminar-10</a>                                   Supervised learning, cross validation, variable selection                      TBA        
+Mar-23 Wed   seminar-11                                                                          TA office hours during seminar time ... group project work                     TBA        
+Mar-30 Wed   seminar-12                                                                          TA office hours during seminar time ... group project work                     TBA        

@@ -62,7 +62,7 @@ sdat %>% head(3)
 smdat <-
   data.frame(html = list.files(pattern = '^sm.*html$'),
              stringsAsFactors = FALSE)
-smdat <- smdat %>% mutate(lect = str_extract(html, "sm[0-9]+[a-c]*"))
+smdat <- smdat %>% mutate(lect = str_extract(html, "sm[0-9]+[a-z]*"))
 smdat$lect <- sapply(smdat$lect, str_replace, pattern="sm0*([0-9]+)([a-z]*)", replacement="seminar-\\1\\2")
 
 sdat <- sdat %>% left_join(smdat, by="lect")
@@ -74,6 +74,7 @@ sdat <- sdat %>% left_join(smdat, by="lect")
 sdat$html[sdat$lect=="seminar-1a"] <-c('https://stat545-ubc.github.io/git01_git-install.html')
 
 sdat$html[sdat$lect=="seminar-1c"] <-c('sm01c_biology-intro.pdf')
+sdat$html[sdat$lect=="seminar-1d"] <-c('sm01d_biology-intro-2016.pdf')
 
 #separate links to seminar 02 parts
 sdat$html[sdat$lect=="seminar-2a"] <-c('https://stat540-ubc.github.io/sm02a_rMarkdown.html')

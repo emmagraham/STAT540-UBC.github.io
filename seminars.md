@@ -25,8 +25,9 @@ Work on your own to set up and learn more about R and RStudio. We will borrow so
 
   * [seminar 01a](https://stat545-ubc.github.io/git01_git-install.html) | Getting ready to use GitHub in STAT540, borrowed from STAT545A
   * [seminar 01b](sm01b_gitIntro-basic-data-exploration.html) | Git(Hub) intro & Explore a small gene expression dataset
-  * [seminar 01c](sm01c_biology-intro.pdf) | Molecular biology/genetics 101
-
+  * [seminar 01c](sm01c_biology-intro-2015.pdf) | Molecular biology/genetics 101 (from 2015)
+  * [seminar 01d](sm01d_biology-intro-2016.pdf) | Molecular biology/genetics presentation by Marjan
+  
 **Seminar 02**
 
   * [seminar 02a](sm02a_rMarkdown.html) | Learn how to use rMarkdown
