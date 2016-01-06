@@ -113,6 +113,8 @@ Apr-06 Wed   Poster session                                                     
 
 ### Seminars
 
+[Seminar slides](https://docs.google.com/presentation/d/12drsmu8DBbSuGgkycyt0G_DcCI8SU2tnom1p03k-mGg/edit?usp=sharing)
+
 **Time**: Wed 12pm - 1pm (but welcome to come after class around 11am)
 
 **Location**: ESB 1042 and 1046
