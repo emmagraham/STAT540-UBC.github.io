@@ -13,7 +13,7 @@ Officially none BUT here in reality ...
 **Biology**: 
 
 - No requirements, but you are expected to learn things like the difference between a DNA and RNA and a gene and a genome
-- See [Seminar-1c](sm01c_biology-intro.pdf) 
+- See [Seminar-1c](sm01d_biology-intro_2016.pdf) 
 
 **R**: 
 
@@ -33,7 +33,7 @@ Officially none BUT here in reality ...
 
 - One assignment worth 30 points. (see calendar below).
 - Involve detailed analysis of real data using R 
-- Due two weeks after the assignment is posted (coming soon!)
+- See the schedule for details 
 
 
 **Group project**: 
@@ -43,7 +43,7 @@ Officially none BUT here in reality ...
     - Now - January 22: Pitch your ideas, find an idea, form a 4-5 people group 
     - January 29: Finish the initial project proposal
     - February 12: Receive feedback on the project proposal 
-    - February 15: Finalize the proposal 
+    - March 4: Finalize the report
     - April 6: Poster session 
 - Grading and deliverable 
     - Primary deliverable is a poster. Each student also produces a short report 
@@ -64,7 +64,7 @@ table {
 }
 </style>
 
-### Class mettings
+### Class mettings and schedule 
 
 **Time** : Mon Wed 9:30 - 11am
 
@@ -114,7 +114,9 @@ Apr-06 Wed   Poster session                                                     
 
 ### Seminars
 
-[Seminar slides](https://docs.google.com/presentation/d/12drsmu8DBbSuGgkycyt0G_DcCI8SU2tnom1p03k-mGg/edit?usp=sharing)
+Seminars are guided by the TAs (Marjan and Santina). We strongly recommend going throuhg the seminar in your own time before each Wednesday to ensure a productive session. 
+
+[Seminar outline slides](https://docs.google.com/presentation/d/12drsmu8DBbSuGgkycyt0G_DcCI8SU2tnom1p03k-mGg/edit?usp=sharing)
 
 **Time**: Wed 12pm - 1pm (but welcome to come after class around 11am)
 
