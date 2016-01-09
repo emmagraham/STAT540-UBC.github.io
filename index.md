@@ -8,7 +8,7 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-## [NEW ANNOUNCEMENT on Seminar 1 >](http://stat540-ubc.github.io/announcements.html) 
+## [NEW ANNOUNCEMENT assignment deadlines posted >](announcements.html) 
 
 ### UBC STAT 540
 
