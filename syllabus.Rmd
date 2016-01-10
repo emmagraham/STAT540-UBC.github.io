@@ -30,7 +30,7 @@ cdat %>% head(3)
 
 ## link to the class page of any class meetings where such exists
 cmdat <-
-  data.frame(pdf = list.files(pattern = '^lect.*pdf$'),
+  data.frame(pdf = list.files(path="lectures", pattern = '^lect.*pdf$', full.names=TRUE),
              stringsAsFactors = FALSE)
 cmdat <- cmdat %>% mutate(lect = str_extract(pdf, "lect[0-9]+"))
 cmdat$lect <- sapply(cmdat$lect, str_replace, pattern="lect0*([0-9]+)", replacement="lecture-\\1")
@@ -60,7 +60,7 @@ sdat %>% head(3)
 
 ## link to the page of any seminar where such exists
 smdat <-
-  data.frame(html = list.files(pattern = '^sm.*html$'),
+  data.frame(html = list.files(path="seminars", pattern = '^sm.*html$', full.names=TRUE),
              stringsAsFactors = FALSE)
 smdat <- smdat %>% mutate(lect = str_extract(html, "sm[0-9]+[a-z]*"))
 smdat$lect <- sapply(smdat$lect, str_replace, pattern="sm0*([0-9]+)([a-z]*)", replacement="seminar-\\1\\2")
