@@ -3,7 +3,9 @@ title: "People"
 output:
   html_document:
     includes:
+      before_body: ../include/nav.html
       after_body: ../include/nothing.html
+    toc: true
 ---
 
  

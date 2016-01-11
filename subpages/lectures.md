@@ -3,7 +3,9 @@ title: "Lectures"
 output:
   html_document:
     includes:
+      before_body: ../include/nav.html
       after_body: ../include/nothing.html
+    toc: true
 ---
 **Time**: Mon Wed 9:30 - 11am
 
