@@ -3,7 +3,7 @@ title: "Seminars"
 output:
   html_document:
     includes:
-      after_body: include/nothing.html
+      after_body: ../include/nothing.html
 ---
 
 **Time**: Wed 12pm - 1pm (welcome to come after class around 11am)

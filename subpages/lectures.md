@@ -3,7 +3,7 @@ title: "Lectures"
 output:
   html_document:
     includes:
-      after_body: include/nothing.html
+      after_body: ../include/nothing.html
 ---
 **Time**: Mon Wed 9:30 - 11am
 
