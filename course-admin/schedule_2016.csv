@@ -12,11 +12,14 @@ STAT540-Seminar,seminar-2b,Wed,January,13,2,2,Probability and simulations (part 
 STAT540-Seminar,seminar-2c,Wed,January,13,2,2,Probability and simulations (part II),TBA
 STAT540,lecture-5,Mon,January,18,3,5,Data QC and preprocessing,SM
 STAT540,lecture-6,Wed,January,20,3,6,Statistical inferene: two group comparisons,SM
-STAT540-Seminar,seminar-3,Wed,January,20,3,3,"R graphics AND knitr, R markdown, and git(hub)",TBA
+STAT540-Seminar,seminar-3a,Wed,January,20,3,3,"Knitr, Rmarkdown, and GitHub review",TBA
+STAT540-Seminar,seminar-3b,Wed,January,20,3,3,"R graphics - ggplot2",TBA
+STAT540-Seminar,seminar-3c,Wed,January,20,3,3,"R graphics - lattice",TBA
 STAT540,Announcement,Fri,January,22,3,NA,Project groups should be formed,NA
 STAT540,lecture-7,Mon,January,25,4,7,Statistical inferene: more than two groups,SM
 STAT540,lecture-8,Wed,January,27,4,8,Statistical inference: linear models,SM
-STAT540-Seminar,seminar-4,Wed,January,27,4,4,Two group testing and data aggregation,TBA
+STAT540-Seminar,seminar-4a,Wed,January,27,4,4,Two group testing and data aggregation,TBA
+STAT540-Seminar,seminar-4b,Wed,January,27,4,4,Introduction to data aggregation - dplyr version,TBA
 STAT540,Announcement,Fri,January,29,4,NA,Project proposals due,NA
 STAT540,lecture-9,Mon,February,1,5,9,Statistical inference: linear models,SM
 STAT540,lecture-10,Wed,February,3,5,10,"Statistical inference: large scale, limma, empirical bayes",SM
@@ -31,7 +34,8 @@ STAT540,Break,Wed,February,17,7,NA,Winter break,NA
 STAT540,Announcement,Mon,February,22,8,NA,Paper Critique 1 Due,NA
 STAT540,lecture-12,Mon,February,22,8,12,RNA-Seq data analysis I,PP
 STAT540,lecture-13,Wed,February,24,8,13,RNA-Seq data analysis II,PP
-STAT540-Seminar,seminar-7,Wed,February,24,8,7,RNA-Seq analysis,TBA
+STAT540-Seminar,seminar-7a,Wed,February,24,8,7,(optional) From BAM file to count data,TBA
+STAT540-Seminar,seminar-7b,Wed,February,24,8,7,RNA-Seq analysis,TBA
 STAT540,lecture-14,Mon,February,29,9,14,Epigenetic data,TBA
 STAT540,lecture-15,Wed,March,2,9,15,PCA,PP
 STAT540-Seminar,seminar-8,Wed,March,2,9,8,Methylation analysis,TBA
