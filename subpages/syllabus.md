@@ -1,8 +1,12 @@
-# Syllabus
-
-
-
-
+---
+title: "Syllabus"
+output:
+  html_document:
+    includes:
+      before_body: ../include/nav.html
+      after_body: ../include/nothing.html
+    toc: true
+---
 
 ### Prerequisites and useful skills
 
@@ -57,94 +61,19 @@ Officially none BUT here in reality ...
 - Select, read, summarize and critique a recent paper from the ‘omics literature – write one page max
 - Instruction on the paper critiques will be posted shortly 
 
-<!-- unholy hack to make following two tables less wide and the same wide -->
-<style type="text/css">
-table {
-   max-width: 70%;
-}
-</style>
 
-### Class mettings and schedule 
+### Schedule  
 
-**Time** : Mon Wed 9:30 - 11am
+**Class mettings** 
 
-**Location** : ESB 4192
+- Time : Mon Wed 9:30 - 11am
+- See [Lectures](lectures.html) for lecture materials, schedule, and deadlines 
 
-**Calendar**
+**Seminars**
 
-
-date         notes                                                                                                                          instructor 
------------  -----------------------------------------------------------------------------------------------------------------------------  -----------
-Jan-04 Mon   <a href="lectures/lect01_course-intro.pdf">lecture-1</a>: Intro to course                                                      PP         
-Jan-06 Wed   <a href="lectures/lect02_probabilityAndStatInference.pdf">lecture-2</a>: Review of probability & inference                     SM         
-Jan-11 Mon   <a href="lectures/lect03_introToStatInf-endProbBasics-genInfReview.pdf">lecture-3</a>: Review of probability & inference       SM         
-Jan-13 Wed   <a href="lectures/lect04_exploration.pdf">lecture-4</a>: Exploratory data analysis                                             PP         
-Jan-18 Mon   <a href="lectures/lect05_dataCleaning-qualityControl.pdf">lecture-5</a>: Data QC and preprocessing                             SM         
-Jan-20 Wed   <a href="lectures/lect06_two-groups.pdf">lecture-6</a>: Statistical inferene: two group comparisons                            SM         
-Jan-22 Fri   Project groups should be formed                                                                                                NA         
-Jan-25 Mon   <a href="lectures/lect07_beyondTwoGroups.pdf">lecture-7</a>: Statistical inferene: more than two groups                        SM         
-Jan-27 Wed   <a href="lectures/lect08_moreThanOneCatCovariate-linModGreatestHits.pdf">lecture-8</a>: Statistical inference: linear models   SM         
-Jan-29 Fri   Project proposals due                                                                                                          NA         
-Feb-01 Mon   <a href="lectures/lect09_quantCovariate-manyLineModAtOnce.pdf">lecture-9</a>: Statistical inference: linear models             SM         
-Feb-03 Wed   <a href="lectures/lect10_limma.pdf">lecture-10</a>: Statistical inference: large scale, limma, empirical bayes                 SM         
-Feb-08 Mon   No class; Family Day                                                                                                           NA         
-Feb-10 Wed   <a href="lectures/lect11_multipleTesting.pdf">lecture-11</a>: Statistical inference: multiple testing                          SM         
-Feb-12 Fri   HW1 posted                                                                                                                     NA         
-Feb-12 Fri   Initial feedback on project proposals                                                                                          NA         
-Feb-15 Mon   Winter break                                                                                                                   NA         
-Feb-17 Wed   Winter break                                                                                                                   NA         
-Feb-22 Mon   Paper Critique 1 Due                                                                                                           NA         
-Feb-22 Mon   <a href="lectures/lect12_RNAseqI.pdf">lecture-12</a>: RNA-Seq data analysis I                                                  PP         
-Feb-24 Wed   <a href="lectures/lect13_RNAseqII.pdf">lecture-13</a>: RNA-Seq data analysis II                                                PP         
-Feb-29 Mon   <a href="lectures/lect14_Methylation_Presentation_2015.pdf">lecture-14</a>: Epigenetic data                                    TBA        
-Mar-02 Wed   <a href="lectures/lect15_PCA.pdf">lecture-15</a>: PCA                                                                          PP         
-Mar-04 Fri   Final project report due                                                                                                       NA         
-Mar-08 Mon   <a href="lectures/lect16_clustering.pdf">lecture-16</a>: Clustering                                                            SM         
-Mar-09 Wed   <a href="lectures/lect17_supervised-learning.pdf">lecture-17</a>: Classification                                               SM         
-Mar-14 Mon   <a href="lectures/lect18_supervised-learning-II.pdf">lecture-18</a>: Cross validation                                          SM         
-Mar-16 Wed   <a href="lectures/lect19_regularization.pdf">lecture-19</a>: Regularization                                                    SM         
-Mar-18 Fri   HW1 Due                                                                                                                        NA         
-Mar-21 Mon   <a href="lectures/lect20_function1.pdf">lecture-20</a>: Resampling and bootstrap                                               SM         
-Mar-23 Wed   <a href="lectures/lect21_function2.pdf">lecture-21</a>: Analysis of gene function I                                            PP         
-Mar-28 Mon   No class; Easter Monday                                                                                                        NA         
-Mar-30 Wed   <a href="lectures/lect22b_resampling.pdf">lecture-22</a>: Analysis of gene function II                                         PP         
-Apr-01 Fri   Paper Critique 2 due                                                                                                           NA         
-Apr-04 Mon   lecture-23: Guest lecture                                                                                                      TBA        
-Apr-06 Wed   Poster session                                                                                                                 NA         
-
-### Seminars
-
-Seminars are guided by the TAs (Marjan and Santina). We strongly recommend going throuhg the seminar in your own time before each Wednesday to ensure a productive session. 
-
-[Seminar outline slides](https://docs.google.com/presentation/d/12drsmu8DBbSuGgkycyt0G_DcCI8SU2tnom1p03k-mGg/edit?usp=sharing)
-
-**Time**: Wed 12pm - 1pm (but welcome to come after class around 11am)
-
-**Location**: ESB 1042 and 1046
-
-**Calendar**
+- Time : Wed 11pm - 12pm and 12pm - 1pm 
+- Location: ESB 1042 and 1046
+- See [Seminars](seminars.html) for schedule and seminar materials 
+- We strongly recommend reading the seminar materials prior to attending each seminar. 
 
 
-date         lect                                                                            raw_notes                                                                      instructor 
------------  ------------------------------------------------------------------------------  -----------------------------------------------------------------------------  -----------
-Jan-06 Wed   <a href="https://stat545-ubc.github.io/git01_git-install.html">seminar-1a</a>   11am-12:3-pm: Getting ready to use GitHub in STAT540, borrowed from STAT545A   TBA        
-Jan-06 Wed   <a href="seminars/sm01b_gitIntro-basic-data-exploration.html">seminar-1b</a>    11am-12:30pm: Git(hub) Intro & Exploring a small gene expression dataset       TBA        
-Jan-06 Wed   <a href="seminars/sm01c_biology-intro-2015.pdf">seminar-1c</a>                  (Extra) Molecular biology/genetics 101 from 2015                               TBA        
-Jan-06 Wed   <a href="seminars/sm01d_biology-intro-2016.pdf">seminar-1d</a>                  12:30pm-1pm: Molecular biology/genetics presentation                           Marjan     
-Jan-13 Wed   <a href="seminars/sm02a_rMarkdown.html">seminar-2a</a>                          Markdown                                                                       TBA        
-Jan-13 Wed   <a href="seminars/sm02b_introProbCltLln.html">seminar-2b</a>                    Probability and simulations (part I)                                           TBA        
-Jan-13 Wed   <a href="seminars/sm02c_playing-with-probability.html">seminar-2c</a>           Probability and simulations (part II)                                          TBA        
-Jan-20 Wed   <a href="seminars/sm03a_repoOrganization.html">seminar-3a</a>                   Knitr, Rmarkdown, and GitHub review                                            TBA        
-Jan-20 Wed   <a href="seminars/sm03b_ggplot2.html">seminar-3b</a>                            R graphics - ggplot2                                                           TBA        
-Jan-20 Wed   <a href="seminars/sm03c_lattice.html">seminar-3c</a>                            R graphics - lattice                                                           TBA        
-Jan-27 Wed   <a href="seminars/sm04a_dataAggTwoGrp.html">seminar-4a</a>                      Two group testing and data aggregation                                         TBA        
-Jan-27 Wed   <a href="seminars/sm04b_dataAggregation.html">seminar-4b</a>                    Introduction to data aggregation - dplyr version                               TBA        
-Feb-03 Wed   <a href="seminars/sm05_lowDimLinMod.html">seminar-5</a>                         Fitting and interpretting linear models (low volume)                           TBA        
-Feb-10 Wed   <a href="seminars/sm06_highVolumeLinearModelling.html">seminar-6</a>            Fitting and interpretting linear models (high volume), limma package           TBA        
-Feb-24 Wed   <a href="seminars/sm07a_RNA-seq-bam.html">seminar-7a</a>                        (optional) From BAM file to count data                                         TBA        
-Feb-24 Wed   <a href="seminars/sm07b_RNA-seq.html">seminar-7b</a>                            RNA-Seq analysis                                                               TBA        
-Mar-02 Wed   <a href="seminars/sm08_methylation.html">seminar-8</a>                          Methylation analysis                                                           TBA        
-Mar-09 Wed   <a href="seminars/sm09_clustering-pca.html">seminar-9</a>                       Clustering and PCA                                                             TBA        
-Mar-16 Wed   <a href="seminars/sm10_classification.html">seminar-10</a>                      Supervised learning, cross validation, variable selection                      TBA        
-Mar-23 Wed   seminar-11                                                                      TA office hours during seminar time ... group project work                     TBA        
-Mar-30 Wed   seminar-12                                                                      TA office hours during seminar time ... group project work                     TBA        
