@@ -9,7 +9,7 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-## [NEW ANNOUNCEMENT assignment deadlines posted >](subpages/announcements.html) 
+### [NEW ANNOUNCEMENT - sharpen your data science skills >](subpages/announcements.html) 
 
 ### UBC STAT 540
 
