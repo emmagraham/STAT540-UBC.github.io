@@ -25,7 +25,7 @@ STAT540,lecture-9,Mon,February,1,5,9,Statistical inference: linear models,SM
 STAT540,lecture-10,Wed,February,3,5,10,"Statistical inference: large scale, limma, empirical bayes",SM
 STAT540-Seminar,seminar-5,Wed,February,3,5,5,Fitting and interpretting linear models (low volume),TBA
 STAT540,Break,Mon,February,8,6,NA,No class; Family Day,NA
-STAT540,lecture-11,Wed,February,10,6,11,Statistical inference: multiple testing,Dr. Bernard Ng
+STAT540,lecture-11,Wed,February,10,6,11,Statistical inference: multiple testing, Dr. Bernard Ng
 STAT540-Seminar,seminar-6,Wed,February,10,6,6,"Fitting and interpretting linear models (high volume), limma package",TBA
 STAT540,Announcement,Fri,February,12,6,NA,HW1 posted,NA
 STAT540,Announcement,Fri,February,12,6,NA,Initial feedback on project proposals,NA
@@ -36,7 +36,7 @@ STAT540,lecture-12,Mon,February,22,8,12,RNA-Seq data analysis I,PP
 STAT540,lecture-13,Wed,February,24,8,13,RNA-Seq data analysis II,PP
 STAT540-Seminar,seminar-7a,Wed,February,24,8,7,(optional) From BAM file to count data,TBA
 STAT540-Seminar,seminar-7b,Wed,February,24,8,7,RNA-Seq analysis,TBA
-STAT540,lecture-14,Mon,February,29,9,14,Epigenetic data,TBA
+STAT540,lecture-14,Mon,February,29,9,14,Guest Lecture, Dr. Meaghan Jones
 STAT540,lecture-15,Wed,March,2,9,15,PCA,PP
 STAT540-Seminar,seminar-8,Wed,March,2,9,8,Methylation analysis,TBA
 STAT540,Announcement,Fri,March,4,9,NA,Final project report due,NA
@@ -54,5 +54,5 @@ STAT540,Break,Mon,March,28,13,NA,No class; Easter Monday,NA
 STAT540,lecture-22,Wed,March,30,13,22,Analysis of gene function II,PP
 STAT540-Seminar,seminar-12,Wed,March,30,13,12,TA office hours during seminar time ... group project work,TBA
 STAT540,Announcement,Fri,April,1,13,NA,Paper Critique 2 due,NA
-STAT540,lecture-23,Mon,April,4,14,23,Guest lecture,TBA
+STAT540,lecture-23,Mon,April,4,14,23,Guest lecture, Dr. Sohrab Shah
 STAT540,Announcement,Wed,April,6,14,24,Poster session,NA
