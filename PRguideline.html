@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+<meta name="author" content="Marjan Farahbod" />
+
+
+<title>PRguideline</title>
+
+<script src="libs/jquery-1.11.0/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="libs/bootstrap-3.3.1/css/united.min.css" rel="stylesheet" />
+<script src="libs/bootstrap-3.3.1/js/bootstrap.min.js"></script>
+<script src="libs/bootstrap-3.3.1/shim/html5shiv.min.js"></script>
+<script src="libs/bootstrap-3.3.1/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="libs/highlight/default.css"
+      type="text/css" />
+<script src="libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+<link rel="stylesheet" href="libs/local/nav.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img { 
+  max-width:100%; 
+  height: auto; 
+}
+</style>
+<div class="container-fluid main-container">
+
+<header>
+  <style>
+    .nav ul {
+        display: inline-block;
+        padding-left: 10px;
+    }
+    .nav ul li {
+        list-style: none;
+        display: inline-block;
+        padding: 0 5px;
+        line-height: 30px;
+        border: solid 1px #D0D0D0;
+        background-color: #ECECEC;
+    }
+  </style>
+  <div class="nav">
+    <a class="nav-logo" href="/index.html">
+      <img src="static/img/stat540-logo-s.png" width="70px" height="70px"/>
+    </a>
+    <ul>
+      <li class="home"><a href="/index.html">Home</a></li>
+      <li class="announcements"><a href="/subpages/announcements.html">Announcements</a></li>
+      <li class="syllabus"><a href="/subpages/syllabus.html">Syllabus</a></li>
+      <li class="lectures"><a href="/subpages/lectures.html">Lectures</a></li>
+      <li class="seminars"><a href="/subpages/seminars.html">Seminars</a></li>
+      <li class="assignments"><a href="/subpages/assignments.html">Assignments</a></li>
+      <li class="people"><a href="/subpages/people.html">People</a></li>
+    </ul>
+  </div>
+</header>
+
+<div id="header">
+<h1 class="title">PRguideline</h1>
+<h4 class="author"><em>Marjan Farahbod</em></h4>
+<h4 class="date"><em>February 2, 2016</em></h4>
+</div>
+
+
+<div id="where-to-look-for-the-paper" class="section level2">
+<h2>Where to look for the paper</h2>
+<p>There are several journals you can check, below is a list of some journals that I have come across, based on my field of research. There are plenty more.</p>
+<ul>
+<li>Plos Computational Biology</li>
+<li>Bioinformatics</li>
+<li>Nature Biotechnology</li>
+<li>Nature Methods</li>
+<li>BMC Biomedical</li>
+<li>Genome Research</li>
+<li>Molecular Systems Biology</li>
+<li>Genome Biology</li>
+</ul>
+<p>You can also look at conference proceedings. Here are some relevant conferences:</p>
+<ul>
+<li>ISMB</li>
+<li>Recomb</li>
+<li>Pacific Symposium on Biocomputing</li>
+</ul>
+<p>It is a good idea to check for the impact factor of the journal, that would give you a sense of journal’s quality in your field.</p>
+</div>
+<div id="how-to-pick-it" class="section level2">
+<h2>How to pick it</h2>
+<p>Well, you probably already have some interests in the field. A particular disease or tissue, for example. Look for that in the title of the papers. Papers with some sort of <strong>expression data</strong> (i.e: RNA-seq, microarray) are a good choice, as you can compare their analytical methods with ones you learn in the course. Some journals are specific to a field, like “Molecular Psychiatry” or “The journal of Allergy and Clinical Immunology”. You can use Google Scholar to find papers about the subject of your interest as well.</p>
+<p>Paul and I browsed the some recent issues of Nature and Science and were able to spot some articles (quite easily) which have some sort of <em>expression data</em> analysis and therefore are related to the course material.</p>
+<div id="dont-panic-if-the-biology-is-new" class="section level4">
+<h4>Don’t panic if the Biology is new</h4>
+<p>Different subjects in Biology might have many new terms and phrases for someone who is not a Biologist or Bioinformatician working in that particular field. Look up the words and try to get to the main purpose of the paper. You don’t need to understand every single Biological aspect of the paper.</p>
+</div>
+</div>
+<div id="ok-i-got-my-paper-where-do-i-start" class="section level2">
+<h2>OK, I got my paper, where do I start?</h2>
+<div id="read-the-title-and-abstract-see-if-you-can-answer-these-questions" class="section level3">
+<h3>Read the title and abstract, see if you can answer these questions:</h3>
+<div id="what-is-the-contribution-of-the-paper" class="section level4">
+<h4>What is the contribution of the paper?</h4>
+<ul>
+<li>Is it a specific Biological finding? Like: A gene being associated to a disease.</li>
+<li>Is it introducing a new analytical method (which is supposedly better than the previously known methods)? Like: a new clustering method for gene expression data.</li>
+<li>Is it introducing a new form of molecular experiment, which could potentially result in new findings? Like: a new method for Single Cell experiments.</li>
+</ul>
+</div>
+<div id="what-are-the-questions-if-any-that-the-authors-were-trying-to-answer-in-their-research" class="section level4">
+<h4>What are the questions (if any) that the authors were trying to answer in their research?</h4>
+<p>Like: A study on the genetics of Autism. <em>The authors were trying to find (or claim to have found) a group of genes associated with ASD.</em></p>
+<p>At this point you should have a brief idea of what is the paper about. You probably could even guess what kind of data is used in the study (or it is mentioned in the abstract), or what are the key analytical processes.</p>
+</div>
+</div>
+<div id="through-the-main-body-and-the-methods-section-or-even-supplementary-learn-about-the-data-they-used" class="section level3">
+<h3>Through the main body and the methods section (or even supplementary), learn about the data they used</h3>
+<ul>
+<li><p>Do they use any expression datasets (i.e. RNA-seq or microarray) in their study? Do they have an expression matrix for genes or transcripts? What is the size of the data matrix? How many factors do they have? Look for some of the QC steps in the supplementary or the main body of the paper. How would you compare that to those you learned from the course?</p></li>
+<li><p>Look for other kinds of data in the paper. Are there Genomics, Proteomics or Methylation data? Are they using previously published datasets or they have generated the data themselves? Do they use a specific DataBase to complement their analysis and results? What is that database, how is the data collected there?</p></li>
+</ul>
+</div>
+<div id="what-kind-of-analysis-do-they-do" class="section level3">
+<h3>What kind of analysis do they do?</h3>
+<p>It is common that you observe many analytical methods in a paper. Multiple methods could be applied (and compared with each other) on one dataset. Also, different methods might be used for different types of data in one paper. Look for the <em>key analysis/method used to answer the main questions in the paper</em>.</p>
+<ul>
+<li>Check out the figures or methods section for familiar terms like: p-value, clustering, PCA, etc.</li>
+<li>What was the statistical test from which the p-value was obtained? What is the p-value exactly showing?</li>
+<li>What is their clustering method? How is it different/similar to the clustering methods we see in the course?</li>
+<li>What kind of model are they using for analyzing the data?</li>
+<li>Did they use any Bootstrap/resampling?</li>
+<li>Do you see any gene function/ network analysis? How could you comment/explain/criticize that?</li>
+</ul>
+</div>
+</div>
+
+<div class="footer">
+This work is licensed under the  <a href="http://creativecommons.org/licenses/by-nc/3.0/">CC BY-NC 3.0 Creative Commons License</a>.
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
