@@ -135,7 +135,7 @@ We have provided [this](http://stat540-ubc.github.io/homework/paper\_critique/PR
 **Delivery:** You should put your paper review files in your individual course repository in .md format (notice that you don't need to write it in .Rmd since you are not going to have any R code in it). You could edit .md files directly from github and therefore can write your full report there, but can also write it in your RStudio and then push it to your repository. Your paper review file should be named _paperreview01_ for the first one and _paperreview02_ for the second one and each file should have the following the beginning:
 
 1. The name of the paper with link to pubmed or the journal 
-2. The year it was published 
+2. The month and year it was published 
 
 
 ## Final group project
