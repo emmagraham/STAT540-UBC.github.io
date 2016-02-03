@@ -4,7 +4,7 @@
 
 **Goals and findings of the paper**
 
-The study is on the effect of miroRNA miR-218 expression on motoneurons (a type of neuron!). There is potentially a relationship between its expression and some motoneuron related diseases such as Amyotrophic Lateral Sclerosis (ALS) and Spinal Muscular Atrophy (SMA). They show that miR-218 is highly and specifically expressed in spinal and cranial motoneurons versus V2a and V3 neurons both in human and mouse and therefore represses a specific set of genes (which are its targets) in motoneurons versus other groups of neurons. These genes are otherwise expressed in many different neuron types and are not specific to a particular subset of neurons.
+The study is on the effect of miroRNA miR-218 expression on motoneurons (a type of neuron!). There is potentially a relationship between its expression and some motoneuron related diseases such as Amyotrophic Lateral Sclerosis (ALS) and Spinal Muscular Atrophy (SMA) based on previous studies. They show that miR-218 is highly and specifically expressed in spinal and cranial motoneurons versus V2a and V3 neurons both in human and mouse and therefore represses a specific set of genes (which are its targets) in motoneurons versus other groups of neurons. These genes are otherwise expressed in many different neuron types and are not specific to a particular subset of neurons.
 
 **Datasets, experiments and relevant analysis**
 
