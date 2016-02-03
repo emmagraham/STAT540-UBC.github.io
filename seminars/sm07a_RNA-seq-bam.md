@@ -3,6 +3,9 @@ Seminar 7 optional material: From BAM File To Count Data
 
 Contributors: Katayoon Kasaian
 
+## **This seminar is currently being updated. For more information on RNAseq, please go to this [Bioconductor course mateial](https://www.bioconductor.org/help/course-materials/2015/Uruguay2015/V6-RNASeq.html) for now.** 
+
+
 ## Introduction
 
 In order to use RNA-Seq data for the purposes of differential expression, we need to begin by calculating an expression value for each gene (or any other expressed entity such as exons, non-coding RNAs, etc). The digital nature of RNA-seq data allows us to use the number of reads which align to a specific feature as its expression value. In this seminar, we will analyze a small subset of an alignment file and find the read counts for each gene in that region.
