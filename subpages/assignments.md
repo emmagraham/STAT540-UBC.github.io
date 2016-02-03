@@ -138,6 +138,7 @@ We have provided [this](http://stat540-ubc.github.io/homework/paper\_critique/PR
 2. The month and year it was published 
 
 [example paper review 01](http://stat540-ubc.github.io/homework/paper\_critique/paperReviewMarjan.md)
+
 [example paper review 02](http://stat540-ubc.github.io/homework/paper\_critique/paperReviewSantina.md)
 
 ## Final group project
