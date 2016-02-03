@@ -13,7 +13,7 @@ output:
 
 ### <font color="blue">**Important dates and deadlines:**</font>
 
-  * **Project groups formed - Jan 22nd**
+  * Project groups formed - **Jan 22nd**
   * **Project initial proposals - Jan 29th** 
   * **Homework posted - Feb 12th **
   * **Paper review 01 due - Feb 22nd **
