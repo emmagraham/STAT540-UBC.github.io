@@ -9,8 +9,19 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-### [NEW ANNOUNCEMENT - sharpen your data science skills >](subpages/announcements.html) 
+### [NEW ANNOUNCEMENT](subpages/announcements.html)
 
+### <font color="blue">**Important dates and deadlines:**</font>
+
+  * **Project groups formed - Jan 22nd**
+  * **Project initial proposals - Jan 29th** 
+  * **Homework posted - Feb 12th **
+  * **Paper review 01 due - Feb 22nd **
+  * **Project progress reports due - Mar 4th **
+  * **Homework due - Mar 18th**
+  * **Paper review 02 due - Apr 1st**
+  * **Poster session - Apr 6th**
+  
 ### UBC STAT 540
 
 STAT 540 is a 3 credit course with a mandatory computing seminar.
