@@ -7,7 +7,7 @@ output:
       after_body: ../include/nothing.html
 ---
 ### Paper review/critique 01 issue opened
-We have opened the issue for paper review 01. Please respnd. The deadline for the first paper review is on Feb 22nd. 
+We have opened the issue for paper review 01 **[here](https://github.com/STAT540-UBC/Discussion/issues/110)**. Please respond. The deadline for the first paper review is on <font color="red">Feb 22nd</font>. 
 
 ### Updated Deadlines
 
