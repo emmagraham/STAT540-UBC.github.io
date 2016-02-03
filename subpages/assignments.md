@@ -204,7 +204,26 @@ This information will be used to create a private repository for each group to h
     - a rubric for poster evaluation can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/posterRubric2012.pdf)
 
 
-* **Project proposal**: due February 15. You can review the one submitted on March based on your work on the project.
+* **Project progress report:** due March 4th. 
+
+    The project report should include the following information:
+
+    1. What is changed based on the initial proposal:
+    
+      - If you have decided to do different analysis and why
+      
+      - If your task assignment has changed and team members are doing different things now
+      
+      - If you have changed your data or the datasets you use and why.
+  
+  
+    2. What is the progress on the tasks and analysis mentioned in your proposal:
+    
+      - What analysis are finished (if any) and what are totally untouched
+      
+      - How much have you progressed in the rest of the tasks
+   Mention if you have decided which plots you want to use (volcano, heatmap, etc.)
+   
 
 * **Project GitHub repository**: This should contain the materials (or associated live links) an instructor would need to evaluate your work and that a group member would need to reproduce/reuse/extend the work. Group-level deliverable. Content should include (but is not limited to!):
 
