@@ -9,8 +9,8 @@ output:
 ---
 
 ## Homework 
-- More detailed coming soon 
-- Projected due date: Feb 29
+- Will be posted on the week of February 12 
+- Due date: March 18
 
 ### STAT 540 Homework Submission Instructions
 
