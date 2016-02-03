@@ -137,9 +137,9 @@ We have provided [this](http://stat540-ubc.github.io/homework/paper\_critique/PR
 1. The name of the paper with link to pubmed or the journal 
 2. The month and year it was published 
 
-[example paper review 01](http://stat540-ubc.github.io/homework/paper\_critique/paperReviewMarjan.md)
+[example paper review 01](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/paper_critique/paperReviewMarjan.md)
 
-[example paper review 02](http://stat540-ubc.github.io/homework/paper\_critique/paperReviewSantina.md)
+[example paper review 02](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/paper_critique/paperReviewSantina.md)
 
 ## Final group project
 
