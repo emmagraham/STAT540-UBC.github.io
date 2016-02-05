@@ -17,7 +17,7 @@ Officially none BUT here in reality ...
 **Biology**: 
 
 - No requirements, but you are expected to learn things like the difference between a DNA and RNA and a gene and a genome
-- See [Seminar-1c](seminars/sm01d_biology-intro_2016.pdf) 
+- See [Seminar-1c](../seminars/sm01d_biology-intro_2016.pdf) 
 
 **R**: 
 
@@ -29,7 +29,7 @@ Officially none BUT here in reality ...
 **Others:** 
 
 - You'll need to know how to use [Git](https://stat545-ubc.github.io/git01_git-install.html) and GitHub. 
-- We'll soon learn about [using Rmarkdown](https://stat540-ubc.github.io/sm02a_rMarkdown.html) to generate reports, and you'll be using that a lot in this course. 
+- We'll soon learn about [using Rmarkdown](https://stat540-ubc.github.io/seminars/sm02a_rMarkdown.html) to generate reports, and you'll be using that a lot in this course. 
 
 ### Evaluation
 
