@@ -11,7 +11,7 @@ output:
 ## Homework 
 - Will be posted on the week of February 12 
 - Due date: March 18
-- For help on your homework mechanics, please see this list of [assignment tips](../assignment_tips.html) 
+- For help on your homework mechanics, please see this list of [assignment tips](assignment_tips.html) 
 
 ### STAT 540 Homework Submission Instructions
 
