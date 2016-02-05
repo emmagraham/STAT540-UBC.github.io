@@ -99,35 +99,41 @@ img {
 <li><a href="#make-it-easy-for-people-to-access-your-work">Make it easy for people to access your work</a></li>
 <li><a href="#linking-to-html-files-in-the-repo">Linking to HTML files in the repo</a></li>
 <li><a href="#make-it-easy-for-others-to-run-your-code">Make it easy for others to run your code</a></li>
-<li><a href="#make-pretty-tables">Make pretty tables</a></li>
 </ul>
 </div>
 
 <p>This is for tips on the assignment, but also useful for seminars and any future project you might have.</p>
 <div id="when-working-on-the-assignment" class="section level3">
 <h3>When working on the assignment</h3>
-<ul>
-<li><p><em>Start early</em>. Even if you are already fluent with all the seminars materials, it’d still take time to answer all the questions.</p></li>
-<li>When you get stuck or when you run into an error, ask yourself these questions:
+<p><em>Start early</em>. Even if you are already fluent with all the seminars materials, it’d still take time to answer all the questions.</p>
+<p>When you get stuck or when you run into an error, ask yourself these questions:</p>
 <ul>
 <li>Am I in the right working directory ?</li>
 <li>Is this material covered in one of the seminars?</li>
 <li>Can I google the information to find how to do this?</li>
 <li>Is there an R package that can more efficiently do what I’m attempting now?</li>
 <li>Am I using the right parameters for this function? (hint, type <code>?function_name()</code> where function_name is the name of the function, to check if you’re using it right)</li>
-<li>Your Rmarkdown can’t be knitted ?</li>
-</ul></li>
-<li><p>Well-structured dataframes and reusable functions can often lighten your work load.</p></li>
-<li>Overall presentation and mechanics refer to the fluency, neatness, easyness to read. For example:
+</ul>
+<p>Your Rmarkdown can’t be knitted? Is it because you didn’t define all the variables inside your Rmarkdown? (your code chunk might run in Rstudio if all the variables are all defined in the Rstudio environment, but it wouldn’t run as the Rmarkdown is being knitted if the variables aren’t defined in the Rmarkdown document.)</p>
+<p>Well-structured dataframes and reusable functions can often lighten your work load.</p>
+<p>Overall presentation and mechanics refer to the fluency, neatness, easiness to read. For example:</p>
 <ul>
 <li>Using headings/subheadings to distinguishes different sections/questions</li>
 <li>Explain what you’re doing to show your understanding, ie sandwiching your code and result with some explanations and interpretation. We don’t want to see just a graph or some R outputs standing alone in a question.</li>
 <li>Use inline R code whenever you refers to the value of a variable in a block of text.</li>
 <li>Hide useless messages or warnings (though make sure the warnings are harmless) using code chunk options. But don’t hide any code that generates graphs or are critical steps in your analysis, obviously.</li>
-<li>Comment your code</li>
-<li>You might find <a href="https://www.rstudio.com/resources/cheatsheets/">cheatsheets from Rstudio</a> useful, in terms of graphing, making an awesome R markdown, etc.</li>
+<li>Comment on your code so that everyone, including yourself, can easily follow through your steps.
+<ul>
+<li>In R, comment follows the number sign. For example <code># What I did here</code><br />
+</li>
+</ul></li>
+<li>There are a few occasions where, instead of just printing an object with R, you could format the info in an nice table.
+<ul>
+<li>The <code>kable()</code> function from <code>knitr</code> package.</li>
+<li>Also look into the packages <code>xtable</code>, <code>pander</code> for making pretty HTML tables.</li>
 </ul></li>
 </ul>
+<p>You might find <a href="https://www.rstudio.com/resources/cheatsheets/">cheatsheets from Rstudio</a> useful, in terms of graphing, making an awesome R markdown, etc.</p>
 </div>
 <div id="make-it-easy-for-people-to-access-your-work" class="section level3">
 <h3>Make it easy for people to access your work</h3>
@@ -141,9 +147,7 @@ img {
 <li>The final pretty HTML report. Read instructions below on how access the pretty, not the ugly source.</li>
 </ul></li>
 </ul>
-<blockquote>
-<p>You could link to an HTML report on RPubs, but a GitHub-only solution is preferred. RPubs isn’t really necessary once your work is hosted on GitHub.Plus it’s kinda nice to keep this private.</p>
-</blockquote>
+<p>You could link to an HTML report on RPubs, but a GitHub-only solution is preferred. RPubs isn’t really necessary once your work is hosted on GitHub.</p>
 <p>If you want to see an example of a <code>README.md</code> that links to and explains a bunch of files in the same repo + subdirectory, you can look at an example from Prof Jenny Bryan’s STAT 545A <a href="https://github.com/jennybc/STAT545A_2013/tree/master/hw06_scaffolds/02_rAndMake">here</a></p>
 </div>
 <div id="linking-to-html-files-in-the-repo" class="section level3">
@@ -161,14 +165,6 @@ img {
 <li>In exactly one, very early R chunk, load any necessary packages, so your dependencies are obvious.</li>
 <li>In exactly one, very early R chunk, import anything coming from an external file. This will make it easy for someone to see which data files are required, edit to reflect their locals paths if necessary, etc. There are situations where you might not keep data in the repo itself.</li>
 <li>Pretend you are someone else. Clone a fresh copy of your own repo from GitHub, fire up a new RStudio session and try to knit your R markdown file. Does it “just work”? It should!</li>
-</ul>
-</div>
-<div id="make-pretty-tables" class="section level3">
-<h3>Make pretty tables</h3>
-<p>There are a few occasions where, instead of just printing an object with R, you could format the info in an attractive table. Some leads:</p>
-<ul>
-<li>The <code>kable()</code> function from <code>knitr</code> package.</li>
-<li>Also look into the packages <code>xtable</code>, <code>pander</code> for making pretty HTML tables.</li>
 </ul>
 </div>
 
