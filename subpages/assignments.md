@@ -140,7 +140,7 @@ Each group will submit their work by responding to the Issue called "Group proje
 
 This information will be used to create a private repository for each group to host all work related to the project.
 
-**Due Friday February 15**
+**Due Monday February 15**
   
   * One page proposal should probably be part of the `README.md` for the repo, or should be linked in the `README.md`. Incorporate all comments given by professors/TAs. This proposal needs to outline:
     - a clear motivation of the problem/question we will investigate
