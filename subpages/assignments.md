@@ -9,7 +9,7 @@ output:
 ---
 
 ## Homework 
-- There are 8 question in this [assignment](../homework/assignment/homework.md). Start early!  
+- There are 8 question in this [assignment](../homework/assignment/homework.html). Start early!  
 - Due date: March 18
 - For help on your homework mechanics, please see this list of [assignment tips](assignment_tips.html) 
 
