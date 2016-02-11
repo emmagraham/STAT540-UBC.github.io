@@ -37,7 +37,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
 
   * Write your homework in R Markdown. The file extension should be `.rmd`.
   * Recommendation: Create a skeleton of your report by starting with the Markdown file that creates the assignment itself! You can take some things away (unnecessary detail) and add others (R chunks) to morph this into your homework solution.
-    - [Source for 2016 homework assignment 1](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/homework.md)
+    - [Source for 2016 homework assignment](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/assignment/homework.md)
     - You'll have these files if you are using Git(Hub) to keep a current copy of the whole course repository. Or, from the links above, click on "Raw" to get raw Markdown and save to a local file.
     
 **HTML**
