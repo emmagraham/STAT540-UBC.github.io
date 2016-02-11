@@ -16,6 +16,7 @@ output:
   * **Project groups formed - Jan 22nd**
   * **Project initial proposals - Jan 29th** 
   * **Homework posted - Feb 12th **
+  * **Project proposal - Feb 15th **
   * **Paper review 01 due - Feb 22nd **
   * **Project progress reports due - Mar 4th **
   * **Homework due - Mar 18th**
