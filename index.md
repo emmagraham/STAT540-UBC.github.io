@@ -9,7 +9,7 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-### [NEW ANNOUNCEMENT](subpages/announcements.html)
+### [NEW ANNOUNCEMENT: Assignment has been posted](subpages/announcements.html)
 
 ### <font color="blue">**Important dates and deadlines:**</font>
 

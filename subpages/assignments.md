@@ -9,7 +9,7 @@ output:
 ---
 
 ## Homework 
-- Will be posted on the week of February 12 
+- There are 8 question in this [assignment](../homework/assignment/homework.md). Start early!  
 - Due date: March 18
 - For help on your homework mechanics, please see this list of [assignment tips](assignment_tips.html) 
 
@@ -72,8 +72,8 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
     - Visit your private GitHub repository in a web browser
     - Just above the file list, look for the text "latest commit" followed by ten numbers and letters (called the revision SHA) and a clipboard icon
      - Click on the clipboard icon to copy the revision SHA to your clipboard
-    - Click on "Issues", then on "New Issue". Name the issue "Mark hw0x of *your repository name*", where *x* is, e.g. 1 or 2.
-    - In the description of the issue, tag Sara and both TAs by including the text `@saramostafavi`, `@marjanfarahbod`, `@santina`, and paste the revision SHA. Include a link to exactly where you want a reviewer to go! 
+    - Click on "Issues", then on "New Issue". Name the issue "Mark homework of *your repository name*".
+    - In the description of the issue, tag both TAs by including the text `@marjanfarahbod` and `@santina`, and paste the revision SHA. Include a link to exactly where you want a reviewer to go! 
      - Click "Submit new issue". You're done! Congratulations!
 
 > If you're concerned that something hasn't gone right with the submission, send Marjan and Santina (marjan.farahbod@gmail.com, santina424@gmail.com) an e-mail with your assignment attached. **Note**: this is *only* an emergency back-up plan. We will pester and work with you until you eventually get it submitted via GitHub.

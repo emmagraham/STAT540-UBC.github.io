@@ -6,6 +6,10 @@ output:
       before_body: ../include/nav.html
       after_body: ../include/nothing.html
 ---
+
+### Assignment  
+We have posted the assignment. You have a bit more than a month to work on it. Head over to the assignment tab now for relevant links, tips, and submission instructions, or go straight to [the asssignment](../homework/assignment/homework.md) to see the questions now. 
+
 ### Paper review/critique 01 issue opened
 We have opened the issue for paper review 01 **[here](https://github.com/STAT540-UBC/Discussion/issues/110)**. Please respond. The deadline for the first paper review is on <font color="red">Feb 22nd</font>. 
 
