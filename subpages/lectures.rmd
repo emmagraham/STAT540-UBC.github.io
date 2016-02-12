@@ -47,6 +47,10 @@ cdat$notes[pdf_exists] <-
 # Replace placeholder "LINK" which pdf file names 
 cdat$notes[pdf_exists] <- str_replace(cdat$notes[which(pdf_exists)], "LINK", cdat$pdf[which(pdf_exists)])
 
+# Insert MATLAB code link 
+cdat$notes <- str_replace(cdat$notes, "MATLAB code", '[MATLAB code](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/lectures/multipleTestingProblemMATLABCode.m)')
+
+
 dat_cm <- cdat %>% split(cdat$course)
 dat_cm <- lapply(dat_cm, 'rownames<-', NULL)
 ```
