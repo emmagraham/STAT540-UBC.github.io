@@ -8,6 +8,9 @@ output:
     toc: 3
 ---
 
+ <font color="red">**Deadlines are all by 11.59 pm of the due date**</font>
+
+
 ## Homework 
 - There are 8 question in this [assignment](../homework/assignment/homework.html). Start early!  
 - Due date: March 18
