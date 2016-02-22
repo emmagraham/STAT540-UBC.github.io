@@ -13,7 +13,9 @@ output:
 
 ### <font color="blue">**Important dates and deadlines:**</font>
 
-#### <font color="red">  Upcoming deadline for project proposal. Detailes </font> [here.](http://stat540-ubc.github.io/subpages/assignments.html#initial-deliverables)
+ <font color="red">**Note: Deadlines are all by 11.59 pm of the due date**</font>
+
+#### <font color="red">  Upcoming deadline for paper review. Detailes </font> [here.](http://stat540-ubc.github.io/subpages/assignments.html#paper-review)
 
   * **Project groups formed - Jan 22nd**
   * **Project initial proposals - Jan 29th** 
