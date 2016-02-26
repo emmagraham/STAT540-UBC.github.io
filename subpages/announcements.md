@@ -7,6 +7,10 @@ output:
       after_body: ../include/nothing.html
 ---
 
+### Update on lecture 11 
+
+There was some confusion about the false/true positive/negative table in the multiple testing lecture. We have added some clarification to that slide. See lecture 11, slide 12. 
+
 ### Assignment  
 We have posted the assignment. You have a bit more than a month to work on it. Head over to the assignment tab now for relevant links, tips, and submission instructions, or go straight to [the asssignment](http://stat540-ubc.github.io/homework/assignment/homework.html) to see the questions now. 
 
