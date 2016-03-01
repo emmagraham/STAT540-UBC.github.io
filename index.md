@@ -9,7 +9,7 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-### [NEW ANNOUNCEMENT: Update on lecture 11](subpages/announcements.html)
+### [NEW ANNOUNCEMENT: Update on lecture 14](subpages/announcements.html)
 
 ### <font color="blue">**Important dates and deadlines:**</font>
 

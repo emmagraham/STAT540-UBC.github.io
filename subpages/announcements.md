@@ -7,6 +7,10 @@ output:
       after_body: ../include/nothing.html
 ---
 
+### Update on lecture 14
+
+We have updated lecture 14 to the one Dr. Jones was using in the class. Cheers :) 
+
 ### Update on lecture 11 
 
 There was some confusion about the Type 1 vs Type 2 errors in the multiple testing lecture. We have added some clarification to that slide. See lecture 11, slide 12. 
