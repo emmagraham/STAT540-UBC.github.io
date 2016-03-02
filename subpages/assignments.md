@@ -189,6 +189,8 @@ This information will be used to create a private repository for each group to h
       - How much have you progressed in the rest of the tasks
    Mention if you have decided which plots you want to use (volcano, heatmap, etc.)
    
+   This project progress report should be a markdown file in your group project repo. Submit it by linking it in an issue and tag the TA and instructor who are mentors of your team. It's just like how you submitted your paper review, except this one is a group effort and resides in your group repo. 
+   
 
 * **Project GitHub repository**: This should contain the materials (or associated live links) an instructor would need to evaluate your work and that a group member would need to reproduce/reuse/extend the work. Group-level deliverable. Content should include (but is not limited to!):
 
