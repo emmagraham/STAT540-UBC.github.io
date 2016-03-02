@@ -17,6 +17,7 @@ Please refer to the [submission instructions](http://stat540-ubc.github.io/subpa
 ## About R session 
 
 It might not matter but just in case: this assignment assumes that you have 
+
 - R version 3.2.3 (2015-12-10) -- "Wooden Christmas-Tree" 
 - Bioconductor 3.2 
 - limma 3.26.7
@@ -25,8 +26,8 @@ It might not matter but just in case: this assignment assumes that you have
 Note that `limma`, `edgeR` need to be download via bioconductor (eg `biocLite("limma")`; `biocLite("edgeR")`), the rest are installed by runnnig `install.packages()` (eg `install.packages("gridExtra")`, etc)
 
 Also another tip: if you're using RStudio, you can use `tab` to autocomplete any filepath, variable names, function names, etc. 
----
 
+---
 
 > For questions 1-5, you will be analyzing a publicly-available gene expression study of normal human bronchial epithelial (NHBE) cells, run on the Affymetrix GeneChip Human Genome U133 Plus 2.0 Array. Please briefly read about the study: [Time course of NHBE cells exposed to whole cigarette smoke (full flavor)](http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10718). We will use "probes" and "genes" interchangeably, and also "agent" and "treatment".
 
