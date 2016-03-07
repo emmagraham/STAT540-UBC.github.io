@@ -7,6 +7,9 @@ output:
       after_body: ../include/nothing.html
 ---
 
+### Update on lecture 16 
+We made a fix on the labeling in lecture 16, slide 21. 
+
 ### Update on lecture 14
 
 We have updated lecture 14 to the one Dr. Jones was using in the class. Cheers :) 
