@@ -8,7 +8,7 @@ output:
 ---
 
 ### Update on lecture 16 
-We made a fix on the labeling in lecture 16, slide 21. 
+We made a fix on the labeling in lecture 16, slide 20-21. 
 
 ### Update on lecture 14
 
