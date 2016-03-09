@@ -91,7 +91,7 @@ After loading the data, the second must-do thing is to sanity check the data.
 #### 3.2 Look at the hits (1 point)
 
 - How many hits (probes) are associated with treatment at unadjusted p-value 1e-3? How may are associated with treatment at FDR 0.05?
-- Take the top 50 probes as your “hits” and create a heatmap of their expression levels and the hits by p-values and the samples by treatment.
+- Take the top 50 probes as your “hits” and create a heatmap of their expression levels. Sort the hits by p-values and the samples by treatment.
 - What is the (estimated) false discovery rate of this "hits" list? How many of these hits do we expect to be false discoveries?
 
 ---
