@@ -74,7 +74,7 @@ After loading the data, the second must-do thing is to sanity check the data.
 #### 2.2 Assess the presence of outlier samples (1 point)
 
 - Comment on the potential presence of outliers (if any) based on the sample correlation matrices created in Q2a.
-- Try to go beyond merely eyeballing��, and make a quantitative statement about presence of an outlier: e.g., quantify for each sample, whether it “sticks out” compared to the other samples.  
+- Try to go beyond merely eyeballing??, and make a quantitative statement about presence of an outlier: e.g., quantify for each sample, whether it “sticks out” compared to the other samples.  
 - If any sample does “stick out” from the previous step, examine it in the context of its experimental group (e.g., given a sample that is least similar to all other samples: does it correlate with samples treated with same agent better than other samples treated with a different agent?)
 
 ---
