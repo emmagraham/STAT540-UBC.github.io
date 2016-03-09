@@ -7,6 +7,9 @@ output:
       after_body: ../include/nothing.html
 ---
 
+### Update on assignments
+We made a fix to Q 3.2. The word **sort** was missing from the sentence making it confusing. 
+
 ### Update on lecture 16 
 We made a fix on the labeling in lecture 16, slide 20-21. 
 
