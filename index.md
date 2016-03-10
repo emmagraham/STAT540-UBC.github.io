@@ -15,7 +15,7 @@ output:
 
  <font color="red">**Note: Deadlines are all by 11.59 pm of the due date**</font>
 
-#### <font color="red">  Upcoming deadline for progress report. Detailes </font> [here.](http://stat540-ubc.github.io/subpages/assignments.html#final-deliverables)
+#### <font color="red">  Upcoming deadline for the [assignment](http://stat540-ubc.github.io/homework/assignment/homework.html)... **Start today** if you have not already!</font> 
 
   * **Project groups formed - Jan 22nd**
   * **Project initial proposals - Jan 29th** 
