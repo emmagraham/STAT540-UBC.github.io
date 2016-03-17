@@ -88,7 +88,7 @@ Each student should find two papers in the field of Bioinformatics and submit ab
 1. A brief review of the goal, findings and conclusion of the paper written by the student. 
 2. A list (or mentioning) of the related datasets/databases and data types used in the study. In the case of datasets, provide some details of the data matrix and meta data.
 3. A brief review of the analytical steps in the paper with more details on some selected parts which are relevant to the course materials. *You don't need to understand all of the analysis, but should be able to identify the key analysis/method used to answer the question the paper is intended to answer*
-4. Some comments and critics about the analytical steps, alternative suggestions or improvements. 
+4. Some comments and critiques about the analytical steps, alternative suggestions or improvements. 
 
 We have provided [**this**](http://stat540-ubc.github.io/homework/paper\_critique/PRguideline.html) document as a brief guideline for this task. The material in the review **should not** be limited to merely answering the questions in the guideline, but rather using them to provide the required items listed above. Example paper reviews are also provided. 
 
