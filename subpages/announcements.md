@@ -7,6 +7,10 @@ output:
       after_body: ../include/nothing.html
 ---
 
+### Homework submission
+
+Those who haven not submitted their homework yet, check [this issue](https://github.com/STAT540-UBC/Discussion/issues/121)
+
 ### Update on assignments
 We made a fix to Q 3.2. The word **sort** was missing from the sentence making it confusing. 
 
