@@ -9,7 +9,7 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-### [NEW ANNOUNCEMENT: correction on Q3.2 in assignment](subpages/announcements.html)
+### [NEW ANNOUNCEMENT: homework submission](subpages/announcements.html)
 ### Just a note: Please check out the [Discussion page](https://github.com/STAT540-UBC/Discussion/issues) for issues related to the assignment. Feel free to open issues related to the assignments. 
 
 ### <font color="blue">**Important dates and deadlines:**</font>
