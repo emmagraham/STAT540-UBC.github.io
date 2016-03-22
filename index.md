@@ -9,14 +9,13 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-### [NEW ANNOUNCEMENT: homework submission](subpages/announcements.html)
-### Just a note: Please check out the [Discussion page](https://github.com/STAT540-UBC/Discussion/issues) for issues related to the assignment. Feel free to open issues related to the assignments. 
+### [NEW ANNOUNCEMENT: Respond to paper review  02 issue ](https://github.com/STAT540-UBC/Discussion/issues/119)
 
 ### <font color="blue">**Important dates and deadlines:**</font>
 
  <font color="red">**Note: Deadlines are all by 11.59 pm of the due date**</font>
 
-#### <font color="red">  Upcoming deadline for the [assignment](http://stat540-ubc.github.io/homework/assignment/homework.html)... **Start today** if you have not already!</font> 
+#### <font color="red">  Upcoming deadline for the paper review 02</font> 
 
   * **Project groups formed - Jan 22nd**
   * **Project initial proposals - Jan 29th** 
