@@ -11,7 +11,7 @@ output:
 
 ### [NEW ANNOUNCEMENT: Respond to paper review  02 issue ](https://github.com/STAT540-UBC/Discussion/issues/119)
 
-### [Check out this issue](https://github.com/STAT540-UBC/Discussion/issues/122)
+### Check out [this issue](https://github.com/STAT540-UBC/Discussion/issues/122)
 
 ### <font color="blue">**Important dates and deadlines:**</font>
 
