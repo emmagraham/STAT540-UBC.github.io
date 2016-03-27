@@ -90,14 +90,14 @@ Each student should find two papers in the field of Bioinformatics and submit ab
 3. A brief review of the analytical steps in the paper with more details on some selected parts which are relevant to the course materials. *You don't need to understand all of the analysis, but should be able to identify the key analysis/method used to answer the question the paper is intended to answer*
 4. Some comments and critiques about the analytical steps, alternative suggestions or improvements. 
 
-We have provided [**this**](http://stat540-ubc.github.io/homework/paper\_critique/PRguideline.html) document as a brief guideline for this task. The material in the review **should not** be limited to merely answering the questions in the guideline, but rather using them to provide the required items listed above. Example paper reviews are also provided. 
+We have provided [**this**](http://stat540-ubc.github.io/homework/paper\_critique/PRguideline.html) document as a brief guideline for this task. The material in the review **should not** be limited to merely answering the questions in the guideline, but rather using them to provide the required items listed above. Example paper reviews are also provided. Here's [another helpful resource](https://github.com/jtleek/readingpapers) on how to read a research paper
 
 **Important:** Students should submit the initial information about their selected papers in respond to the [**issue Paper Review - 01**](https://github.com/STAT540-UBC/Discussion/issues/110) (there will be another issue for paper review 02) in Github and make sure no one else has already picked it by checking the other student's respond to the same issue. Yup... first come first served! But no worries, there are plenty of interesting papers! 
 
 * Due date for the first paper review: <font color="red">Feb 22nd</font>
 * Due date for the second paper review: <font color="red">April 1st</font>
 
-**Delivery:** You should put your paper review files in your individual course repository in .md format (notice that you don't need to write it in .Rmd since you are not going to have any R code in it). You could edit .md files directly from github and therefore can write your full report there, but can also write it in your RStudio and then push it to your repository. Your paper review file should be named _paperreview01_ for the first one and _paperreview02_ for the second one and each file should have the following the beginning:
+**Delivery:** You should put your paper review files in your individual course repository in .md format (notice that you don't need to write it in .Rmd since you are not going to have any R code in it). You could edit .md files directly from github and therefore can write your full report there, but can also write it in your RStudio and then push it to your repository. Your paper review file should be named _paperreview01.md_ for the first one and _paperreview02.md_ for the second one and each file should have the following the beginning:
 
 1. The name of the paper with link to pubmed or the journal 
 2. The month and year it was published 
