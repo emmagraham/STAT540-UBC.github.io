@@ -205,8 +205,9 @@ This information will be used to create a private repository for each group to h
     - a link-y version of your bibliography (for example, live Pubmed or DOI links).
 
 
-* **Short individual report (1 page)**: 
-Individual deliverable. Include:
+* **Short individual report (1 page)**: <font color="red"> Due April 11th</font>
+
+Individual deliverable include:
     - concise summary of main role / contribution of each group member 
     - more detailed description and reflections on your specific role / contribution
     - scientific reflections. E.g., what worked well / poorly? what seems worth following up vs. a dead end? what was most difficult or most rewarding?
