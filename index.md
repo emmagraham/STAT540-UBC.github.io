@@ -9,15 +9,15 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-### [NEW ANNOUNCEMENT: Respond to paper review  02 issue ](https://github.com/STAT540-UBC/Discussion/issues/119)
+### Poster session starts at <font color="blue">9am</font>, at ESB Autrium on April 6th
+**Please consider coming a bit earlier to set up your poster before 9am.**
 
-### Check out [this issue](https://github.com/STAT540-UBC/Discussion/issues/122)
+**Deadline for project .md and individual project reports: <font color="red"> April 11th</font>**
+
 
 ### <font color="blue">**Important dates and deadlines:**</font>
 
  <font color="red">**Note: Deadlines are all by 11.59 pm of the due date**</font>
-
-#### <font color="red">  Upcoming deadline for the paper review 02</font> 
 
   * **Project groups formed - Jan 22nd**
   * **Project initial proposals - Jan 29th** 
@@ -28,6 +28,7 @@ output:
   * **Homework due - Mar 18th**
   * **Paper review 02 due - Apr 1st**
   * **Poster session - Apr 6th**
+  * **Individual report submission + project .md - Apr 11th**
   
 ### UBC STAT 540
 
