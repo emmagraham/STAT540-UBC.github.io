@@ -11,6 +11,8 @@ output:
 
 #### All assignments (EXCEPT for paper review 02) must be marked by now - or you should have heard from us that we are working on it. If you have not heard back from us, tag us on your assignment issues. 
 
+**<font color="blue">Please make sure that your posters .pdf files are uploaded in your group repository, as well as your codes and your project .md files.</font>**
+
 
 **Deadline for project .md and individual project reports: <font color="red"> April 11th</font>**
 
