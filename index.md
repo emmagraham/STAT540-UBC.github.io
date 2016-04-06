@@ -9,8 +9,8 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-### Poster session starts at <font color="blue">9am</font>, at ESB Autrium on April 6th
-**Please consider coming a bit earlier to set up your poster before 9am.**
+#### All assignments (EXCEPT for paper review 02) must be marked by now - or you should have heard from us that we are working on it. If you have not heard back from us, tag us on your assignment issues. 
+
 
 **Deadline for project .md and individual project reports: <font color="red"> April 11th</font>**
 
