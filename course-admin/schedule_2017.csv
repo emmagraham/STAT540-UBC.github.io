@@ -37,10 +37,10 @@ STAT540,Break,Mon,February,20,7,NA,Midterm Break,NA
 STAT540,Break,Wed,February,22,7,NA,Midterm Break,NA
 STAT540,Announcement,Mon,February,27,8,NA,Paper Critique 1 Due,NA
 STAT540,lecture-13,Mon,February,27,8,13,RNA-Seq data analysis II,PP
-STAT540,lecture-14,Wed,March,1,8,14,Guest Lecture, Dr. Meaghan Jones
+STAT540,lecture-14,Mon,March,1,8,14,PCA,PP
 STAT540-Seminar,seminar-8,Wed,March,1,8,8,Methylation analysis,TBA
 STAT540,Announcement,Fri,March,3,8,NA, Project progress report due,NA
-STAT540,lecture-15,Mon,March,6,9,15,PCA,PP
+STAT540,lecture-15,Wed,March,6,9,15,Guest Lecture, Dr. Meaghan Jones
 STAT540,lecture-16,Wed,March,8,9,16,Clustering,AS
 STAT540-Seminar,seminar-9,Wed,March,8,9,9,Clustering and PCA,TBA
 STAT540,lecture-17,Mon,March,13,10,17,Classification,AS
