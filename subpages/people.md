@@ -8,8 +8,26 @@ output:
     toc: true
 ---
 
- 
-[Sara Mostafavi](http://www.stat.ubc.ca/~saram/), lead instructor
+## Instructors
+
+|  |   |  |
+|---------------|---------------|---------------|
+| ![Paul](peoplePics/paulPavlidis.png) | | ![Amrit](peoplePics/amritSingh.png)  |
+|  Paul Pavlidis  | |  Amrit Singh      |
+|  CHiBi and Psychiatry <paul@chibi.ubc.ca> | |  Pathology and Lab Medicine <Amrit.Singh@hli.ubc.ca> |
+| ![Rob](peoplePics/robBalshaw.png) |  | ![Sara](peoplePics/saram.png) |
+| Rob Balshaw |    | [Sara Mostafavi](http://www.stat.ubc.ca/~saram/) (on leave) |
+|  Statistics <robert.balshaw@bccdc.ca> | |  Statistics and Medical Genetics <saram@cs.stanford.edu> |
+
+## TAs
+
+|  |  |  |
+|---------------|---------------|---------------|
+| ![Santina](peoplePics/santinaLin.png) | | ![Farnush](peoplePics/farnushFarhadi.png)  |
+|  Santina Lin  | |  Faurush Farhadi      |
+|  <hello@santina.me> | |  <farnush.farhadi@gmail.com> |
+
+<!-- [Sara Mostafavi](http://www.stat.ubc.ca/~saram/), lead instructor
 
   * Statistics and Medical Genetics
   * <saram@cs.stanford.edu>
@@ -25,4 +43,4 @@ Marjan Farahbod, TA
   
 Santina Lin, TA
 
-  * <hello@santina.me>
+  * <hello@santina.me> -->
