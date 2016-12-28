@@ -8,29 +8,6 @@ output:
 
 
 # Statistical Methods for High Dimensional Biology
-
-#### All assignments (EXCEPT for paper review 02) must be marked by now - or you should have heard from us that we are working on it. If you have not heard back from us, tag us on your assignment issues. 
-
-**<font color="blue">Please make sure that your posters .pdf files are uploaded in your group repository, as well as your codes and your project .md files.</font>**
-
-
-**Deadline for project .md and individual project reports: <font color="red"> April 11th</font>**
-
-
-### <font color="blue">**Important dates and deadlines:**</font>
-
- <font color="red">**Note: Deadlines are all by 11.59 pm of the due date**</font>
-
-  * **Project groups formed - Jan 22nd**
-  * **Project initial proposals - Jan 29th** 
-  * **Homework posted - Feb 12th **
-  * **Project proposal - Feb 15th **
-  * **Paper review 01 due - Feb 22nd **
-  * **Project progress reports due - Mar 4th **
-  * **Homework due - Mar 18th**
-  * **Paper review 02 due - Apr 1st**
-  * **Poster session - Apr 6th**
-  * **Individual report submission + project .md - Apr 11th**
   
 ### UBC STAT 540
 
