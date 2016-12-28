@@ -27,7 +27,7 @@ Cross-listed as STAT 540, BIOF 540, GSAT 540
 
 #### Seminar / computing lab (S2A) -- REGISTRATION IS REQUIRED!
 
-**Time**: officially runs Wed 12pm - 1pm; unofficially students are welcome to come after class around 11am and begin a ~1 hour guided analysis with TA support; TA will remain in the lab until 1pm to help those who start as 12pm and for general office hours.
+**Time**: every Wednesday 11am - 12pm. The TAs will remain in the lab until 1pm for general office hours.
 
 **Location**: ESB 1042 and 1046
 
