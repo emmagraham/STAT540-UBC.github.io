@@ -12,20 +12,18 @@ output:
 
 
 ## Homework 
-- There are 8 question in this [assignment](../homework/assignment/homework.html). Start early!  
-- Due date: March 18
-- For help on your homework mechanics, please see this list of [assignment tips](assignment_tips.html) 
+For help on your homework mechanics, please see this list of [assignment tips](assignment_tips.html) 
 
 ### STAT 540 Homework Submission Instructions
 
 **GitHub**
-You all have a private repository in STAT540-UBC organization account, i.e., the repo `lastname-firstnmae_STAT540_2016` . We assume that 
+You all have a private repository in STAT540-UBC organization account, i.e., the repo `zz_lastname-firstnmae_STAT540_2017` . We assume that 
 
 * You've already installed Git and (probably) a Git client.
 * You can use command line Git and/or your Git client and perhaps even RStudio to push, pull, etc. to/from GitHub. 
-* All your work is nicely organized in *this* repository. Your repository needs to include a clear top-level `README.md` that contains links to your work. This is the presentation of your repository and it helps others to find your work and contributions!
+* All your work is nicely organized in your repository. Your repository needs to include a clear top-level `README.md` that contains links to your work. This is the presentation of your repository and it helps others to find your work and contributions!
 
-**IMPORTANT NOTE**: use the repository within the organization assigned to you to submit all your course work (i.e., the repo `lastname-firstnmae_STAT540_2016`). Do not use branches or other repositories.
+**IMPORTANT NOTE**: use the repository within the organization assigned to you to submit all your course work (i.e., the repo `zz_lastname-firstnmae_STAT540_2017`). Do not use branches or other repositories.
   
 
 **Set-up your private GitHub repo for homework**
@@ -45,8 +43,8 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
     
 **HTML**
 
-  * Compile your homework to Markdown (file extension should be `.md`) and then to HTML (file extension should be `.html`).
-    - RStudio's "Knit HTML" button will do this
+  * Compile your homework to Markdown (file extension should be `.md`).
+    - RStudio's "Knit HTML" button will do this. Your .md file is a intermediate file that can be read nicely on GitHub. 
     - Alternatively, use `knit2html()` from the `knitr` package in the R Console or in an R script.
     - To run from the shell or in a Makefile, use something like `Rscript -e "knitr::knit2html('hw01_lastname-firstnmae.rmd')"`
   * Notice that, by default, any figures created are placed into a `figures/` subdirectory. The intermediate Markdown file links to these and, therefore, requires them to present your full report. By default, the figures are base64 encoded and *embedded* into the HTML, which, therefore, is self-contained.
@@ -76,14 +74,14 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
     - Just above the file list, look for the text "latest commit" followed by ten numbers and letters (called the revision SHA) and a clipboard icon
      - Click on the clipboard icon to copy the revision SHA to your clipboard
     - Click on "Issues", then on "New Issue". Name the issue "Mark homework of *your repository name*".
-    - In the description of the issue, tag both TAs by including the text `@marjanfarahbod` and `@santina`, and paste the revision SHA. Include a link to exactly where you want a reviewer to go! 
+    - In the description of the issue, tag both TAs by including the text `@farnushfarhadi` and `@santina`, and paste the revision SHA. You can also include a link to the markdown file as well. 
      - Click "Submit new issue". You're done! Congratulations!
 
-> If you're concerned that something hasn't gone right with the submission, send Marjan and Santina (marjan.farahbod@gmail.com, santina424@gmail.com) an e-mail with your assignment attached. **Note**: this is *only* an emergency back-up plan. We will pester and work with you until you eventually get it submitted via GitHub.
+> If you're concerned that something hasn't gone right with the submission, send Farnush and Santina (farnush.farhadi@gmail.com, santina424@gmail.com) an e-mail with your assignment attached. **Note**: this is *only* an emergency back-up plan. We will pester and work with you until you eventually get it submitted via GitHub.
 
 
 ## Paper review 
-Each student should find two papers in the field of Bioinformatics and submit about one page (450 - 650 words) of summary/report for each of the papers. The summary should include: 
+Each student should find two papers in the field of Biomedical paper that has statistical content and submit about one page (450 - 650 words) of summary/report for each of the papers. The summary should include: 
 
 1. A brief review of the goal, findings and conclusion of the paper written by the student. 
 2. A list (or mentioning) of the related datasets/databases and data types used in the study. In the case of datasets, provide some details of the data matrix and meta data.
@@ -92,19 +90,17 @@ Each student should find two papers in the field of Bioinformatics and submit ab
 
 We have provided [**this**](http://stat540-ubc.github.io/homework/paper\_critique/PRguideline.html) document as a brief guideline for this task. The material in the review **should not** be limited to merely answering the questions in the guideline, but rather using them to provide the required items listed above. Example paper reviews are also provided. Here's [another helpful resource](https://github.com/jtleek/readingpapers) on how to read a research paper
 
-**Important:** Students should submit the initial information about their selected papers in respond to the [**issue Paper Review - 01**](https://github.com/STAT540-UBC/Discussion/issues/110) (there will be another issue for paper review 02) in Github and make sure no one else has already picked it by checking the other student's respond to the same issue. Yup... first come first served! But no worries, there are plenty of interesting papers! 
+**Important:** Students should submit the initial information about their selected papers in respond to the [**issue Paper Review - 01**](https://github.com/STAT540-UBC/Discussion/issues/128) in Github and make sure no one else has already picked it by checking the other student's respond to the same issue. Yup... first come first served! But no worries, there are plenty of interesting papers! 
 
-* Due date for the first paper review: <font color="red">Feb 22nd</font>
-* Due date for the second paper review: <font color="red">April 1st</font>
+* Due date for the paper review: <font color="red">TBD</font>
 
-**Delivery:** You should put your paper review files in your individual course repository in .md format (notice that you don't need to write it in .Rmd since you are not going to have any R code in it). You could edit .md files directly from github and therefore can write your full report there, but can also write it in your RStudio and then push it to your repository. Your paper review file should be named _paperreview01.md_ for the first one and _paperreview02.md_ for the second one and each file should have the following the beginning:
+**Delivery:** You should put your paper review files in your individual course repository in .md format (notice that you don't need to write it in .Rmd since you are not going to have any R code in it). You could edit .md files directly from github and therefore can write your full report there, but can also write it in your RStudio and then push it to your repository. Your paper review should also contains: 
 
 1. The name of the paper with link to pubmed or the journal 
 2. The month and year it was published 
 
-[example paper review 01](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/paper_critique/paperReviewMarjan.md)
+[example paper review](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/paper_critique/paperReviewMarjan.md)
 
-[example paper review 02](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/paper_critique/paperReviewSantina.md)
 
 ## Final group project
 
@@ -132,18 +128,18 @@ Groups should have 4 to 6 members. We strongly encourage that groups be diverse 
 
 ### Initial deliverables
 
-**Due January 22 (but submit earlier if you are ready)**
+**Due on <TBD> (but submit earlier if you are ready)**
 
  * List of group members. In addition to names, include relevant info on grad program, lab, interests/expertise. 
 
-**Due January 29**
+**Due on <TBD>**
  * Initial project proposal describing basic idea of project. Think: a paragraph.
 
 Each group will submit their work by responding to the Issue called "Group project: initial information" in the Discussion repository. Please, post only one proposal per group.
 
 This information will be used to create a private repository for each group to host all work related to the project.
 
-**Due Monday February 15**
+**Due on <TBD>**
   
   * One page proposal should probably be part of the `README.md` for the repo, or should be linked in the `README.md`. Incorporate all comments given by professors/TAs. This proposal needs to outline:
     - a clear motivation of the problem/question we will investigate
@@ -162,14 +158,14 @@ This information will be used to create a private repository for each group to h
     
 ### Final deliverables
 
-* **Poster**: to be hosted and exhibited in our poster session on Wed Apr 6 from 9:30 am to 12 pm in the Atrium of the ESB. Group-level deliverable. 
+* **Poster**: to be hosted and exhibited in our poster session on Wed Apr 5 from 9:30 am to 12 pm in the Atrium of the ESB. Group-level deliverable. 
 
     - Ideally, you will print your poster in the usual conference format (48''x36''). I know it is a non-trivial cost but not impossible if divided up. Sometimes supervisors will help, esp. if the poster can be displayed or used elsewhere. Prices at the village and the Sub tend to be resonable.
     
     - a rubric for poster evaluation can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/posterRubric2012.pdf)
 
 
-* **Project progress report:** <font color="red">Due March 4th</font> 
+* **Project progress report:** <font color="red">Due TBD</font> 
 
     The project report should include the following information:
 
@@ -205,7 +201,7 @@ This information will be used to create a private repository for each group to h
     - a link-y version of your bibliography (for example, live Pubmed or DOI links).
 
 
-* **Short individual report (1 page)**: <font color="red"> Due April 11th</font>
+* **Short individual report (1 page)**: <font color="red"> Due on TBD </font>
 
 Individual deliverable include:
     - concise summary of main role / contribution of each group member 
