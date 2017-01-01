@@ -12,6 +12,13 @@ output:
 
 
 ## Homework 
+You will have three individual assignments and one group project: 
+
+- One practice assignment (5 pts)
+- One paper review (5 pts) 
+- One statistics homework (30 pts)
+- Group project (60 pts) which contains multiple parts. 
+
 For help on your homework mechanics, please see this list of [assignment tips](assignment_tips.html) 
 
 ### STAT 540 Homework Submission Instructions
