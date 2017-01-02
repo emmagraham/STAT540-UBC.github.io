@@ -31,7 +31,7 @@ In your README.md file, when applicable, write about:
 You can start creating folders (eg. "paper_review", "assignment", "seminars") for your course work and put README.md files in them if you wish. 
 
 
-## 2. Let's write some R markdown (2pt)
+## 2. Data insepction with R (2pt)
 
 If you have never done R, you can check out this blog post on [getting started with R](http://santina.me/r/2015/12/15/Get-started-with-R.html) written by one of your TAs. Set aside an afternoon or an evening to just play around with R. 
 
