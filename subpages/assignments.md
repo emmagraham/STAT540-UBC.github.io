@@ -17,14 +17,21 @@ You will have three individual assignments and one group project:
 - One practice assignment (5 pts)
 - One paper review (5 pts) 
 - One statistics homework (30 pts)
-- Group project (60 pts) which contains multiple parts. 
+- Final group project (60 pts) which contains multiple parts. 
 
 For help on your homework mechanics, please see this list of [assignment tips](assignment_tips.html) 
 
-### STAT 540 Homework Submission Instructions
+## Practice assignment
+It's a warm-up assignment for your future assignment. Once you have done it, you will have completed your set-up for the class and have a better understanding of how to set up your repository, pushing files to GitHub, writing markdown, and using R to do simple analysis. 
+
+Go to [the practice assignment](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/practice_assignment/practice_assignment.md) and start now! 
+
+Deadline: TBD 
+
+## STAT 540 Homework Submission Instructions
 
 **GitHub**
-You all have a private repository in STAT540-UBC organization account, i.e., the repo `zz_lastname-firstnmae_STAT540_2017` . We assume that 
+You all have a private repository in STAT540-UBC organization account, i.e., the repo `zz_lastname-firstnmae_STAT540_2017`. We assume that 
 
 * You've already installed Git and (probably) a Git client.
 * You can use command line Git and/or your Git client and perhaps even RStudio to push, pull, etc. to/from GitHub. 
