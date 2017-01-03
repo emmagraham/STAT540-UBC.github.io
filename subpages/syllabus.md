@@ -33,33 +33,42 @@ Officially none BUT here in reality ...
 
 ### Evaluation
 
+**Practice Assignment**
+
+- one practice assignment worth 5 points.
+- setting up your course repository
+- tests basic knowledge of GitHub, R and Rmarkdown
+- <span style="color: red">Due date: **Jan 18, 2017**</span>
+
 **Homework**: 
 
-- One assignment worth 30 points. (see calendar below).
-- Involve detailed analysis of real data using R 
-- See the schedule for details 
+- One assignment worth 30 points.
+- Involves detailed analysis of real data using R 
+- <span style="color: red">Due date: **Mar 22, 2017**</span>
 
 
 **Group project**: 
 
 - A data analysis group project that will allow you to apply the techniques covered in class
 - Important dates: 
-    - Now - January 22: Pitch your ideas, find an idea, form a 4-5 people group 
-    - January 29: Finish the initial project proposal
-    - February 12: Receive feedback on the project proposal 
-    - March 4: Finalize the report
-    - April 6: Poster session 
+    - <span style="color: red">**Now - January 25, 2017**</span>: Pitch your ideas, find an idea, form a 4-5 people group 
+    - <span style="color: red">**January 25, 2017**</span>: Finish the initial project proposal
+    - <span style="color: red">**February 15, 2017**</span>: Finalize the one page project proposal 
+    - <span style="color: red">**March 8, 2017**</span>: Finalize the report
+    - <span style="color: red">**April 5, 2017**</span>: Poster session 
+    - <span style="color: red">**April 8, 2017**</span>: Individual report deadline
 - Grading and deliverable 
     - Primary deliverable is a poster. Each student also produces a short report 
     - Planning + project + poster session - 50 points 
     - Peer evaluation - 10 points 
 - Tip: try to form a group of diverse talents
 
-**Paper critiques**
+**Paper critique**
 
-- Summarize and critique 2 papers - 5 points each 
+- Summarize and critique 1 paper - 5 points
 - Select, read, summarize and critique a recent paper from the ‘omics literature – write one page max
-- Instruction on the paper critiques will be posted shortly 
+- Instruction on the paper critiques will be posted shortly
+- <span style="color: red">Due date: **Feb 22, 2017**</span>
 
 
 ### Schedule  
