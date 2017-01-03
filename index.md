@@ -17,7 +17,7 @@ Cross-listed as STAT 540, BIOF 540, GSAT 540
 
 ### Time and Location
 
-04 January 2016 - 08 April 2016
+04 January 2017 - 05 April 2017
 
 #### Lecture (Sec 201)
 
