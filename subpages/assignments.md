@@ -16,17 +16,17 @@ You will have three individual assignments and one group project:
 
 - One practice assignment (5 pts)
 - One paper review (5 pts) 
-- One statistics homework (30 pts)
+- One statistics 2-part homework (30 pts)
 - Final group project (60 pts) which contains multiple parts. 
 
 For help on your homework mechanics, please see this list of [assignment tips](assignment_tips.html) 
 
 ## Practice assignment
-It's a warm-up assignment for your future assignment. Once you have done it, you will have completed your set-up for the class and have a better understanding of how to set up your repository, pushing files to GitHub, writing markdown, and using R to do simple analysis. 
+This is a warm-up for your future assignment. Once you have completed it, you will have set-up for the class and have a better understanding of how to set up your repository, pushing files to GitHub, writing markdown, and using R to do simple analyses. 
 
 Go to [the practice assignment](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/practice_assignment/practice_assignment.md) and start now! 
 
-Deadline: TBD 
+Deadline: <span style="color: red">**Jan 18, 2017**</span> 
 
 ## STAT 540 Homework Submission Instructions
 
@@ -95,9 +95,9 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
 
 
 ## Paper review 
-Each student should find two papers in the field of Biomedical paper that has statistical content and submit about one page (450 - 650 words) of summary/report for each of the papers. The summary should include: 
+Each student should find a paper in the Biomedical field that has statistical content and submit about one page (450 - 650 words) of summary/report for that paper. The summary should include: 
 
-1. A brief review of the goal, findings and conclusion of the paper written by the student. 
+1. A brief review of the goal, findings and conclusion of the paper. 
 2. A list (or mentioning) of the related datasets/databases and data types used in the study. In the case of datasets, provide some details of the data matrix and meta data.
 3. A brief review of the analytical steps in the paper with more details on some selected parts which are relevant to the course materials. *You don't need to understand all of the analysis, but should be able to identify the key analysis/method used to answer the question the paper is intended to answer*
 4. Some comments and critiques about the analytical steps, alternative suggestions or improvements. 
@@ -106,7 +106,7 @@ We have provided [**this**](http://stat540-ubc.github.io/homework/paper\_critiqu
 
 **Important:** Students should submit the initial information about their selected papers in respond to the [**issue Paper Review - 01**](https://github.com/STAT540-UBC/Discussion/issues/128) in Github and make sure no one else has already picked it by checking the other student's respond to the same issue. Yup... first come first served! But no worries, there are plenty of interesting papers! 
 
-* Due date for the paper review: <font color="red">TBD</font>
+* Due date for the paper review: <span style="color: red">**Feb 22, 2017**</span>
 
 **Delivery:** You should put your paper review files in your individual course repository in .md format (notice that you don't need to write it in .Rmd since you are not going to have any R code in it). You could edit .md files directly from github and therefore can write your full report there, but can also write it in your RStudio and then push it to your repository. Your paper review should also contains: 
 
@@ -122,7 +122,7 @@ We have provided [**this**](http://stat540-ubc.github.io/homework/paper\_critiqu
 
 Identify a biological question of interest and a relevant dataset. Develop and apply a statistical approach that allows you to use the dataset to answer the question.
 
-We assume the biological question and data fall in the general area of high-throughput, large-scale biological investigations *targetted by the course*. Beyond that it is wide open: methylation, SNPs, miRNAs, CNVs, RNA-Seq, CHiP-Seq, gene networks, ... it's fair game. Avoid a dataset that doesn't have any/much quantitative data, i.e. contains only sequence or discrete data.
+We assume the biological question and data fall in the general area of high-throughput, large-scale biological investigations *targetted by the course*. Beyond that, it is wide open: methylation, SNPs, miRNAs, CNVs, RNA-Seq, CHiP-Seq, gene networks, ... it's fair game. Avoid a dataset that doesn't have any/much quantitative data, i.e. contains only sequence or discrete data.
 
 Note that definitive answers are not necessarily expected. Rather, aim to provide a critical appraisal of the data, the analytical approach, and the results. You will have to handle the competing pressures to "get it right" and "get it done". Shortcomings of the data, misfits between the data or the biological question and the statistical model, etc. are inevitable. Your goal is to identify such issues and discuss them critically, without becoming paralyzed. Demonstrate understanding of the statistical concepts and methods that are the foundation of your analytical approach.
 
@@ -142,18 +142,18 @@ Groups should have 4 to 6 members. We strongly encourage that groups be diverse 
 
 ### Initial deliverables
 
-**Due on <TBD> (but submit earlier if you are ready)**
+**Due on <span style="color: red">**January 25, 2017**</span> (but submit earlier if you are ready)**
 
  * List of group members. In addition to names, include relevant info on grad program, lab, interests/expertise. 
 
-**Due on <TBD>**
+**Due on <span style="color: red">**January 25, 2017**</span>**
  * Initial project proposal describing basic idea of project. Think: a paragraph.
 
 Each group will submit their work by responding to the Issue called "Group project: initial information" in the Discussion repository. Please, post only one proposal per group.
 
 This information will be used to create a private repository for each group to host all work related to the project.
 
-**Due on <TBD>**
+**Due on <span style="color: red">**February 15, 2017**</span>**
   
   * One page proposal should probably be part of the `README.md` for the repo, or should be linked in the `README.md`. Incorporate all comments given by professors/TAs. This proposal needs to outline:
     - a clear motivation of the problem/question we will investigate
@@ -215,7 +215,7 @@ This information will be used to create a private repository for each group to h
     - a link-y version of your bibliography (for example, live Pubmed or DOI links).
 
 
-* **Short individual report (1 page)**: <font color="red"> Due on TBD </font>
+* **Short individual report (1 page)**: <span style="color: red">**April 8, 2017**</span>
 
 Individual deliverable include:
     - concise summary of main role / contribution of each group member 
