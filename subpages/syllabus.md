@@ -64,7 +64,7 @@ Officially none BUT here in reality ...
     - <span style="color: red">**Now - January 25, 2017**</span>: Pitch your ideas, find an idea, form a 4-5 people group 
     - <span style="color: red">**January 25, 2017**</span>: Finish the initial project proposal
     - <span style="color: red">**February 15, 2017**</span>: Finalize the one page project proposal 
-    - <span style="color: red">**March 8, 2017**</span>: Finalize the report
+    - <span style="color: red">**March 8, 2017**</span>: Progress report
     - <span style="color: red">**April 5, 2017**</span>: Poster session 
     - <span style="color: red">**April 8, 2017**</span>: Individual report deadline
 - Grading and deliverable 
