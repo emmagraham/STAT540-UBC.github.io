@@ -40,12 +40,18 @@ Officially none BUT here in reality ...
 - tests basic knowledge of GitHub, R and Rmarkdown
 - <span style="color: red">Due date: **Jan 18, 2017**</span>
 
+**Paper critique**
+
+- Summarize and critique 1 paper - 5 points
+- Select, read, summarize and critique a recent paper from the ‘omics literature – write one page max
+- Instruction on the paper critiques will be posted shortly
+- <span style="color: red">Due date: **Feb 22, 2017**</span>
+
 **Homework**: 
 
 - One assignment worth 30 points.
 - Involves detailed analysis of real data using R 
 - <span style="color: red">Due date: **Mar 22, 2017**</span>
-
 
 **Group project**: 
 
@@ -62,13 +68,6 @@ Officially none BUT here in reality ...
     - Planning + project + poster session - 50 points 
     - Peer evaluation - 10 points 
 - Tip: try to form a group of diverse talents
-
-**Paper critique**
-
-- Summarize and critique 1 paper - 5 points
-- Select, read, summarize and critique a recent paper from the ‘omics literature – write one page max
-- Instruction on the paper critiques will be posted shortly
-- <span style="color: red">Due date: **Feb 22, 2017**</span>
 
 
 ### Schedule  
