@@ -33,27 +33,27 @@ Officially none BUT here in reality ...
 
 ### Evaluation
 
-**Practice Assignment**
+**Practice Assignment (5%)**
 
 - one practice assignment worth 5 points.
 - setting up your course repository
 - tests basic knowledge of GitHub, R and Rmarkdown
 - <span style="color: red">Due date: **Jan 18, 2017**</span>
 
-**Paper critique**
+**Paper critique (5%)**
 
 - Summarize and critique 1 paper - 5 points
 - Select, read, summarize and critique a recent paper from the ‘omics literature – write one page max
 - Instruction on the paper critiques will be posted shortly
 - <span style="color: red">Due date: **Feb 22, 2017**</span>
 
-**Homework**: 
+**Homework (30%)**: 
 
-- One assignment worth 30 points.
+- Two part assignment worth 30 points in total.
 - Involves detailed analysis of real data using R 
-- <span style="color: red">Due date: **Mar 22, 2017**</span>
+- <span style="color: red">Due dates: **TBD**</span>
 
-**Group project**: 
+**Group project (60%)**: 
 
 - A data analysis group project that will allow you to apply the techniques covered in class
 - Important dates: 
