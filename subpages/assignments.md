@@ -42,7 +42,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
 
 **Set-up your private GitHub repo for homework**
 
-  * We're talking about the repo `zz_lastname-firstnmae_STAT540_2016` now.
+  * We're talking about the repo `zz_lastname-firstnmae_STAT540_2017` now.
   * Make a top-level directory for your assignment, e.g. `Homework`
     - We truly mean a [directory or "folder"](http://en.wikipedia.org/wiki/Directory_(computing)) -- NOT a [Git branch](http://git-scm.com/book/en/Git-Branching) or anything fancy like that! On your local computer, go to the directory where this Git repository lives. Make the 2 directories here.    
   * It is also nice to include a `README.md` inside each of the assignment and seminar directories. 
@@ -52,7 +52,7 @@ You all have a private repository in STAT540-UBC organization account, i.e., the
 
   * Write your homework in R Markdown. The file extension should be `.rmd`.
   * Recommendation: Create a skeleton of your report by starting with the Markdown file that creates the assignment itself! You can take some things away (unnecessary detail) and add others (R chunks) to morph this into your homework solution.
-    - [Source for 2016 homework assignment](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/assignment/homework.md)
+    - [Source for 2017 homework assignment](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/assignment/homework.md)
     - You'll have these files if you are using Git(Hub) to keep a current copy of the whole course repository. Or, from the links above, click on "Raw" to get raw Markdown and save to a local file.
     
 **HTML**
@@ -196,18 +196,18 @@ Mention if you have decided which plots you want to use (volcano, heatmap, etc.)
    
 **Poster**: to be hosted and exhibited in our poster session on Wed Apr 5 from 9:30 am to 12 pm in the Atrium of the ESB. Group-level deliverable. 
 
-    - Ideally, you will print your poster in the usual conference format (48''x36''). I know it is a non-trivial cost but not impossible if divided up. Sometimes supervisors will help, esp. if the poster can be displayed or used elsewhere. Prices at the village and the Sub tend to be resonable.
+- Ideally, you will print your poster in the usual conference format (48''x36''). I know it is a non-trivial cost but not impossible if divided up. Sometimes supervisors will help, esp. if the poster can be displayed or used elsewhere. Prices at the village and the Sub tend to be resonable.
     
-    - a rubric for poster evaluation can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/posterRubric2012.pdf)
+- a rubric for poster evaluation can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/posterRubric2012.pdf)
 
 
 **Project GitHub repository**: This should contain the materials (or associated live links) an instructor would need to evaluate your work and that a group member would need to reproduce/reuse/extend the work. Group-level deliverable. Content should include (but is not limited to!):
 
-    - revised README.md file containing a summary of your work. This file should summarize the project content, your analysis, and main results. You don't need to tell us all the story of your analysis here. Keep it brief. You can include a flow chart if you find it useful. Add links as needed
+  - revised README.md file containing a summary of your work. This file should summarize the project content, your analysis, and main results. You don't need to tell us all the story of your analysis here. Keep it brief. You can include a flow chart if you find it useful. Add links as needed
 
-    - a PDF of the poster
+  - a PDF of the poster
 
-    - important files, such as "inputs" (e.g. the dataset(s) you analyzed) and "outputs" (e.g. plain text files of your key statistical results or PDFs of your main figures); if you started with a publicly available file, you can link to it
+  - important files, such as "inputs" (e.g. the dataset(s) you analyzed) and "outputs" (e.g. plain text files of your key statistical results or PDFs of your main figures); if you started with a publicly available file, you can link to it
 
     - R Markdown that host the R code for the analysis. Compile this R Markdown source to Markdown, commit and push both. This file can include more than you present in the poster. It is your technical report. Add brief comments and text throughout explaining the aim and conclusions of each part
 
