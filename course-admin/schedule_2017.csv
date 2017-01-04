@@ -15,12 +15,11 @@ STAT540,lecture-5,Wed,January,18,3,5,Data QC and preprocessing,AS
 STAT540-Seminar,seminar-3a,Wed,January,18,3,3,"Knitr, Rmarkdown, and GitHub review",TBA
 STAT540-Seminar,seminar-3b,Wed,January,18,3,3,R graphics - ggplot2,TBA
 STAT540-Seminar,seminar-3c,Wed,January,18,3,3,R graphics - lattice,TBA
-STAT540,Announcement,Fri,January,20,3,NA,Project groups should be formed,NA
 STAT540,lecture-6,Mon,January,23,4,6,Statistical inferene: two group comparisons,RB
 STAT540,lecture-7,Wed,January,25,4,7,Statistical inferene: more than two groups,RB
 STAT540-Seminar,seminar-4a,Wed,January,25,4,4,Two group testing and data aggregation,TBA
 STAT540-Seminar,seminar-4b,Wed,January,25,4,4,Introduction to data aggregation - dplyr version,TBA
-STAT540,Announcement,Fri,January,27,4,NA,Initial Project proposals due,NA
+STAT540,Announcement,Fri,January,25,4,NA,form groups and finish initial project proposals,NA
 STAT540,lecture-8,Mon,January,30,5,8,Statistical inference: linear models,RB
 STAT540,lecture-9,Wed,February,1,5,9,Statistical inference: linear models,RB
 STAT540-Seminar,seminar-5,Wed,February,1,5,5,Fitting and interpretting linear models (low volume),TBA
@@ -31,29 +30,25 @@ STAT540,Break,Mon,February,13,6,NA,No class; Family Day,NA
 STAT540,lecture-12,Wed,February,15,6,12,RNA-Seq data analysis I,PP
 STAT540-Seminar,seminar-7a,Wed,February,15,6,7,(optional) From BAM file to count data,TBA
 STAT540-Seminar,seminar-7b,Wed,February,15,6,7,RNA-Seq analysis,TBA
-STAT540,Announcement,Fri,February,17,6,NA,HW posted,NA
-STAT540,Announcement,Fri,February,17,6,NA,Initial feedback on project proposals,NA
-STAT540,Break,Mon,February,20,7,NA,Final project proposal due,NA
+STAT540,Break,Mon,February,15,6,NA,Final project proposal due,NA
 STAT540,Break,Mon,February,20,7,NA,Midterm Break,NA
 STAT540,Break,Wed,February,22,7,NA,Midterm Break,NA
-STAT540,Announcement,Mon,February,27,8,NA,Paper Critique 1 Due,NA
+STAT540,Announcement,Mon,February,22,7,NA,Paper Critique 1 Due,NA
 STAT540,lecture-13,Mon,February,27,8,13,RNA-Seq data analysis II,PP
 STAT540,lecture-14,Mon,March,1,8,14,PCA,PP
 STAT540-Seminar,seminar-8,Wed,March,1,8,8,Methylation analysis,TBA
-STAT540,Announcement,Fri,March,3,8,NA, Project progress report due,NA
 STAT540,lecture-15,Wed,March,6,9,15,Guest Lecture, Dr. Meaghan Jones
 STAT540,lecture-16,Wed,March,8,9,16,Clustering,AS
 STAT540-Seminar,seminar-9,Wed,March,8,9,9,Clustering and PCA,TBA
+STAT540,Announcement,Fri,March,8,9,NA, Project progress report due,NA
 STAT540,lecture-17,Mon,March,13,10,17,Classification,AS
 STAT540,lecture-18,Wed,March,15,10,18,Cross validation,AS
 STAT540-Seminar,seminar-10,Wed,March,15,10,10,"Supervised learning, cross validation, variable selection",TBA
-STAT540,Announcement,Fri,March,17,10,NA,HW Due,NA
 STAT540,lecture-19,Mon,March,20,11,19,Regularization,AS
 STAT540,lecture-20,Wed,March,22,11,20,Resampling and bootstrap,AS
 STAT540-Seminar,seminar-11,Wed,March,22,11,NA,TA office hours during seminar time ... group project work,TBA
 STAT540,lecture-21,Mon,March,27,12,21,Analysis of gene function I,PP
 STAT540,lecture-22,Wed,March,29,12,22,Analysis of gene function II,PP
 STAT540-Seminar,seminar-12,Wed,March,29,12,NA,TA office hours during seminar time ... group project work,TBA
-STAT540,Announcement,Fri,March,31,12,NA,Paper Critique 2 due,NA
 STAT540,lecture-23,Mon,April,3,13,23,Guest lecture, Dr. Sohrab Shah
 STAT540,Announcement,Wed,April,5,13,24,Poster session,NA
