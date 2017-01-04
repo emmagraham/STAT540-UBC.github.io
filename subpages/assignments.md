@@ -172,37 +172,36 @@ This information will be used to create a private repository for each group to h
     
 ### Final deliverables
 
-* **Poster**: to be hosted and exhibited in our poster session on Wed Apr 5 from 9:30 am to 12 pm in the Atrium of the ESB. Group-level deliverable. 
+**Project progress report:** <font color="red">Due March 8</font> 
+
+The project report should include the following information:
+
+1. What is changed based on the initial proposal:
+
+  - If you have decided to do different analysis and why
+  
+  - If your task assignment has changed and team members are doing different things now
+  
+  - If you have changed your data or the datasets you use and why.
+
+
+2. What is the progress on the tasks and analysis mentioned in your proposal:
+
+  - What analysis are finished (if any) and what are totally untouched
+  
+  - How much have you progressed in the rest of the tasks
+Mention if you have decided which plots you want to use (volcano, heatmap, etc.)
+   
+   This project progress report should be a markdown file in your group project repo. Submit it by linking it in an issue and tag the TA and instructor who are mentors of your team. It's just like how you submitted your paper review, except this one is a group effort and resides in your group repo. 
+   
+**Poster**: to be hosted and exhibited in our poster session on Wed Apr 5 from 9:30 am to 12 pm in the Atrium of the ESB. Group-level deliverable. 
 
     - Ideally, you will print your poster in the usual conference format (48''x36''). I know it is a non-trivial cost but not impossible if divided up. Sometimes supervisors will help, esp. if the poster can be displayed or used elsewhere. Prices at the village and the Sub tend to be resonable.
     
     - a rubric for poster evaluation can be found [here](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/posterRubric2012.pdf)
 
 
-* **Project progress report:** <font color="red">Due TBD</font> 
-
-    The project report should include the following information:
-
-    1. What is changed based on the initial proposal:
-    
-      - If you have decided to do different analysis and why
-      
-      - If your task assignment has changed and team members are doing different things now
-      
-      - If you have changed your data or the datasets you use and why.
-  
-  
-    2. What is the progress on the tasks and analysis mentioned in your proposal:
-    
-      - What analysis are finished (if any) and what are totally untouched
-      
-      - How much have you progressed in the rest of the tasks
-   Mention if you have decided which plots you want to use (volcano, heatmap, etc.)
-   
-   This project progress report should be a markdown file in your group project repo. Submit it by linking it in an issue and tag the TA and instructor who are mentors of your team. It's just like how you submitted your paper review, except this one is a group effort and resides in your group repo. 
-   
-
-* **Project GitHub repository**: This should contain the materials (or associated live links) an instructor would need to evaluate your work and that a group member would need to reproduce/reuse/extend the work. Group-level deliverable. Content should include (but is not limited to!):
+**Project GitHub repository**: This should contain the materials (or associated live links) an instructor would need to evaluate your work and that a group member would need to reproduce/reuse/extend the work. Group-level deliverable. Content should include (but is not limited to!):
 
     - revised README.md file containing a summary of your work. This file should summarize the project content, your analysis, and main results. You don't need to tell us all the story of your analysis here. Keep it brief. You can include a flow chart if you find it useful. Add links as needed
 
@@ -215,7 +214,7 @@ This information will be used to create a private repository for each group to h
     - a link-y version of your bibliography (for example, live Pubmed or DOI links).
 
 
-* **Short individual report (1 page)**: <span style="color: red">**April 8, 2017**</span>
+**Short individual report (1 page)**: <span style="color: red">**April 8, 2017**</span>
 
 Individual deliverable include:
     - concise summary of main role / contribution of each group member 
