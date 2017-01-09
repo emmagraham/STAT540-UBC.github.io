@@ -7,6 +7,20 @@ output:
       after_body: ../include/nothing.html
 ---
 
+### Accept your invitation to the STAT540 organization
+Hi, all. If you did the survey, you should have gotten an email that you have been invited to the STAT540 GitHub organization and that you have a personal repository created for you. That repository is where you'll put all your work and do submission by opening issues in it. 
+
+If you somehow didn't get the email, you can also go to the organization webpage: https://github.com/STAT540-UBC. There should be a button somewhere that says something like "Accept invitation". 
+
+You should see three repos in that page: 
+
+- Discussion - the repo where you can ask questions by opening an issue. 
+- Your own repo <zz_lastname_firstname_STAT540_2017> - your own repository, only you and the instructors and TAs can see this. 
+- STAT540-UBC.github.io - it's the repo that make the website so it contains all the materials. You can find past lectures in there, too. 
+
+You can now start by putting your work for the warm-up assignment in the repo. 
+
+If you didn't complete the survey, please send one of the TAs an email or let us know during the seminars. 
 
 ### Survey 
 

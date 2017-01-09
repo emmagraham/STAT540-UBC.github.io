@@ -8,6 +8,8 @@ output:
 
 
 # Statistical Methods for High Dimensional Biology
+
+<span style="color: red">**New announcement: Accept your invitation to GitHub organization**</span>
   
 ### UBC STAT 540
 
