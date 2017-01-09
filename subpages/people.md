@@ -24,7 +24,7 @@ output:
 |  |  |  |
 |---------------|---------------|---------------|
 | ![Santina](peoplePics/santinaLin.png) | | ![Farnush](peoplePics/farnushFarhadi.png)  |
-|  Santina Lin  | |  Faurush Farhadi      |
+|  Santina Lin  | |  Farnush Farhadi      |
 |  <hello@santina.me> | |  <farnush.farhadi@gmail.com> |
 
 <!-- [Sara Mostafavi](http://www.stat.ubc.ca/~saram/), lead instructor
