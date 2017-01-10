@@ -19,13 +19,16 @@ output:
 | Rob Balshaw |    | [Sara Mostafavi](http://www.stat.ubc.ca/~saram/) (on leave) |
 |  Statistics <robert.balshaw@bccdc.ca> | |  Statistics and Medical Genetics <saram@cs.stanford.edu> |
 
+
 ## TAs
 
-|  |  |  |
+|  |   |  |
 |---------------|---------------|---------------|
-| ![Santina](peoplePics/santinaLin.png) | | ![Farnush](peoplePics/farnushFarhadi.png)  |
-|  Santina Lin  | |  Farnush Farhadi      |
-|  <hello@santina.me> | |  <farnush.farhadi@gmail.com> |
+| ![Santina](peoplePics/santinaLin.png) |  | ![Farnush](peoplePics/farnushFarhadi.png) |
+| Santina Lin |    | Farnush Farhadi |
+|  Bioinformatics program <hello@santina.me> | |  Bioinformatics program <farnush.farhadi@gmail.com> |
+
+
 
 <!-- [Sara Mostafavi](http://www.stat.ubc.ca/~saram/), lead instructor
 
