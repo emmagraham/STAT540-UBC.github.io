@@ -9,8 +9,10 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-<span style="color: red">**New announcement: Accept your invitation to GitHub organization**</span>
-  
+<span style="color: VioletRed">**New announcement: Accept your invitation to GitHub organization**</span>
+
+<span style="color: red">**Next deadline: Practie assignment - Jan. 18th**</span>
+
 ### UBC STAT 540
 
 STAT 540 is a 3 credit course with a mandatory computing seminar.
