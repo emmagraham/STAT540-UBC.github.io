@@ -9,7 +9,7 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-<span style="color: VioletRed">**New announcement: Accept your invitation to GitHub organization**</span>
+<span style="color: red">**[New announcement](https://stat540-ubc.github.io/subpages/announcements.html): Accept your invitation to GitHub organization**</span>
 
 <span style="color: red">**Next deadline: Practie assignment - Jan. 18th**</span>
 
