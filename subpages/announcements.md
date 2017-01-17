@@ -7,6 +7,9 @@ output:
       after_body: ../include/nothing.html
 ---
 
+### Late penalty for homework submission
+All the late penalty information is posted along with the assignments in the syllabus page. 
+
 ### Accept your invitation to the STAT540 organization
 Hi, all. If you did the survey, you should have gotten an email that you have been invited to the STAT540 GitHub organization and that you have a personal repository created for you. That repository is where you'll put all your work and do submission by opening issues in it. 
 

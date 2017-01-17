@@ -9,9 +9,8 @@ output:
 
 # Statistical Methods for High Dimensional Biology
 
-<span style="color: red">**[New announcement](https://stat540-ubc.github.io/subpages/announcements.html): Accept your invitation to GitHub organization**</span>
-
 <span style="color: red">**Next deadline: Practie assignment - Jan. 18th**</span>
+<span style="color: red">**Late submission information posted**</span>
 
 ### UBC STAT 540
 

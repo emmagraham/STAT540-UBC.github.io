@@ -33,12 +33,15 @@ Officially none BUT here in reality ...
 
 ### Evaluation
 
+Students may ask for extensions with a documented excuse (like: computer caught on fire, sickness). No "I just need more time" extensions.
+
 **Warm-up Assignment (5%)**
 
 - The assignment is worth 5 points.
 - tests basic knowledge of GitHub, R and Rmarkdown
 - <span style="color: red">Due date: **Jan 18, 2017**</span>
 - [Assignment instruction](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/practice_assignment/practice_assignment.md)
+- Late penalty: -1 point per day
 
 **Paper critique (5%)**
 
@@ -47,6 +50,7 @@ Officially none BUT here in reality ...
 - Instruction on the paper critiques will be posted shortly
 - <span style="color: red">Due date: **Feb 22, 2017**</span>
 - [Paper critique instruction](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/paper_critique/PRguideline.md)
+- Late penalty: -1 points per day
 
 **Homework (30%)**: 
 
@@ -56,6 +60,7 @@ Officially none BUT here in reality ...
 - <span style="color: red">Due date for questions 6 - 8 (11 pts): **Mar 22, 2017**</span>
 - 5 points will be on mechanics. 
 - [Assignment questions](https://github.com/STAT540-UBC/STAT540-UBC.github.io/blob/master/homework/assignment/homework.md)
+- Late penalty: -5 points per day
 
 **Group project (60%)**: 
 
