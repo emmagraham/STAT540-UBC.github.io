@@ -74,8 +74,7 @@ Students may ask for extensions with a documented excuse (like: computer caught 
     - <span style="color: red">**April 8, 2017**</span>: Individual report deadline
 - Grading and deliverable 
     - Primary deliverable is a poster. Each student also produces a short report 
-    - Planning + project + poster session - 50 points 
-    - Peer evaluation - 10 points 
+    - Planning + project + poster session - 60 points 
 - Tip: try to form a group of diverse talents
 - [More information on group project](https://stat540-ubc.github.io/subpages/assignments.html#final-group-project) 
 
